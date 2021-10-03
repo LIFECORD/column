@@ -1,3 +1,22 @@
+[dongascience_parkjy]
+title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
+url = "https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com"
+entrySelector = "div.article-A2 ul li"
+titleSelector = "dd span.tit"
+linkSelector = "a"
+contentSelector = "span.cont"
+waitUntil = "networkidle"
+
+[naver_dongascience_parkjy]
+title = "동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스"
+url = "https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&sid1=110&cid=1077376"
+entrySelector = "ul.tmp_bx li.tmp.small2"
+titleSelector = "dl.cnt dt.t a"
+linkSelector = "dl > dt > a"
+contentSelector = "dd.c"
+imageSelector = "div.thumb a img"
+waitUntil = "networkidle"
+
 [daum_dongascience_parkjy]
 title = "다음 뉴스 ─ 박진영의 사회심리학"
 url = "https://news.daum.net/series/943444"
