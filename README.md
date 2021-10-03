@@ -2,7 +2,7 @@
 https://lifecord.github.io/column/all.xml
 
 ## 동아사이언스
-### 박진영의 사회심리학
+### 박진영의 심리학 칼럼리스트
 - https://lifecord.github.io/column/dongascience_parkjy.xml
 - https://lifecord.github.io/column/naver_dongascience_parkjy.xml
 - https://lifecord.github.io/column/daum_dongascience_parkjy.xml
