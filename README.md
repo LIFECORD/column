@@ -1,6 +1,12 @@
 # 칼럼
 https://lifecord.github.io/column/all.xml
 
+## 동아사이언스
+### 박진영의 사회심리학
+- https://lifecord.github.io/column/dongascience_parkjy.xml
+- https://lifecord.github.io/column/naver_dongascience_parkjy.xml
+- https://lifecord.github.io/column/daum_dongascience_parkjy.xml
+
 ## 다음 뉴스 ─ 연재
 - [동아사이언스] 박진영의 사회심리학: https://lifecord.github.io/column/daum_dongascience_parkjy.xml
 - [경향신문] 이진송의 아니 근데: https://lifecord.github.io/column/daum_khan_quarterlyalone.xml
