@@ -84,18 +84,18 @@ linkSelector = "a.link_thumb"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
 
-[daum_hani_tintin]
-title = "다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이"
-url = "https://entertain.daum.net/news/series/3306"
+[daum_khan_plusratioquamvis]
+title = "다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이"
+url = "https://news.daum.net/series/5024350"
 entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_thumb"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
 
-[daum_khan_plusratioquamvis]
-title = "다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이"
-url = "https://news.daum.net/series/5024350"
+[daum_hani_tintin]
+title = "다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이"
+url = "https://entertain.daum.net/news/series/3306"
 entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_thumb"
