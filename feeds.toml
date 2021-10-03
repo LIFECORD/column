@@ -1,3 +1,13 @@
+[khan_sungsooh]
+title = "경향신문 ─ 홍성수의 물구나무"
+url = "https://www.khan.co.kr/series/articles/ao376"
+entrySelector = "ul.df-list li"
+titleSelector = "h2.tit a"
+linkSelector = "div h2 a"
+dateSelector = "span.byline"
+contentSelector = "a.line_clamp2"
+waitUntil = "networkidle"
+
 [ohmynews_mongsill]
 title = "오마이뉴스 ─ 신필규 시민기자"
 url = "http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855"
