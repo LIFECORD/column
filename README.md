@@ -2,7 +2,8 @@
 https://lifecord.github.io/column/all.xml
 
 ## 경향신문
-- https://lifecord.github.io/column/khan_sungsooh.xml
+- 홍성수의 물구나무: https://lifecord.github.io/column/khan_sungsooh.xml
+  - 다음 뉴스: https://lifecord.github.io/column/daum_khan_sungsooh.xml
 
 ## 오마이뉴스
 ### 신필규 시민기자
