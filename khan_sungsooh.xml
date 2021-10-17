@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao376</id>
     <title>경향신문 ─ 홍성수의 물구나무</title>
-    <updated>2021-10-17T21:22:30.374Z</updated>
+    <updated>2021-10-17T22:21:36.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선, 혐오에 대응할 준비는 되어 있나]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202110180300025</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202110180300025"/>
+        <updated>2021-10-17T22:14:56.626Z</updated>
+        <content type="html"><![CDATA[‘동성애에 반대한다’, ‘동성애를 좋아하지 않는다’…. 전 국민이 지켜보는 대선 토론 방송에서 나온 말이다. 그것이 2017년 대한민국의 수준이었다. 그로부터 4년이 지났고 새로운 대통령을 뽑는 시간이 되었지만 상황은 크게 달라지지 않았다. 어쨌든 차별에는 반대한다는 것이 문재인 정부의 공식 입장이었지만, 4년 동안 특별한 진전은 없었다. 시민사회는 차별금지법 제정에 모든 것을 걸고 나섰지만, 정부는 여전히 묵묵부답이다. 입법은 국회 소관이라는 원론적인 입장...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남혐 손가락 논쟁을 넘어서]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202108230300055</id>
