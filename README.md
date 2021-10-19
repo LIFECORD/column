@@ -4,7 +4,7 @@ https://lifecord.github.io/column/all.xml
 ## 경향신문
 - 홍성수의 물구나무: https://lifecord.github.io/column/khan_sungsooh.xml
   - 다음 뉴스: https://lifecord.github.io/column/daum_khan_sungsooh.xml
-  - 페이스북: https://www.facebook.com/ssungsooh
+  - [페이스북](https://www.facebook.com/ssungsooh) | [트위터](https://twitter.com/sungsooh) | [블로그](https://transproms.tistory.com/) [RSS](https://transproms.tistory.com/rss)
 - 이진송의 아니 근데: https://lifecord.github.io/column/khan_ac296.xml
   - 다음 뉴스: https://lifecord.github.io/column/daum_khan_quarterlyalone.xml
 - 위근우의 리플레이: https://lifecord.github.io/column/khan_ac264.xml
