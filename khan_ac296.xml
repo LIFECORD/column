@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-11-02T08:26:55.470Z</updated>
+    <updated>2021-11-02T09:22:47.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현장에서 벗기면 된다?···사전 동의 없는 베드신은 예술 아닌 성폭력]]></title>
+        <id>https://www.khan.co.kr/national/national-general/article/202110292026005</id>
+        <link href="https://www.khan.co.kr/national/national-general/article/202110292026005"/>
+        <updated>2021-11-02T09:15:24.757Z</updated>
+        <content type="html"><![CDATA[넷플릭스 드라마 ‘마이 네임’주연 한소희의 베드신 논란사전 고지 없는 노출 강요는2015년 반민정의 폭로 등어제오늘의 일이 아니다당신은 어느 날 아르바이트를 시작했다. 조건과 업무를 파악한 후 계약했다. 성실하게 일하는 와중에 갑자기 상대방이 계약 사항에 없던 일을 요구한다. 유리창을 닦기로 했는데 겸사겸사 바닥까지 닦아달라고만 해도 욕 나온다. 그런데 아예 다른 일이고, 노출이나 신체 접촉 같은 민감한 사안이 포함된다면? 그것도 당일 통보로! 멋지게 노...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tvN ‘갯마을 차차차’ 속 서울 깍쟁이 길들이기 서사가 불편한 이유]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202110151610005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/national-general/article/202106251641005"/>
         <updated>2021-10-07T09:16:21.839Z</updated>
         <content type="html"><![CDATA[최근 박지성 JS재단 이사장(전 축구국가대표 선수)이 악성 댓글을 남긴 누리꾼들을 경찰에 고소했다. 영국에 거주하면서 유상철 전 인천 유나이티드 감독의 빈소에 조문을 가지 못한 것, 조의를 표현하지 않은 것을 두고 무분별한 비난을 퍼부었기 때문이다. 박지성의 아내인 김민지 전 아나운서가 운영하는 유튜브 채널 ‘만두랑’도 공격당했다. 김민지 전 아나운서는 유튜브 채널에 글을 올려 부당한 비난을 정면으로 반박했다. “슬픔을 증명하라고요? 조의를 기사로 내서 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그의 개성을 ‘이모’에 빗대지 말라…정형화된 이모는 없다]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202106111638015</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202106111638015"/>
-        <updated>2021-10-07T09:16:21.840Z</updated>
-        <content type="html"><![CDATA[최근 아이돌그룹 샤이니의 멤버 키가 MBC 예능 &lt;나 혼자 산다&gt;에 출연하면서 ‘이모’라는 캐릭터를 얻었다. 깔끔하게 일상을 관리하고, 활발한 리액션을 할 때마다 ‘키 이모’라는 자막이 붙는다. 그런 이모를 실제로 본 적 없더라도 호칭에 딸려오는 느낌만은 어쩐지 익숙하다. 우리에게는 오랜 시간 사회가 공들여 주입한 가족 이미지와 성역할 고정관념이라는, 질기고도 위대한 유산이 있으니까. 무엇이 엄마 같은지, 할머니다운지, 어떻게 해야 딸 같은지 본능적...]]></content>
     </entry>
 </feed>
