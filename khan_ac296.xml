@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-11-12T06:22:16.693Z</updated>
+    <updated>2021-11-12T07:19:29.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아들의 커밍아웃…불행하냐고? 아니, 그게 뭐 어때서]]></title>
+        <id>https://www.khan.co.kr/national/media/article/202111121609015</id>
+        <link href="https://www.khan.co.kr/national/media/article/202111121609015"/>
+        <updated>2021-11-12T07:16:35.489Z</updated>
+        <content type="html"><![CDATA[한 사람의 세계는 필연적으로 편협하다. 우리는 물리적 한계가 뚜렷한 몸에 기거하며, 경험이 선을 그어놓은 범위 안에서 살아간다. 니체의 말처럼 인간은 유리잔에 빠져, 그 안에서 보고 느끼는 세상이 전부라고 생각하는 파리다. 그래, 우물 안 개구리, 그거. 하지만 서로의 우물과 하늘을 공유할 때, 울타리를 조금씩 무너뜨릴 수 있다. 서로의 세계를 확장하며, 당연하다고 여긴 관습과 폭력을 넘어설 수 있다. 나는 독립출판물 ‘계간홀로’를 8년째 만드는 중이다. 우...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현장에서 벗기면 된다?···사전 동의 없는 베드신은 예술 아닌 성폭력]]></title>
         <id>https://www.khan.co.kr/national/national-general/article/202110292026005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/national-general/article/202107091647015"/>
         <updated>2021-10-07T09:16:21.837Z</updated>
         <content type="html"><![CDATA[가만히 있어도 비지땀이 쏟아진다. 이럴 때는 월드스타 비가 아니더라도 ‘태양을 피하는 방법’ 정도는 숙지해야 할 것 같다. 특히나 여자라면, 수단과 방법을 가리지 않고 노화와 그을음의 원인인 자외선을 차단해야 한다. 그런데 누구보다 ‘비주얼’에 민감할 여자 연예인들이 그늘 한 점 없는 뙤약볕 아래에서 종횡무진 달린다. 서로 밀치고, 동료끼리 다독이며, 벌겋게 익은 얼굴로 포효한다. SBS 수요 예능 &lt;골 때리는 그녀들&gt;의 한 장면이다.설 특집 파일럿 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슬픔을 증명하라는 부당한 요구, 당신에게는 그럴 권리가 없다]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202106251641005</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202106251641005"/>
-        <updated>2021-10-07T09:16:21.839Z</updated>
-        <content type="html"><![CDATA[최근 박지성 JS재단 이사장(전 축구국가대표 선수)이 악성 댓글을 남긴 누리꾼들을 경찰에 고소했다. 영국에 거주하면서 유상철 전 인천 유나이티드 감독의 빈소에 조문을 가지 못한 것, 조의를 표현하지 않은 것을 두고 무분별한 비난을 퍼부었기 때문이다. 박지성의 아내인 김민지 전 아나운서가 운영하는 유튜브 채널 ‘만두랑’도 공격당했다. 김민지 전 아나운서는 유튜브 채널에 글을 올려 부당한 비난을 정면으로 반박했다. “슬픔을 증명하라고요? 조의를 기사로 내서 ...]]></content>
     </entry>
 </feed>
