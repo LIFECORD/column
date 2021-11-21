@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5190096</id>
     <title>다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무</title>
-    <updated>2021-11-21T17:23:58.352Z</updated>
+    <updated>2021-11-21T18:21:48.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정치인만 모르는 '차별의 빨간불']]></title>
+        <id>https://v.daum.net/v/20211122030111084</id>
+        <link href="https://v.daum.net/v/20211122030111084"/>
+        <updated>2021-11-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[경향신문] 차별금지법·평등법안이 발의되었고 국회 국민동의청원도 성공했지만 국회는 묵묵부답이다. ‘차별에는 반대하지만 차별금지법 제정에는 사회적 합의가 필요하다’는 지겨운 얘기만 반복되고 있다. 유력 대선 주자인 이재명 후보와 윤석열 후보 역시 마찬가지다. 단언컨대, 이런 입장은 차별에 반대하는 것이 아니다. 진심으로 차별에 반대한다면 차별을 금지할 수 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선, 혐오에 대응할 준비는 되어 있나]]></title>
         <id>https://v.daum.net/v/20211018030405029</id>
