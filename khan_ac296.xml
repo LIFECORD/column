@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-11-26T07:18:18.035Z</updated>
+    <updated>2021-11-26T08:21:41.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팀 내분이 여자배구 선수들의 ‘스타병’ 때문이라고?]]></title>
+        <id>https://www.khan.co.kr/national/media/article/202111261607005</id>
+        <link href="https://www.khan.co.kr/national/media/article/202111261607005"/>
+        <updated>2021-11-26T08:18:41.862Z</updated>
+        <content type="html"><![CDATA[올해 가장 ‘핫’한 스포츠를 꼽자면, 단연 여자배구다. 2020 도쿄 올림픽에서 끝까지 포기하지 않는 투지와 팀워크를 보여주며 4강까지 가는 기염을 토한 여자배구는 숱한 명장면과 유행어를 탄생시켰다. 마감이 임박해 글을 쓰는 나 역시 지금도 외치고 있다. “해보자, 해보자, 해보자, 후회하지 말고!” 올림픽이 끝난 후 여자배구 선수들은 각종 TV 프로그램에서 섭외 1순위였고, 관심과 인기는 자연스럽게 스포츠 종목 자체로 옮겨갔다. 여자배구는 개막 이래 케이블TV...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아들의 커밍아웃…불행하냐고? 아니, 그게 뭐 어때서]]></title>
         <id>https://www.khan.co.kr/national/media/article/202111121609015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202107231626015"/>
         <updated>2021-10-07T09:16:21.837Z</updated>
         <content type="html"><![CDATA[“애들 때문에 사는 거지.” 많은 부부가 들숨에 한 번, 날숨에 한 번 하는 말이다. 청자가 자녀라면 ‘애들’은 ‘너희’로 치환된다. 결혼은 사랑의 결실이고, 가정은 숭고한 것이며, 아이는 ‘부’와 ‘모’가 있는 ‘정상적’인 가정에서 행복하고 반듯하게 자란다는데…? 이 뿌리 깊은 ‘정상가족’ 신화는, 현실에 놓고 뜯어보면 곳곳이 너덜거린다. ‘애들 때문에 산다’는 말은 두 가지 층위로 읽힐 수 있다. 긍정적인 경우는 사랑이 사라져도, 양육자끼리 육아라는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자가 무슨 축구냐고?… ‘이 좋은 것’을 가르쳐 준 적은 있고?]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202107091647015</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202107091647015"/>
-        <updated>2021-10-07T09:16:21.837Z</updated>
-        <content type="html"><![CDATA[가만히 있어도 비지땀이 쏟아진다. 이럴 때는 월드스타 비가 아니더라도 ‘태양을 피하는 방법’ 정도는 숙지해야 할 것 같다. 특히나 여자라면, 수단과 방법을 가리지 않고 노화와 그을음의 원인인 자외선을 차단해야 한다. 그런데 누구보다 ‘비주얼’에 민감할 여자 연예인들이 그늘 한 점 없는 뙤약볕 아래에서 종횡무진 달린다. 서로 밀치고, 동료끼리 다독이며, 벌겋게 익은 얼굴로 포효한다. SBS 수요 예능 &lt;골 때리는 그녀들&gt;의 한 장면이다.설 특집 파일럿 ...]]></content>
     </entry>
 </feed>
