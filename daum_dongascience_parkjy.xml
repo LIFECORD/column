@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2021-12-17T20:18:55.328Z</updated>
+    <updated>2021-12-17T21:17:26.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아직 아무 일도 일어나지 않았어. 지금 나는 괜찮아"]]></title>
+        <id>https://v.daum.net/v/20211218060012215</id>
+        <link href="https://v.daum.net/v/20211218060012215"/>
+        <updated>2021-12-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[최악의 상황에서도 눈 앞의 순간에 집중하면 평온함을 찾을 수 있다는 이야기가 있다. 머리로는 이해되지만 실제로는 어떤 것인지 잘 와 닿지 않았는데 최근 어떤 사례를 듣고 조금이나마 잘 이해할 수 있게 되었다.&nbsp; 아는 선생님이 미국에서 수업을 하고 계셨다. 한창 미국에서 도널드 트럼프와 힐러리 클린턴이대통령 선거에서 맞붙었을 때 하필이면 투표 바로 다음날이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[규범이 촘촘한 문화 가진 국가, 코로나19 피해 적었다]]></title>
         <id>https://v.daum.net/v/20211211060012928</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211002060033949"/>
         <updated>2021-10-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[인간은 '인지적 구두쇠(cognitive miser)'라는 말이 있다. 한정된 인지적 자원으로 세상 모든 것을 하나하나 다 신경쓰고 사는 것은 불가능하므로 삶의 큰 부분을 습관, 고정관념, 편견, 인상, 동조 등에 기대 별 생각 없이 처리하고 정말 필요한 일에만 사고과정을 개입시킨다는 뜻이다.&nbsp; 예컨대 사람들에게는 10년 후 또는 당장 내년에 자신이 몸 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
-        <id>https://v.daum.net/v/20210918060024179</id>
-        <link href="https://v.daum.net/v/20210918060024179"/>
-        <updated>2021-09-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 대상으로 조사한 결과 여러 사회적 관계 중 ‘친척’들과 함께 하는 자리가 가장 불편하고 응답했다는 조사 결과도&nbsp;있다. 여기에 제사나 명절 음식 차리기, 여성에게 과하게 편중된 명절 노동, 개인의 삶을 누구든 참견할]]></content>
     </entry>
 </feed>

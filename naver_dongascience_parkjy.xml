@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 20:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 21:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]"아직 아무 일도 일어나지 않았어. 지금 나는 괜찮아"]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26551808&amp;oid=584&amp;aid=0000017153&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26551808&amp;oid=584&amp;aid=0000017153&amp;ptype=021</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아직 다가오지 않은 순간을 두려워하는만큼 정작 중요한 현재를 살 기회를 놓칠 수 있다. 게티이미지뱅크 제공 최악의 상황에서도 눈 앞의 순간에 집중…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/18/17153.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]규범이 촘촘한 문화 가진 국가, 코로나19 피해 적었다]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26551256&amp;oid=584&amp;aid=0000017048&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 31 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 학교에서 일어나는 폭력이나 성적 괴롭힘을 방지하는 데 있어 가장 중요하게 여겨지는 요소가 '제3자의 적극적 개입'이다. 교실 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/31/15349.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]"우리는 딱 하나이기보다 여러가지다"]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26539742&amp;oid=584&amp;aid=0000015244&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26539742&amp;oid=584&amp;aid=0000015244&amp;ptype=021</guid>
-            <pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 아이들을 모아놓고 무작위로 그룹을 지어 한 그룹에는 '독수리팀'이라는 이름을 붙여주고 또 다른 그룹에는 '사자팀'이라는 이름…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/24/15244.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

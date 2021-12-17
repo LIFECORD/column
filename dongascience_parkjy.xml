@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-12-17T20:18:55.318Z</updated>
+    <updated>2021-12-17T21:17:26.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]“아직 아무 일도 일어나지 않았어. 지금 나는 괜찮아”]]></title>
+        <id>https://www.dongascience.com/news.php?idx=51151</id>
+        <link href="https://www.dongascience.com/news.php?idx=51151"/>
+        <updated>2021-12-18T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[최악의 상황에서도 눈 앞의 순간에 집중하면 평온함을 찾을 수 있다는 이야기가 있다. 머리로는 이해되지만 실제로는 어떤 것인지 잘 와 닿지 않았는데 최근 어떤 사례를 듣고 조금이나마 잘 이해할 수 있게 되었다. 아는 선생님이 미국에서 수업을 하고 계셨다. 한창 미국에서 도널드 트럼프와 힐러리 클린턴이대통령 선거에서 맞붙었을 때 하필이면 투표 바로 다음날이 기말고사 시험 날이었다. 투표 결과는 당시 많은 이들의 예상을 깨고 트럼프 당선이었고 수업을 듣는 학생들도 큰 충격을 받았다. 아니나 다를까 시험 직전까지 충격이 너무 커서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학]규범이 촘촘한 문화 가진 국가, 코로나19 피해 적었다]]></title>
         <id>https://www.dongascience.com/news.php?idx=51011</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=49923"/>
         <updated>2021-10-16T11:05:40.000Z</updated>
         <content type="html"><![CDATA[스트레스를 잘 관리하면서 건강하게 살아가고 싶다면 우선 살아가는 한 해야 할 일은 영원히 없어지지 않을 것이므로 해야 할 일을 100% 해내고 해야 할 일 목록을 완전히 없애는 데 많은 노력을 들이기보다 70% 정도만 해도 만족할 필요가 있다. 비슷하게 스트레스의 존재 또한 사라지지 않을 것이므로 스트레스의 존재를 받아들일 줄 아는 것도 중요하다. 해야 할 일 목록이나 스트레스를 완전히 없애겠다고 하는 등 기대치가 너무 높으면 매일매일 실패 속에서 살아갈 수 밖에 없기 때문이다. 이렇게 어쩔 수 없이 생기는 해야 할 일과 스트레스에 대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 오늘 할 일의 70%라도 해냈다면 성공했다고 기뻐하자]]></title>
-        <id>https://www.dongascience.com/news.php?idx=49776</id>
-        <link href="https://www.dongascience.com/news.php?idx=49776"/>
-        <updated>2021-12-17T05:16:23.813Z</updated>
-        <content type="html"><![CDATA[눈코 뜰 새 없이 바쁜 나날을 보낸다는 말을 실감하고 있는 요즘이다. 일을 하나 마무리 지었다는 성취감을 느낄 겨를도 없이 또 다른 일이 밀려오고 데드라인 한 두 시간 전에 까먹은 일이 있었다는 사실을 깨닫는 등 밥은 어떻게 먹고 숨은 어떻게 쉬고 있는지 알 수 없는 시간들을 보내고 있다. 살다보면 일이 없는 때가 있는 반면 일이 한꺼번에 몰아칠 때도 있다. 그럴 때면 스트레스에 짓눌리는 경험을 하곤 한다. 실제로 스트레스라는 영어 단어는 건물이나 다리가 큰 하중을 견딘다고 할 때 압박감 또는 하중이라는 의미로 쓰이기도 한다. 그러...]]></content>
     </entry>
 </feed>
