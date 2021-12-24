@@ -31,6 +31,17 @@ contentSelector = "a.line_clamp2"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[khan_ao105]
+title = "경향신문 ─ 정희진의 낯선 사이"
+url = "https://www.khan.co.kr/series/articles/ao105"
+entrySelector = "ul.df-list li"
+titleSelector = "h2.tit a"
+linkSelector = "div h2 a"
+dateSelector = "span.byline"
+contentSelector = "a.line_clamp2"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [ohmynews_mongsill]
 title = "오마이뉴스 ─ 신필규 시민기자"
 url = "http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855"
