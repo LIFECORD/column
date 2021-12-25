@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2021-12-18T11:16:17.936Z</updated>
+    <updated>2021-12-25T02:17:30.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['설강화'···시대에 휘말린 청춘의 사랑, 이 하나를 위해 너무 많은 것을 오염시켰다]]></title>
+        <id>https://www.khan.co.kr/national/media/article/202112241620005</id>
+        <link href="https://www.khan.co.kr/national/media/article/202112241620005"/>
+        <updated>2021-12-25T02:14:23.704Z</updated>
+        <content type="html"><![CDATA[드라마 &lt;설강화&gt;가 12월18일 JTBC와 디즈니플러스에서 방영을 시작했다. 배우 정해인과 걸그룹 ‘블랙핑크’의 멤버 지수가 주연을, 유현미 작가와 조현탁 PD가 극본과 연출을 맡았다. 한편, 이 드라마의 방영 중지를 요청하는 국민청원에는 12월21일 기준 32만명 이상이 서명했다. 시청자들이 불매운동을 벌이면서 광고주들도 줄줄이 제작 지원을 철회하는 중이다. &lt;설강화&gt;는 지난 3월 시놉시스 공개 때도 방영 중지 청원이 올라와 20만명 이상이 동의한 적 있...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기민하게 활용되는 공포와 연민…시청자만 있고 피해자는 없다]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202112101629015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/national-general/article/202108201626005"/>
         <updated>2021-12-16T12:25:00.582Z</updated>
         <content type="html"><![CDATA[절기란 참 신기하다. 입추가 지나자 귀신같이 아침저녁으로 선선한 바람이 분다. 불볕더위와 함께 2020 도쿄 올림픽도 끝났다. 이번 올림픽에서도 많은 스타가 탄생했다. 올림픽이 끝나면 으레 그렇듯이, 각종 방송 프로그램에서 반가운 얼굴을 다시 만날 수 있을 것이다. 기대와 함께 걱정이 앞서기도 했다. 특히 예능은 ‘얼짱’ ‘국민 여동생’ ‘성공해서 돈 많은’ 프레임에 여성 선수를 끼워 넣는 요주의(?) 프로그램. 지난 8월12일, KBS는 &lt;다큐 인사이트 : 국...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실수가 아니라 버릇이다… 폭력을 ‘논란’으로 희석시킨 것도 언론이다]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202108061617015</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202108061617015"/>
-        <updated>2021-12-16T12:25:00.590Z</updated>
-        <content type="html"><![CDATA[뚜껑을 열어보기 전에는 모르는 것들이 있다. 유례없는 팬데믹 상황으로 도쿄 올림픽을 둘러싼 시선은 개막 전까지 회의적이었다. 도쿄올림픽조직위원회가 자신하던 ‘버블 방역’이 물거품이 되어버렸고, 허술하고 배려 없는 운영은 여론의 뭇매를 맞았다. 전 세계인의 축제라는데 이렇게 심드렁할 수 있나? 역대 가장 미지근하던 올림픽의 열기가 예상을 깨고 후끈 달아올랐다. 선수들의 열정과 드라마 때문이다. 또한 이전과는 달라진 스포츠 감수성이나, 많은 이들이 공유하...]]></content>
     </entry>
 </feed>
