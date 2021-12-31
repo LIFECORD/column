@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5024350</id>
     <title>다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이</title>
-    <updated>2021-12-31T07:14:30.444Z</updated>
+    <updated>2021-12-31T08:16:25.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼프로TV'는 어떻게 지난 대선 손석희의 자리를 대체했나]]></title>
+        <id>https://v.daum.net/v/20211231170650576</id>
+        <link href="https://v.daum.net/v/20211231170650576"/>
+        <updated>2021-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[경향신문] ‘삼프로TV가 나라를 구했다.’ 경제 및 주식 유튜브 채널 ‘삼프로TV’를 검색하기 위해 구글에 ‘삼프로’까지만 입력하면 자동 완성되는 문장이다. 에두를 것 없다. 지난 12월25일 ‘삼프로TV’는 현재 가장 유력한 두 대선 후보인 이재명 더불어민주당 후보, 윤석열 국민의힘 후보와 각각 진행한 경제 정책 인터뷰를 공개했고, 현재(12월28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[, 노홍철의 넷플릭스 타령이 드러내는 글로벌 콘텐츠의 진실]]></title>
         <id>https://v.daum.net/v/20211217163730115</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210702214143804"/>
         <updated>2021-07-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[[경향신문] 너무 늦게, 하지만 그래도 아슬아슬하게 도착한 미국 사회의 반성문. 지난 6월 왓챠를 통해 한국에 공개된 다큐멘터리 &lt;프레이밍 브리트니&gt;를 보며 든 생각이다. 1990년대 말부터 2000년대 초까지, 소위 세기말과 뉴밀레니엄의 시기를 온전히 지배했던 팝스타 브리트니 스피어스의 롤러코스터 같은 삶을 담아낸 이 다큐에서 브리트니는 미국 전 국민의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84와 달팽이 인간, 그리고 '이대남'이라는 정체성]]></title>
-        <id>https://v.daum.net/v/20210618165518674</id>
-        <link href="https://v.daum.net/v/20210618165518674"/>
-        <updated>2021-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[경향신문] “저 요즘 만화에 달팽이가 몇 주째 나오고 있거든요. 욕을 엄청… (먹고 있어요).” 지난 6월11일 방송된 MBC &lt;나 혼자 산다&gt;에서 기안84는 전현무가 현재 거주 중인 한옥에서 기르는 달팽이를 보며 이렇게 말했다. 오랜만에 출연한 전현무는 “너 아직도 욕먹고 있니?”라고 물었다. 정말 그렇다. 기안84의 웹툰 &lt;복학왕&gt; 중 최근 완결된]]></content>
     </entry>
 </feed>

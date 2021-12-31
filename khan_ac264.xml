@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2021-12-31T07:14:30.445Z</updated>
+    <updated>2021-12-31T08:16:25.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼프로TV'는 어떻게 지난 대선 손석희의 자리를 대체했나]]></title>
+        <id>https://www.khan.co.kr/national/media/article/202112311644005</id>
+        <link href="https://www.khan.co.kr/national/media/article/202112311644005"/>
+        <updated>2021-12-31T08:13:41.806Z</updated>
+        <content type="html"><![CDATA[‘삼프로TV가 나라를 구했다.’ 경제 및 주식 유튜브 채널 ‘삼프로TV’를 검색하기 위해 구글에 ‘삼프로’까지만 입력하면 자동 완성되는 문장이다. 에두를 것 없다. 지난 12월25일 ‘삼프로TV’는 현재 가장 유력한 두 대선 후보인 이재명 더불어민주당 후보, 윤석열 국민의힘 후보와 각각 진행한 경제 정책 인터뷰를 공개했고, 현재(12월28일 기준) 이재명 후보의 영상은 조회 수 274만회, 윤석열 후보 영상은 175만회를 기록했다. 조회 수도 이재명 후보 쪽이 높았지만...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<먹보와 털보>, 노홍철의 넷플릭스 타령이 드러내는 글로벌 콘텐츠의 진실]]></title>
         <id>https://www.khan.co.kr/national/media/article/202112171634005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/national-general/article/202108271655005"/>
         <updated>2021-12-27T16:16:27.877Z</updated>
         <content type="html"><![CDATA[실패한 사과문은 언제나 흥미로운 텍스트다. 말한 것보다 말하지 않은 것에 더 많은 의미와 진실이 담겨 있다는 점에서 그렇다. 지난 8월21일 공식 인스타그램 계정을 통해 올린 MBC &lt;나 혼자 산다&gt; 제작진의 사과문은 철저한 저자세에도 불구하고 놀라울 정도로 사건의 진실에 대해선 함구한다. 지난 13일에 방영한 &lt;나 혼자 산다&gt;에서 만화가 기안84는 &lt;복학왕&gt; 완결 기념 여행을 준비하고 기대에 들뜨지만, 정작 전현무를 제외한 다른 멤버들은 오지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신남성연대와 ‘케밥녀’, 차별주의자들은 어떻게 댓글을 게시판으로 활용하나]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202108131723015</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202108131723015"/>
-        <updated>2021-12-27T16:16:27.877Z</updated>
-        <content type="html"><![CDATA[집에도 안 가고 잠도 안 자고 계속 회사에 상주하고는 있는데 할 일은 안 하는 직원을 보는 기분이다. 네이버에서 악플을 감지하는 ‘AI클린봇’ 이야기다. 두 가지 풍경을 보자. 성차별주의 단체인 ‘신남성연대’는 지난 8월2일부터 익명 메신저 디스코드를 통해 포털 내 젠더 이슈 기사의 링크를 걸어 반여성주의적인 내용으로 베스트 댓글을 점유하는 활동을 하고 있다. 이를 가장 먼저 고발한 경향신문 기사의 네이버 댓글란에도 그들의 베스트 댓글이 최상단에 자리...]]></content>
     </entry>
 </feed>
