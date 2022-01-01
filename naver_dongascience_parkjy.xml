@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 00:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 02:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]나를 실적 달성 도구 보고 착취할 때 이득을 보는 건 내가 아니다]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26553951&amp;oid=584&amp;aid=0000017306&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26553951&amp;oid=584&amp;aid=0000017306&amp;ptype=021</guid>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 애플워치를 샀다. 예뻐서, 그리고 운동량을 좀 기록해보고 분발해 보려는 목적으로 과감하게 질렀다. 사지 않았더라면 계속해서 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/01/01/17306.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]"아직 아무 일도 일어나지 않았어. 지금 나는 괜찮아"]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26551808&amp;oid=584&amp;aid=0000017153&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘불안’이 문제였던 상황에는 구체적인 조언이, ‘슬픔’이 문제였던 상황에는 조언보다는 위로가 각각 더 큰 도움이 된다. 게티이미지뱅크 제공 조언이나…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/07/15454.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]눈 앞에 보이는 괴롭힘을 방관하는 사람들]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26540300&amp;oid=584&amp;aid=0000015349&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26540300&amp;oid=584&amp;aid=0000015349&amp;ptype=021</guid>
-            <pubDate>Sat, 31 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 학교에서 일어나는 폭력이나 성적 괴롭힘을 방지하는 데 있어 가장 중요하게 여겨지는 요소가 '제3자의 적극적 개입'이다. 교실 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/31/15349.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
