@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 22:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 23:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 바디스캔의 핵심]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26556196&amp;oid=584&amp;aid=0000017481&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26556196&amp;oid=584&amp;aid=0000017481&amp;ptype=021</guid>
+            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 최근 마음챙김 명상 특강을 들을 일이 있다. 가장 기본적인 명상을 몇 가지 체험해보는 것이 주된 내용이다. 그 중 바디스캔(bod…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/01/15/17481.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]성취 가능한 목표를 세우고 작심삼일을 자책하지 말라]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26554946&amp;oid=584&amp;aid=0000017395&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 21 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교모한 괴롭힘은 피해자가 자신의 피해 사실을 호소하는 것조차 어려울 때가 많다. 게티이미지뱅크 제공 직장 내 괴롭힘을 연구하는 연구자로부터 R…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/21/15630.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 까만 양을 색출하자는 진짜 까만 양들의 심리]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541116&amp;oid=584&amp;aid=0000015552&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541116&amp;oid=584&amp;aid=0000015552&amp;ptype=021</guid>
-            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[픽사베이 제공 '프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/14/15552.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
