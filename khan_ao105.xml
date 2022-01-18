@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2022-01-18T20:15:36.198Z</updated>
+    <updated>2022-01-18T21:16:40.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 대통령, BTS, 윤석열 후보 팬덤의 국민들]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202201190300015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202201190300015"/>
+        <updated>2022-01-18T21:13:44.127Z</updated>
+        <content type="html"><![CDATA[재현물이나 현실에서 정치인, 예술가 등 유명인에게 “팬입니다”라며 악수를 청하는 장면이 나오면 불길하다. 나는 스릴러 영화의 전조를 보는 착각에 빠져 혼자 시나리오를 쓰는 버릇이 있다. “팬이 안티가 되는 것은 시간문제”라는 식의 이야기라기보다는 호모 사피엔스의 숭배와 사랑의 관계를 생각하게 된다. 1961년 출간된 에드가 모랭의 &lt;스타&gt;는 우상의 역사로부터 시작, 현대 사회 대중문화의 정치경제학과 심리학을 다룬 역작이다. 영국의 영문 표기는 여전히...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희씨와 페미니즘]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202112220300015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202104070300025"/>
         <updated>2022-01-05T03:13:36.444Z</updated>
         <content type="html"><![CDATA[초등학교 반장 선거부터 나는 한 번도 기권한 적이 없다. 기권은 ‘전두환당’에 투표하는 것보다 더 나쁜 행동이라고 생각한다. 기권도 정치적 의사 표현이라면 보이콧 운동을 조직해야지, 기권은 최악이다. 하지만 이번 서울시장 보궐선거는 투표하고 싶지 않다(이 글은 투표일 전에 썼다).  일단, 더불어민주당은 후보를 내지 말았어야 했다. 이번 선거의 원인인 젠더 이슈의 현실은, 성소수자 인권을 내세운 오태양 후보의 홍보물이 훼손되는 수준이다. 지금 내게 이 상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이트리스트가 블랙리스트를 만든다]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202103100300045</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202103100300045"/>
-        <updated>2022-01-05T03:13:36.445Z</updated>
-        <content type="html"><![CDATA[논공행상(論功行賞). 요즘 말로, ‘화이트리스트’다. 원래 화이트리스트(국가)는 무역 용어로, 우대하는 상대방을 뜻하지만 최근에는 블랙리스트의 반대말로 권력자가 선호하는 인물로 통용되고 있다. 흑백, 인종주의적 표현이기도 하다. 어느 사회에서나 공동체에 기여한 바의 있고 없음, 크고 작음에 따른 보상은 당연하다. 나는 이 원리가 ‘코드 인사’ ‘제 사람 챙기기’ 등으로 왜곡되어서는 안 된다고 생각한다. 같이 일하려면 가치관이 맞아야 하고, 자신을 도와준 사람은...]]></content>
     </entry>
 </feed>
