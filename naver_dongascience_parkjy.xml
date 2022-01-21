@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 20:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 21:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 삶이 정체되어 있다고 느낄 때, 기억을 꺼내보라]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26557240&amp;oid=584&amp;aid=0000017549&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26557240&amp;oid=584&amp;aid=0000017549&amp;ptype=021</guid>
+            <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 얼마 전부터 갑자기 스마트폰 사진을 출력할 수 있는 프린터가 가지고 싶다는 마음이 생겼다. 원래 별로 있는지도 몰랐고 따라서 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/01/22/17549.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 바디스캔의 핵심]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26556196&amp;oid=584&amp;aid=0000017481&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/28/15734.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]어른이 더 하면 더 했지 덜 하지 않다]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541500&amp;oid=584&amp;aid=0000015630&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541500&amp;oid=584&amp;aid=0000015630&amp;ptype=021</guid>
-            <pubDate>Sat, 21 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교모한 괴롭힘은 피해자가 자신의 피해 사실을 호소하는 것조차 어려울 때가 많다. 게티이미지뱅크 제공 직장 내 괴롭힘을 연구하는 연구자로부터 R…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/21/15630.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

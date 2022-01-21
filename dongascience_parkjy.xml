@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2022-01-21T20:14:56.489Z</updated>
+    <updated>2022-01-21T21:12:15.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 삶이 정체되어 있다고 느낄 때, 기억을 꺼내보라]]></title>
+        <id>https://www.dongascience.com/news.php?idx=51868</id>
+        <link href="https://www.dongascience.com/news.php?idx=51868"/>
+        <updated>2022-01-22T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[얼마 전부터 갑자기 스마트폰 사진을 출력할 수 있는 프린터가 가지고 싶다는 마음이 생겼다. 원래 별로 있는지도 몰랐고 따라서 생각해본 적도 없는 기기라서 조금 당황스러운 마음이긴 하지만, 여튼 가지고 싶다는 마음이 생겨서 이것저것 찾아보는 중이다. 옛말에 남는 것은 사진이라고 했다. 사진첩에 잔뜩 쌓여만 가는 사진들을 간간히 한 두 개 출력해서 보이는 곳에 걸어두기라도 하면 좋은 기억들을 좀 더 잘 활용할 수 있을 것 같다는 생각이 들었다. 다양한 경험들을 해놓고서도 막상 “뭘 했더라”하고 스스로에게 질문하면 잘 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 바디스캔의 핵심]]></title>
         <id>https://www.dongascience.com/news.php?idx=51764</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=50485"/>
         <updated>2021-11-13T06:00:00.000Z</updated>
         <content type="html"><![CDATA[누군가와 친해지는 과정은 곧 속을 열어서 보여주는 과정이다. 처음에는 오늘 날씨, 직업, 사는 곳 같은 피상적인 이야기를 하지만 만남이 이어지면 점점 속 깊은 이야기를 하게 된다. 지금 어떤 생각과 감정을 느끼고 있는지 같은 내적 정보를 교류할 때 비로소 심리적 거리감이 줄어들기 시작한다. 겉으로 드러나는 피상적인 정보들은 진짜 '나'에 대한 정보를 주지 않는 반면 나의 생각, 감정, 취향, 가치관이야 말로 내가 어떤 사람인지 알려주기 때문이다. 반대로 여러 번 만나더라도 내적 교류가 일어나지 않아서 서로 어떤 생각을 하고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=50373</id>
-        <link href="https://www.dongascience.com/news.php?idx=50373"/>
-        <updated>2021-11-06T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[인간은 기본적으로 이기적인 존재라는 시각을 어렵지 않게 접할 수 있다. 영화나 드라마 등에서도 특히 재난이 터지면 다들 자기만 살겠다고 먼저 도망가는 장면들이 흔히 나타난다. 많은 사람들이 자신은 그렇게까지 이기적이지는 않지만 다른 사람들은 대부분 이기적이라고 여기기도 한다. 이기심을 자신의 안전과 안녕을 우선시하는 것이라고 정의한다면 인간이 이기적인 존재인 것은 당연한 것 같기도 하다. 하지만 보다 중요한 사실은 인간에게 있어 이기심이 이타심과 꼭 반대편에 놓여있는 것은 아니라는 것이다. 그러니까 이기적인 동시에 이...]]></content>
     </entry>
 </feed>
