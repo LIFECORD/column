@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-01-21T11:12:37.018Z</updated>
+    <updated>2022-01-21T12:20:52.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다큐 ‘리턴 투 호그와트’로 본 해리포터 20년]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202201211619005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202201211619005"/>
+        <updated>2022-01-21T12:16:55.661Z</updated>
+        <content type="html"><![CDATA[2022년 1월1일, 해리포터 20주년 기념 다큐멘터리 &lt;리턴 투 호그와트&gt;가 HBO 맥스를 통해 공개되었다. 국내에서는 웨이브(Wavve)를 통해 볼 수 있다. &lt;리턴 투 호그와트&gt;가 시작되면, 가뜩이나 비현실적인 2022년은 마법에 걸린다. ‘머글 세계’의 이곳저곳에 흩어져 있던 호그와트의 마법사들은 호그와트 문양이 찍힌 초대장을 받는다. 호그와트로 가는 기차가 출발하고, 연회장의 문이 열리면, 환상과 현실의 경계에서 ‘그 시절, 우리가 사랑했던’ 인물들이 훌...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭력적 상황도 개입 없이 객관적으로 찍는다…이게 리얼입니까?]]></title>
         <id>https://www.khan.co.kr/national/media/article/202201071619015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/national-general/article/202109171518005"/>
         <updated>2022-01-06T05:13:16.219Z</updated>
         <content type="html"><![CDATA[추석연휴의 시작이다. 명절을 맞이하는 감정은 개인차와 세대차가 아주 크다. 여전히 사회의 ‘큰’ 틀에서는 명절을 전통적 색감과 명암으로 표현하고 싶어 한다. 따뜻한, 풍성한, 반가운, 가족의 사랑을 확인하는, 행복한 등등. 공중파를 틀면 나오는 장면 말이다. 하지만 디테일에서는 어쩔 수 없는 현실이 호주머니 속 송곳처럼 삐져나온다. 명절 노동, 고부 갈등, 각종 감정싸움, 대학·취업·결혼 잔소리 3종 세트 등등. 가족이 여럿 모이면 다양한 상이 차려진다. 밥상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘금쪽같은 내새끼’ 아끼는 첫걸음은 ‘좋은 엄마, 아빠’ 강박 내려놓기]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202109031611005</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202109031611005"/>
-        <updated>2022-01-06T05:13:16.221Z</updated>
-        <content type="html"><![CDATA[나에게는 올해 스무 살, 열아홉 살인 동생들이 있다. 각각 2002년생과 2003년생이다. 내가 중학생일 때 태어난 그 애들로부터 나는 많은 것을 배웠다. 동생들이 행복하길 바랐기에 엄마가 사들이는 육아 서적을 함께 읽었다. 그러면서 희미하게 느꼈다. 육아에도 트렌드가 있구나. 내가 자랄 때와 다르구나. 실제로 시대가 바뀌고 정보량과 관점이 달라지면서, 동생을 키우는 부모님의 모습이 낯설었다. 팬티 한 장 입고 쫓겨나는 일이 월간 이벤트였던 1980년대 후반생은 덜...]]></content>
     </entry>
 </feed>
