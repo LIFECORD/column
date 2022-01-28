@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 20:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 21:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 감정노동하면서 '번아웃'을 막으려면]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26558366&amp;oid=584&amp;aid=0000017638&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26558366&amp;oid=584&amp;aid=0000017638&amp;ptype=021</guid>
+            <pubDate>Sat, 29 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 미국에 있다가 한국 콜센터에 전화할 일이 생겼을 때 지나치게 따뜻하고 순종적인 톤의 목소리에 흠칫 놀랐던 적이 있다. 너무 과…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/01/29/17638.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 삶이 정체되어 있다고 느낄 때, 기억을 꺼내보라]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26557240&amp;oid=584&amp;aid=0000017549&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[가혹한 양육자를 둔 사람은 이후에도 그들의 기준을 자기 안에 내면화함으로써 스스로를 채찍질하는 경향을 보인다. 게티이미지뱅크 제공 안타깝지만 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/04/15822.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 글쓰기 세미나에서 배운 삶의 지혜]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541943&amp;oid=584&amp;aid=0000015734&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541943&amp;oid=584&amp;aid=0000015734&amp;ptype=021</guid>
-            <pubDate>Sat, 28 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/28/15734.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
