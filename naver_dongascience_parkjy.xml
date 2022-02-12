@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 23:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 00:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 진정한 이해]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26560531&amp;oid=584&amp;aid=0000017792&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26560531&amp;oid=584&amp;aid=0000017792&amp;ptype=021</guid>
+            <pubDate>Sat, 12 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크, 제공 나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/12/17792.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]누군가 돕고 싶다면]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26558896&amp;oid=584&amp;aid=0000017692&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 18 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/18/16005.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</guid>
-            <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/11/15921.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2022-02-11T23:12:54.243Z</updated>
+    <updated>2022-02-12T00:43:55.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 진정한 이해]]></title>
+        <id>https://www.dongascience.com/news.php?idx=52329</id>
+        <link href="https://www.dongascience.com/news.php?idx=52329"/>
+        <updated>2022-02-12T09:03:47.000Z</updated>
+        <content type="html"><![CDATA[나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해력도 늘어나며 섣불리 판단하는 일이 줄어들고 결과적으로 한 단계 더 지혜로워진다는 뜻이 담겨있다. 하지만 때로는 뜬구름 잡는 것처럼 느껴져서 어떻게 해야 타인과 세상을 어른스럽게 이해할 수 있는지 잘 감이 오지 않는다. 우리가 추구해야 한다고 하는 ‘진정한 이해’란 어떤 것일까? 나는 봤지만 걔는 못 봤어 샐리와 앤이 있다. 샐리는 가지고 있던 공을 바구니에 넣는다. 샐리가 자리를 뜨고, 앤이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학]누군가 돕고 싶다면]]></title>
         <id>https://www.dongascience.com/news.php?idx=52138</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=50880"/>
         <updated>2021-12-04T06:00:00.000Z</updated>
         <content type="html"><![CDATA[끝이 보이지 않는 신종 코로나바이러스 감염증(COVID-19·코로나19) 팬데믹(세계적 대유행)을 겪으면서 많은 사람들이 지쳐가고 있다. 지칠 수밖에 없는 상황이지만 그래도 조금이나마 마음을 토닥일 수 있는 방법에는 무엇이 있을까? 흔히 사람들이 감정을 조절하는 방법에는 크게 두 가지가 있다. 하나는 그냥 꾹 참는 것이고 다른 하나는 감정을 ‘재평가’해보는 것이다. “나는 지금 하나도 힘들지 않다”고 스스로에게 거짓말을 되뇌이며 감정을 억누르는 것은 에너지만 많이 들고 별로 효과가 없다는 점에서 추천...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 울음은 도움 요청계의 만능키]]></title>
-        <id>https://www.dongascience.com/news.php?idx=50768</id>
-        <link href="https://www.dongascience.com/news.php?idx=50768"/>
-        <updated>2021-11-27T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[현재까지 진행된 여러 연구에 따르면 여러 동물들 중 인간만이 슬픔, 분노, 좌절, 등 감정적 이유로 눈물을 흘리는 정서적 울음을 보인다. 왜 인간에게 이런 울음의 기능이 부여됐는지는 오랫동안 과학계의 미스터리였다. 한 가지 가설은 울음에는 스트레스를 줄여주는 해소 기능, 또는 진정 작용이 있다는 것이다. 하지만 실제 연구들에 의하면 울고 난 후 스트레스가 줄어들거나 고통이 감소하는 현상은 잘 나타나지 않았다. 스트레스 호르몬인 코르티졸 수치에 별다른 변화가 관찰되지 않거나 또는 되려 울면 심박이 증가하고 울고 난 후 울기 전에...]]></content>
     </entry>
 </feed>
