@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 21:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 22:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,7 +368,7 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리힉]온라인에서 타인의 삶을 망가뜨리는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학]온라인에서 타인의 삶을 망가뜨리는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=52489</link>
             <guid>https://www.dongascience.com/news.php?idx=52489</guid>
             <pubDate>Sun, 20 Feb 2022 02:22:08 GMT</pubDate>
@@ -436,6 +436,14 @@
             <guid>https://www.dongascience.com/news.php?idx=51011</guid>
             <pubDate>Sat, 11 Dec 2021 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적인 방법이다. 이 외에도 사회적 규범이 강력하게 작용하고 구성원들의 행동을 촘촘하게 규제하는지, 아니면 규범에서 벗어나는 행동에 대해 관용적인지 여부에 따라 빡빡한 또는 느슨한 문화권으로 나눌 수 있다. 미국 매릴랜드대 미셸 겔팬드 심리학과 교수는 국제학술지 사이언스지에 발표한 논문에서 빡빡한 문화권의 사람들은 느슨한 문화권의 사람들에 비해 일상 생활에서도 행동 선택의 반경이 좁고, 모든 행동이...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]온라인에서 타인의 삶을 망가뜨리는 사람들 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26564143&amp;oid=584&amp;aid=0000017890&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26564143&amp;oid=584&amp;aid=0000017890&amp;ptype=021</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가학적인 성격 특성을 가지고 있는 사람들이 신체적으로 고통이 느껴지는 사진을 보고 즐거움을 크게 느낀 것으로 나타났다. 게티이미지뱅크 제공 어느…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/20/17890.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 진정한 이해 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -590,12 +598,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/02/16166.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 명절에 만난 사랑하는 사람에게 삼가야할 오지랖 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</guid>
-            <pubDate>Thu, 07 Oct 2021 09:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/18/16005.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[온라인에서 타인의 삶을 망가뜨리는 사람들 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20220220023010200</link>
+            <guid>https://v.daum.net/v/20220220023010200</guid>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어느새인가 우리 사회 곳곳에 혐오가&nbsp;퍼져있다.&nbsp;온라인&nbsp;세상도&nbsp;예외는&nbsp;아니어서&nbsp;유명인이나&nbsp;심지어&nbsp;일반인을&nbsp;대상으로&nbsp;우르르&nbsp;악플 테러를&nbsp;하는&nbsp;등&nbsp;큰&nbsp;해를&nbsp;입히는&nbsp;경우가&nbsp;적지&nbsp;않다.&nbsp;공격을&nbsp;행하는&nbsp;가해자들은&nbsp;대체로&nbsp;공격의&nbsp;대상과&nbsp;일면식도&nbsp;없고&nbsp;그&nbsp;사람에&nbsp;의해&nbsp;아무런&nbsp;피해도&nbsp;입지&nbsp;않은&nbsp;사람들이&nbsp;대부분이다.&nbsp;즉,&nbsp;딱히&nbsp;온라인에서의&nbsp;많은&nbsp;테러들이&nbsp;보복하거나 괴롭힐&nbsp;이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[진정한 이해 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://v.daum.net/v/20211127060024247</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[현재까지 진행된 여러 연구에 따르면 여러 동물들 중 인간만이 슬픔, 분노, 좌절, 등 감정적 이유로 눈물을 흘리는 정서적 울음을&nbsp;보인다. 왜 인간에게 이런&nbsp;울음의&nbsp;기능이 부여됐는지는&nbsp;오랫동안 과학계의 미스터리였다.&nbsp; 한 가지 가설은 울음에는 스트레스를 줄여주는 해소 기능, 또는 진정 작용이 있다는 것이다. 하지만 실제 연구들에 의하면 울고 난 후 스트레스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[누군가 좋게 바라봐주는 것만으로도 좋은 사람이 된다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20211120143012935</link>
-            <guid>https://v.daum.net/v/20211120143012935</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행복한 사람들은 비슷한 모습으로 행복하지만 불행한 사람들은 제각기 다른 이유로 불행하다는 말이 있다. 그럼에도 예컨대 커플들의 경우 관계에서 불행한 대표적인 이유가 있으니 그 중 하나가 '귀인 방식'이다. 즉 행동의 원인을 어디에서 찾느냐에 따라 똑같은 행동도 매우 다르게 해석될 수 있다는 것이다.  예컨대 상대가 약속에 늦었을 때, 그 원인을 여러가지 방]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단문 메시지 정치의 명암 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
