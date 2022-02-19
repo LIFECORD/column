@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 18:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리힉]온라인에서 타인의 삶을 망가뜨리는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=52489</link>
+            <guid>https://www.dongascience.com/news.php?idx=52489</guid>
+            <pubDate>Sun, 20 Feb 2022 02:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[어느새인가 우리 사회 곳곳에 혐오가 퍼져있다. 온라인 세상도 예외는 아니어서 유명인이나 심지어 일반인을 대상으로 우르르 악플 테러를 하는 등 큰 해를 입히는 경우가 적지 않다. 공격을 행하는 가해자들은 대체로 공격의 대상과 일면식도 없고 그 사람에 의해 아무런 피해도 입지 않은 사람들이 대부분이다. 즉, 딱히 온라인에서의 많은 테러들이 보복하거나 괴롭힐 이유가 전혀 없는 사람들에 의해 저질러지곤 한다. 손쉽게 우르르 몰려가 타인의 삶을 망가뜨리는 비합리적인 행동들이 나타나는 이유는 무엇일까? 학자들에 따르면 온라인 상의 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 진정한 이해 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=52329</link>
             <guid>https://www.dongascience.com/news.php?idx=52329</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=51011</guid>
             <pubDate>Sat, 11 Dec 2021 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적인 방법이다. 이 외에도 사회적 규범이 강력하게 작용하고 구성원들의 행동을 촘촘하게 규제하는지, 아니면 규범에서 벗어나는 행동에 대해 관용적인지 여부에 따라 빡빡한 또는 느슨한 문화권으로 나눌 수 있다. 미국 매릴랜드대 미셸 겔팬드 심리학과 교수는 국제학술지 사이언스지에 발표한 논문에서 빡빡한 문화권의 사람들은 느슨한 문화권의 사람들에 비해 일상 생활에서도 행동 선택의 반경이 좁고, 모든 행동이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 정말 잃기만 한 시간이었을까 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=50880</link>
-            <guid>https://www.dongascience.com/news.php?idx=50880</guid>
-            <pubDate>Sat, 04 Dec 2021 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[끝이 보이지 않는 신종 코로나바이러스 감염증(COVID-19·코로나19) 팬데믹(세계적 대유행)을 겪으면서 많은 사람들이 지쳐가고 있다. 지칠 수밖에 없는 상황이지만 그래도 조금이나마 마음을 토닥일 수 있는 방법에는 무엇이 있을까? 흔히 사람들이 감정을 조절하는 방법에는 크게 두 가지가 있다. 하나는 그냥 꾹 참는 것이고 다른 하나는 감정을 ‘재평가’해보는 것이다. “나는 지금 하나도 힘들지 않다”고 스스로에게 거짓말을 되뇌이며 감정을 억누르는 것은 에너지만 많이 들고 별로 효과가 없다는 점에서 추천...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 진정한 이해 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
