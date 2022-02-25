@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 20:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 21:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]가짜뉴스에 쉽게 빠지는 사람의 특성]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26566080&amp;oid=584&amp;aid=0000017964&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26566080&amp;oid=584&amp;aid=0000017964&amp;ptype=021</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동아사이언스DB 신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은 정보가 넘쳐…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/26/17964.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]온라인에서 타인의 삶을 망가뜨리는 사람들]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26564143&amp;oid=584&amp;aid=0000017890&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[목표를 현실적인 수준으로 설정해야만 만족이라는 것을 느끼는 것이 가능하다. 게티이미지뱅크 제공 눈코 뜰 새 없이 바쁜 나날을 보낸다는 말을 실감…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/09/16278.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</guid>
-            <pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SNS나 가짜 뉴스 채널 등을 통해 잘못된 정보들이 쉽고 빠르게 퍼져 나가고 있는 상황에서는 이전에 비해 시시각각 더 많은 사고력과 정확한 판단력…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/02/16166.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

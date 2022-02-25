@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2022-02-25T20:16:39.291Z</updated>
+    <updated>2022-02-25T21:14:18.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]가짜뉴스에 쉽게 빠지는 사람의 특성]]></title>
+        <id>https://www.dongascience.com/news.php?idx=52589</id>
+        <link href="https://www.dongascience.com/news.php?idx=52589"/>
+        <updated>2022-02-26T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은 정보가 넘쳐나고 있다. 정보 부족보다 정보 과잉, 특히 가짜 뉴스들이 넘쳐 사람들의 판단력을 흐리는 것이 문제라는 지적이 많다. 가짜 뉴스가 진짜 뉴스보다 더 쉽게 퍼지고 큰 영향력을 펼치게 되는 경우도 어렵지 않게 접할 수 있다. 이렇게 가짜 뉴스가 판을 치는 현상이 나타나는 이유는 뭘까? 눈이 가는 것이 믿기에도 좋다 가짜 뉴스는 다음과 같이 정의된다. “일반적인 뉴스 미디어를 통해 전해지는 정보의 형태를...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학]온라인에서 타인의 삶을 망가뜨리는 사람들]]></title>
         <id>https://www.dongascience.com/news.php?idx=52489</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=51151"/>
         <updated>2021-12-18T06:00:00.000Z</updated>
         <content type="html"><![CDATA[최악의 상황에서도 눈 앞의 순간에 집중하면 평온함을 찾을 수 있다는 이야기가 있다. 머리로는 이해되지만 실제로는 어떤 것인지 잘 와 닿지 않았는데 최근 어떤 사례를 듣고 조금이나마 잘 이해할 수 있게 되었다. 아는 선생님이 미국에서 수업을 하고 계셨다. 한창 미국에서 도널드 트럼프와 힐러리 클린턴이 대통령 선거에서 맞붙었을 때 하필이면 투표 바로 다음날이 기말고사 시험 날이었다. 투표 결과는 당시 많은 이들의 예상을 깨고 트럼프 당선이었고 수업을 듣는 학생들도 큰 충격을 받았다. 아니나 다를까 시험 직전까지 충격이 너무 커서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학]규범이 촘촘한 문화 가진 국가, 코로나19 피해 적었다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=51011</id>
-        <link href="https://www.dongascience.com/news.php?idx=51011"/>
-        <updated>2021-12-11T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적인 방법이다. 이 외에도 사회적 규범이 강력하게 작용하고 구성원들의 행동을 촘촘하게 규제하는지, 아니면 규범에서 벗어나는 행동에 대해 관용적인지 여부에 따라 빡빡한 또는 느슨한 문화권으로 나눌 수 있다. 미국 매릴랜드대 미셸 겔팬드 심리학과 교수는 국제학술지 사이언스지에 발표한 논문에서 빡빡한 문화권의 사람들은 느슨한 문화권의 사람들에 비해 일상 생활에서도 행동 선택의 반경이 좁고, 모든 행동이...]]></content>
     </entry>
 </feed>
