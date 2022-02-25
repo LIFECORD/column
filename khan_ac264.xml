@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2022-02-25T07:13:58.727Z</updated>
+    <updated>2022-02-25T08:17:48.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘참교육썰’ 범람하는 웹툰 세계서 ‘집이 없어’가 보여준 사과·용서의 가치]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202202251623005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202202251623005"/>
+        <updated>2022-02-25T08:13:31.367Z</updated>
+        <content type="html"><![CDATA[최근 인기 웹툰을 관통하는 시대정신은 ‘참교육’이다. 물론 진정한 교육이라는 본래 뜻은 아니다. 흔히 ‘참교육 사이다 썰’이라 불리는, 자신의 진가를 몰라보고 무시하거나 뻔뻔하게 민폐를 끼치는 인간에게 자신의 진짜 능력으로 크게 창피를 주거나 싹싹 빌게 만드는 그런 유의 이야기. 가령 어릴 때부터 남을 헐뜯으며 자존감을 채우던 &lt;여신강림&gt;의 조보정은 자신보다 인기 많은 크리에이터가 된 주인공 임주경을 음해하거나 모욕하려 하지만, 그때마다 주경의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지금’, ‘우리’에 무책임한 세계 ‘지금 우리 학교는’]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202202111554005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/media/article/202110221630005"/>
         <updated>2022-02-04T19:10:10.306Z</updated>
         <content type="html"><![CDATA[최근의 음악 오디션 프로그램에서 가장 스웨그 넘치는 참가자는 Mnet &lt;쇼 미 더 머니&gt; 시즌 10의 래퍼들이 아닌 국악 크로스오버 경연인 JTBC &lt;풍류대장&gt;의 최예림이었다. 그는 국악인으로서 한 달 내내 공연을 해도 월 80만원밖에 벌지 못해 KBS &lt;6시 내 고향&gt; 리포터로 활동하던 자신의 사연을 바탕으로 에미넴의 ‘Lose Yourself’를 판소리 스타일로 편곡, 번안 및 일부 개사해 불렀다. 비록 잠시 가사를 놓치는 실수를 했음에도 “무대에 설 수...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 ‘왕 손바닥’ 논란… 대중문화 속 손바닥 글씨의 다양한 맥락들]]></title>
-        <id>https://www.khan.co.kr/national/national-general/article/202110081623015</id>
-        <link href="https://www.khan.co.kr/national/national-general/article/202110081623015"/>
-        <updated>2022-02-04T19:10:10.307Z</updated>
-        <content type="html"><![CDATA[주술인가 아닌가. 최근 국민의힘 대선 후보 경선 토론회에서 유력 후보 중 하나인 윤석열 전 검찰총장의 손바닥에 ‘王(임금 왕)’이란 글씨가 쓰인 게 카메라에 잡혀 화제가 되었다. 다른 것도 아닌 대통령 후보를 정하는 토론인 만큼, 그 글씨가 대통령이 되겠다는 주술적 의미를 지닌 것 아니냐는 의혹과 비판이 같은 당에서도 제기되었다. 윤 후보 측은 단지 열성 지지자가 토론에서 자신감 있게 하라며 적어준 문구이며, 임금 왕 글자인지도 몰랐고 손 씻을 때 손...]]></content>
     </entry>
 </feed>

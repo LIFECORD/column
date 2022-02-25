@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5024350</id>
     <title>다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이</title>
-    <updated>2022-02-25T07:13:58.742Z</updated>
+    <updated>2022-02-25T08:17:48.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['참교육썰' 범람하는 웹툰 세계서 '집이 없어'가 보여준 사과·용서의 가치]]></title>
+        <id>https://v.daum.net/v/20220225162442958</id>
+        <link href="https://v.daum.net/v/20220225162442958"/>
+        <updated>2022-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[경향신문] 최근 인기 웹툰을 관통하는 시대정신은 ‘참교육’이다. 물론 진정한 교육이라는 본래 뜻은 아니다. 흔히 ‘참교육 사이다 썰’이라 불리는, 자신의 진가를 몰라보고 무시하거나 뻔뻔하게 민폐를 끼치는 인간에게 자신의 진짜 능력으로 크게 창피를 주거나 싹싹 빌게 만드는 그런 유의 이야기. 가령 어릴 때부터 남을 헐뜯으며 자존감을 채우던 &lt;여신강림&gt;의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지금', '우리'에 무책임한 세계 '지금 우리 학교는']]></title>
         <id>https://v.daum.net/v/20220211160042426</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210910163609827"/>
         <updated>2021-09-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[[경향신문] 한국에서 군 폭력에 대한 예술적 재현은 그것이 상당히 탁월한 성취를 보일 때조차 양가적 효과를 발휘한다. 때때로 이들 작품은 군대라는 공간에서 벌어지는 폭력의 구조적 필연성을 고발하고 우리의 비판적 의식과 책임감을 환기시키지만, 그보다 많은 경우 군대를 다녀온 다수 한국 남성들의 자기연민을 불태우기 위한 땔감으로 사용된다. 후자의 경우 작품에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리티라는 이름으로 은폐된 '위선 없는 무례함']]></title>
-        <id>https://v.daum.net/v/20210827171809695</id>
-        <link href="https://v.daum.net/v/20210827171809695"/>
-        <updated>2021-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[경향신문] 실패한 사과문은 언제나 흥미로운 텍스트다. 말한 것보다 말하지 않은 것에 더 많은 의미와 진실이 담겨 있다는 점에서 그렇다. 지난 8월21일 공식 인스타그램 계정을 통해 올린 MBC &lt;나 혼자 산다&gt; 제작진의 사과문은 철저한 저자세에도 불구하고 놀라울 정도로 사건의 진실에 대해선 함구한다. 지난 13일에 방영한 &lt;나 혼자 산다&gt;에서 만화가 기]]></content>
     </entry>
 </feed>
