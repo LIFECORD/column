@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 07:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 08:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,76 @@
             <pubDate>Fri, 04 Feb 2022 21:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]가짜뉴스에 쉽게 빠지는 사람의 특성 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=52589</link>
+            <guid>https://www.dongascience.com/news.php?idx=52589</guid>
+            <pubDate>Sat, 26 Feb 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은 정보가 넘쳐나고 있다. 정보 부족보다 정보 과잉, 특히 가짜 뉴스들이 넘쳐 사람들의 판단력을 흐리는 것이 문제라는 지적이 많다. 가짜 뉴스가 진짜 뉴스보다 더 쉽게 퍼지고 큰 영향력을 펼치게 되는 경우도 어렵지 않게 접할 수 있다. 이렇게 가짜 뉴스가 판을 치는 현상이 나타나는 이유는 뭘까? 눈이 가는 것이 믿기에도 좋다 가짜 뉴스는 다음과 같이 정의된다. “일반적인 뉴스 미디어를 통해 전해지는 정보의 형태를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]온라인에서 타인의 삶을 망가뜨리는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=52489</link>
+            <guid>https://www.dongascience.com/news.php?idx=52489</guid>
+            <pubDate>Sun, 20 Feb 2022 02:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[어느새인가 우리 사회 곳곳에 혐오가 퍼져있다. 온라인 세상도 예외는 아니어서 유명인이나 심지어 일반인을 대상으로 우르르 악플 테러를 하는 등 큰 해를 입히는 경우가 적지 않다. 공격을 행하는 가해자들은 대체로 공격의 대상과 일면식도 없고 그 사람에 의해 아무런 피해도 입지 않은 사람들이 대부분이다. 즉, 딱히 온라인에서의 많은 테러들이 보복하거나 괴롭힐 이유가 전혀 없는 사람들에 의해 저질러지곤 한다. 손쉽게 우르르 몰려가 타인의 삶을 망가뜨리는 비합리적인 행동들이 나타나는 이유는 무엇일까? 학자들에 따르면 온라인 상의 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 진정한 이해 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=52329</link>
+            <guid>https://www.dongascience.com/news.php?idx=52329</guid>
+            <pubDate>Sat, 12 Feb 2022 09:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해력도 늘어나며 섣불리 판단하는 일이 줄어들고 결과적으로 한 단계 더 지혜로워진다는 뜻이 담겨있다. 하지만 때로는 뜬구름 잡는 것처럼 느껴져서 어떻게 해야 타인과 세상을 어른스럽게 이해할 수 있는지 잘 감이 오지 않는다. 우리가 추구해야 한다고 하는 ‘진정한 이해’란 어떤 것일까? 나는 봤지만 걔는 못 봤어 샐리와 앤이 있다. 샐리는 가지고 있던 공을 바구니에 넣는다. 샐리가 자리를 뜨고, 앤이 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]누군가 돕고 싶다면 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=52138</link>
+            <guid>https://www.dongascience.com/news.php?idx=52138</guid>
+            <pubDate>Sat, 05 Feb 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[누군가를 위로하고 돕고 싶을 때 일단 애쓰면 될 것 같지만 여기에도 바람직한 방법이 있고 그렇지 않은 방법이 있다. 예컨대 요즘 같은 시대에 막무가내로 조언을 주겠다며 "나 때는 말이야"를 무턱대고 던지면 ‘라떼’라는 말을 듣는다. 또 상대가 딱히 요청하지 않은 도움을 들이밀면 오지랖을 부리는 셈이 된다. 함께 일하는 상황이나 편안한 관계일 때나 선의로 시작한 도움이 잘못된 결과를 내는 일을 피하려면 어떻게 해야 할까. 오른손이 하는 일은 왼손이 모르게 어차피 도울 거면 가급적 티 내지 말고 생색내지 말라는...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 감정노동하면서 '번아웃'을 막으려면 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=52012</link>
+            <guid>https://www.dongascience.com/news.php?idx=52012</guid>
+            <pubDate>Sat, 29 Jan 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국에 있다가 한국 콜센터에 전화할 일이 생겼을 때 지나치게 따뜻하고 순종적인 톤의 목소리에 흠칫 놀랐던 적이 있다. 너무 과도한 감정 노동을 강요하는 것이 아닌지 하는 의문이 들었다. 문제는 감정노동에는 많은 심리적, 사회적 ‘비용’이 따른다는 것이다. 감정노동이란 펜실베이니아주립대의 심리학자 알리시아 그랜디 교수에 따르면 감정노동은 고용주가 고용인으로 하여금 특정한 감정을 표현하길 요구하며 감정에 제한을 두는 것으로, 이 과정에서 고용인들은 감정을 통제하기 위한 다양한 전략과 노력을 사용하며 애쓰게 된...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 삶이 정체되어 있다고 느낄 때, 기억을 꺼내보라 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=51868</link>
+            <guid>https://www.dongascience.com/news.php?idx=51868</guid>
+            <pubDate>Sat, 22 Jan 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전부터 갑자기 스마트폰 사진을 출력할 수 있는 프린터가 가지고 싶다는 마음이 생겼다. 원래 별로 있는지도 몰랐고 따라서 생각해본 적도 없는 기기라서 조금 당황스러운 마음이긴 하지만, 여튼 가지고 싶다는 마음이 생겨서 이것저것 찾아보는 중이다. 옛말에 남는 것은 사진이라고 했다. 사진첩에 잔뜩 쌓여만 가는 사진들을 간간히 한 두 개 출력해서 보이는 곳에 걸어두기라도 하면 좋은 기억들을 좀 더 잘 활용할 수 있을 것 같다는 생각이 들었다. 다양한 경험들을 해놓고서도 막상 “뭘 했더라”하고 스스로에게 질문하면 잘 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 바디스캔의 핵심 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=51764</link>
+            <guid>https://www.dongascience.com/news.php?idx=51764</guid>
+            <pubDate>Sat, 15 Jan 2022 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[최근 마음챙김 명상 특강을 들을 일이 있다. 가장 기본적인 명상을 몇 가지 체험해보는 것이 주된 내용이다. 그 중 바디스캔(body scan)이라고 발 끝부터 머리 끝까지 차근차근 주의를 옮기면서 내 몸이 어떻게 느끼고 있는지, 어디 불편한 곳은 없는지, 지나치게 힘이 들어간 곳은 없는지를 살피는 연습을 하게 되었다. 필자의 반응은 “올 것이 왔구나”였다. 이전에 바디스캔을 할 때면 알 수 없는 불편함을 느끼곤 했기 때문이다. 살피다 보면 내 몸에는 어딘가 항상 불편한 부분이 있었다. 발끝이 지나치게 차다든가 허리도 어깨도 목...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]성취 가능한 목표를 세우고 작심삼일을 자책하지 말라 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=51541</link>
+            <guid>https://www.dongascience.com/news.php?idx=51541</guid>
+            <pubDate>Sat, 08 Jan 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사실 새해 다짐을 지키지 못하는 것은 꽤 자연스러운 일이다. 목표란 성취하기 어렵기 때문에 목표일 때가 많다. 또 새해 목표란 것들은 대게 12월 31일이 지나 새해가 시작되면 지난해의 나와는 아무 관련이 없는 새로운 내가 태어나 훨씬 좋은 마음가짐과 정신상태로 이전에는 못 했던 것들을 잘 해낼 것이라는 근거 없는 믿음을 기반으로 만들어지는 경우가 많다. 그러다 보니 새로 태어난 나에게 이전의 내가 하지 못했던 일들을 잔뜩 부여하는 등 쓸데없이 원대하고 비현실적인 경우가 많다. 예컨대 필자의 경우 매년 연초마다 올해는 꼭 100권의...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]나를 실적 달성 도구 보고 착취할 때 이득을 보는 건 내가 아니다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=51385</link>
+            <guid>https://www.dongascience.com/news.php?idx=51385</guid>
+            <pubDate>Sat, 01 Jan 2022 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[애플워치를 샀다. 예뻐서, 그리고 운동량을 좀 기록해보고 분발해 보려는 목적으로 과감하게 질렀다. 사지 않았더라면 계속해서 사고 싶은 마음에 시달릴테고 그 고통을 줄일 방법은 사는 것 밖에 없었다며 합리화 중이다. 하루 동안 걷는 량, 운동량, 서 있는 시간 등 하루 활동량이 자동으로 기록돼서 신기했다. 하지만 신기함은 잠시, 곧 매일매일 작은 좌절을 경험하게 되었다. 처음 기본 운동량 설정이 하루 300kcal 30분 운동이었던 듯한데 거의 매일 이 기준을 달성하지 못했고 어제는 부진했으니 오늘은 분발하라는 등의 잔소리를 매일 아침마...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]“아직 아무 일도 일어나지 않았어. 지금 나는 괜찮아” (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=51151</link>
+            <guid>https://www.dongascience.com/news.php?idx=51151</guid>
+            <pubDate>Sat, 18 Dec 2021 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최악의 상황에서도 눈 앞의 순간에 집중하면 평온함을 찾을 수 있다는 이야기가 있다. 머리로는 이해되지만 실제로는 어떤 것인지 잘 와 닿지 않았는데 최근 어떤 사례를 듣고 조금이나마 잘 이해할 수 있게 되었다. 아는 선생님이 미국에서 수업을 하고 계셨다. 한창 미국에서 도널드 트럼프와 힐러리 클린턴이 대통령 선거에서 맞붙었을 때 하필이면 투표 바로 다음날이 기말고사 시험 날이었다. 투표 결과는 당시 많은 이들의 예상을 깨고 트럼프 당선이었고 수업을 듣는 학생들도 큰 충격을 받았다. 아니나 다를까 시험 직전까지 충격이 너무 커서...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]가짜뉴스에 쉽게 빠지는 사람의 특성 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
