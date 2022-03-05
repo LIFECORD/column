@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 04:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -892,6 +892,13 @@
             <content:encoded><![CDATA[[경향신문] 한국에서 군 폭력에 대한 예술적 재현은 그것이 상당히 탁월한 성취를 보일 때조차 양가적 효과를 발휘한다. 때때로 이들 작품은 군대라는 공간에서 벌어지는 폭력의 구조적 필연성을 고발하고 우리의 비판적 의식과 책임감을 환기시키지만, 그보다 많은 경우 군대를 다녀온 다수 한국 남성들의 자기연민을 불태우기 위한 땔감으로 사용된다. 후자의 경우 작품에]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[평화는 다른 게 아니고, 음식이고 사랑이야 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
+            <link>https://entertain.v.daum.net/v/20220305135614654</link>
+            <guid>https://entertain.v.daum.net/v/20220305135614654</guid>
+            <pubDate>Sat, 05 Mar 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[☞뉴스레터 구독하기 https://bit.ly/319DiiE 국내 스트리밍 서비스 플랫폼 ‘왓챠’가 오리지널 시리즈로 공개한 &lt;조인 마이 테이블&gt;은 대학 시절 교수와 제자로 인연을 맺었던 방송인 이금희와 소설가 박상영이 전국을 돌아다니며 함께 맛기행을 하는 미식 프로그램이다. 이렇게만 쓰고 보면 평범한 미식 방송 같지만, 이들이 돌아다니면서 먹는 음식은 다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[혐오정치와 차별 맞선 '호프펑크'를 아시나요? (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
             <link>https://entertain.v.daum.net/v/20220218190601522</link>
             <guid>https://entertain.v.daum.net/v/20220218190601522</guid>
@@ -1023,13 +1030,6 @@
             <guid>https://entertain.v.daum.net/v/20210605145602861</guid>
             <pubDate>Thu, 07 Oct 2021 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[“제가 진짜 인정하는 게, 다독가예요. 좋은 책들을 보면 주변 사람들에게 소개해주고, 막 열권씩 구입을 해서. 항상 책장에 어려운 책들 많이 꽂혀 있거든요. 제 수준엔 어려운 책들이에요.” 홍진경이 못다 한 교과 공부의 한을 푼다는 내용의 카카오티브이 웹예능 &lt;공부왕찐천재&gt;의 한 장면, 홍진경이 학창시절에는 어떻게 공부했는지를 가족들이 증언하는 대목에서 남]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['인공지능 아이돌' 아뽀키에게 '진짜 가수'를 묻는다 (다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이)]]></title>
-            <link>https://entertain.v.daum.net/v/20210521193604095</link>
-            <guid>https://entertain.v.daum.net/v/20210521193604095</guid>
-            <pubDate>Thu, 07 Oct 2021 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[븨븨(VV)엔터테인먼트 소속의 여성 케이팝 아티스트 ‘아뽀키’는 지난 2월22일 첫번째 디지털 싱글 ‘겟 잇 아웃’(Get it out)을 발매했다. 제트(Z)세대 아티스트들이 흔히 그렇듯 그 또한 다른 가수들의 노래를 커버한 영상을 온라인에 올리고, 라이브 채팅으로 팬들과 소통하며 차근차근 이름을 알리는 계단을 밟아 올라왔다. 그가 2019년 4월 유튜브]]></content:encoded>
         </item>
     </channel>
 </rss>
