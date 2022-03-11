@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2022-03-11T20:15:09.479Z</updated>
+    <updated>2022-03-11T21:14:43.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]내 편을 얻는 순간 상대를 해치는 죄책감에서 간단히 벗어난다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=52903</id>
+        <link href="https://www.dongascience.com/news.php?idx=52903"/>
+        <updated>2022-03-12T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[20대 대통령을 뽑는 이번 대선은 해외에서도 많은 주목을 받았다. 한국 일부 남성들의 '안티페미니즘' 성향에 관한 기사가 민망할 정도로 많이 쏟아졌다. 10일자 타임지 기사 제목은 '한국에서 윤석열 후보가 안티(반)페미니즘적 반발을 이용해 대선에서 이기다( How South Korea’s Yoon Suk-yeol Capitalized on Anti-Feminist Backlash to Win the Presidency)'였다. 반페미니스트들이 가지고 나온 주요 의제 중 하나가 '성평등을 위해 일하는 국가 기관(여성가족부)'을 무력화하자는 것인데 설령 그 부처를 없...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 바빠도 지루함을 느낄 수 있는 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=52766</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=51541"/>
         <updated>2022-01-08T06:00:00.000Z</updated>
         <content type="html"><![CDATA[사실 새해 다짐을 지키지 못하는 것은 꽤 자연스러운 일이다. 목표란 성취하기 어렵기 때문에 목표일 때가 많다. 또 새해 목표란 것들은 대게 12월 31일이 지나 새해가 시작되면 지난해의 나와는 아무 관련이 없는 새로운 내가 태어나 훨씬 좋은 마음가짐과 정신상태로 이전에는 못 했던 것들을 잘 해낼 것이라는 근거 없는 믿음을 기반으로 만들어지는 경우가 많다. 그러다 보니 새로 태어난 나에게 이전의 내가 하지 못했던 일들을 잔뜩 부여하는 등 쓸데없이 원대하고 비현실적인 경우가 많다. 예컨대 필자의 경우 매년 연초마다 올해는 꼭 100권의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학]나를 실적 달성 도구 보고 착취할 때 이득을 보는 건 내가 아니다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=51385</id>
-        <link href="https://www.dongascience.com/news.php?idx=51385"/>
-        <updated>2022-01-01T10:18:00.000Z</updated>
-        <content type="html"><![CDATA[애플워치를 샀다. 예뻐서, 그리고 운동량을 좀 기록해보고 분발해 보려는 목적으로 과감하게 질렀다. 사지 않았더라면 계속해서 사고 싶은 마음에 시달릴테고 그 고통을 줄일 방법은 사는 것 밖에 없었다며 합리화 중이다. 하루 동안 걷는 량, 운동량, 서 있는 시간 등 하루 활동량이 자동으로 기록돼서 신기했다. 하지만 신기함은 잠시, 곧 매일매일 작은 좌절을 경험하게 되었다. 처음 기본 운동량 설정이 하루 300kcal 30분 운동이었던 듯한데 거의 매일 이 기준을 달성하지 못했고 어제는 부진했으니 오늘은 분발하라는 등의 잔소리를 매일 아침마...]]></content>
     </entry>
 </feed>
