@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 22:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 23:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무엇을 위한 성실성인가]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26574399&amp;oid=584&amp;aid=0000018330&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26574399&amp;oid=584&amp;aid=0000018330&amp;ptype=021</guid>
+            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['성실성'은 다양한 영역에서 높은 성취와 관련을 보인다. 하지만 열심히 사는 것이 그 자체로 삶의 목표가 될 때는 문제가 된다. 게티이미지뱅크 제공 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/03/26/18330.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트레스 관리에 도움되는 7가지 활동]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26572819&amp;oid=584&amp;aid=0000018241&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비행기 사고 등 극한 상황에서 나와 타인의 경계가 모호해지고, 타인의 안전이 곧 내 안전인 것처럼 느껴지는 현상이 있다. 게티이미지뱅크 제공 인간…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/06/16638.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불안이 만들어내는 착각]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['불안'은 부족함을 확대하는 돋보기와 같아서 크고 생생하게 느껴지지만 실제와 다를 때가 많다. 게티이미지뱅크 제공 할 일이 잔뜩 쌓여 있을 때면 쉴…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/30/16536.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

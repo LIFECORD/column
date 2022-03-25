@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 22:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 23:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 무엇을 위한 성실성인가 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=53273</link>
+            <guid>https://www.dongascience.com/news.php?idx=53273</guid>
+            <pubDate>Sat, 26 Mar 2022 08:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[얼마전 연구실 사람들과 끊임없이 목표를 세우고 달성해야만 한다는 압박감의 존재에 대한 이야기를 했다. 사실 이미 어느 정도 좋은 성과를 내고 있음에도 만족하지 말라며 자신을 다그치고, 일 하지 않는 상태 자체를 악으로 규정하고 휴식 시간에 죄책감을 느끼며, 멈추지 않고 달려가야 한다는 압박감을 느낀다는 것이었다. 우리 삶이 과하게 필요한 것은 어쩌면 실제 일에서 오는 피로감 못지 않게 다양한 강박과 부담, 압박감 때문이 아닌가 하는 이야기였다. 실제로 많은 사람들이 '열심히', '최선을 다해', '근면 성실하게&amp;...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 스트레스 관리에 도움되는 7가지 활동 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=53067</link>
             <guid>https://www.dongascience.com/news.php?idx=53067</guid>
@@ -431,11 +438,12 @@
             <content:encoded><![CDATA[얼마 전부터 갑자기 스마트폰 사진을 출력할 수 있는 프린터가 가지고 싶다는 마음이 생겼다. 원래 별로 있는지도 몰랐고 따라서 생각해본 적도 없는 기기라서 조금 당황스러운 마음이긴 하지만, 여튼 가지고 싶다는 마음이 생겨서 이것저것 찾아보는 중이다. 옛말에 남는 것은 사진이라고 했다. 사진첩에 잔뜩 쌓여만 가는 사진들을 간간히 한 두 개 출력해서 보이는 곳에 걸어두기라도 하면 좋은 기억들을 좀 더 잘 활용할 수 있을 것 같다는 생각이 들었다. 다양한 경험들을 해놓고서도 막상 “뭘 했더라”하고 스스로에게 질문하면 잘 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 바디스캔의 핵심 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=51764</link>
-            <guid>https://www.dongascience.com/news.php?idx=51764</guid>
-            <pubDate>Sat, 15 Jan 2022 07:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[최근 마음챙김 명상 특강을 들을 일이 있다. 가장 기본적인 명상을 몇 가지 체험해보는 것이 주된 내용이다. 그 중 바디스캔(body scan)이라고 발 끝부터 머리 끝까지 차근차근 주의를 옮기면서 내 몸이 어떻게 느끼고 있는지, 어디 불편한 곳은 없는지, 지나치게 힘이 들어간 곳은 없는지를 살피는 연습을 하게 되었다. 필자의 반응은 “올 것이 왔구나”였다. 이전에 바디스캔을 할 때면 알 수 없는 불편함을 느끼곤 했기 때문이다. 살피다 보면 내 몸에는 어딘가 항상 불편한 부분이 있었다. 발끝이 지나치게 차다든가 허리도 어깨도 목...]]></content:encoded>
+            <title><![CDATA[무엇을 위한 성실성인가 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26574399&amp;oid=584&amp;aid=0000018330&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26574399&amp;oid=584&amp;aid=0000018330&amp;ptype=021</guid>
+            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['성실성'은 다양한 영역에서 높은 성취와 관련을 보인다. 하지만 열심히 사는 것이 그 자체로 삶의 목표가 될 때는 문제가 된다. 게티이미지뱅크 제공 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/03/26/18330.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트레스 관리에 도움되는 7가지 활동 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -590,12 +598,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/06/16638.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[불안이 만들어내는 착각 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['불안'은 부족함을 확대하는 돋보기와 같아서 크고 생생하게 느껴지지만 실제와 다를 때가 많다. 게티이미지뱅크 제공 할 일이 잔뜩 쌓여 있을 때면 쉴…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/30/16536.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[무엇을 위한 성실성인가 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20220326080044816</link>
+            <guid>https://v.daum.net/v/20220326080044816</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼마전 연구실 사람들과 끊임없이 목표를 세우고 달성해야만 한다는 압박감의 존재에 대한 이야기를 했다. 사실 이미 어느 정도 좋은 성과를 내고 있음에도 만족하지 말라며 자신을 다그치고, 일 하지 않는 상태 자체를 악으로 규정하고 휴식 시간에 죄책감을 느끼며, 멈추지 않고 달려가야 한다는 압박감을 느낀다는 것이었다. 우리 삶이 과하게 필요한 것은 어쩌면 실제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스트레스 관리에 도움되는 7가지 활동 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://v.daum.net/v/20220108060029469</guid>
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사실 새해 다짐을 지키지 못하는 것은 꽤 자연스러운 일이다. 목표란 성취하기 어렵기 때문에 목표일 때가 많다. 또 새해 목표란 것들은 대게 12월&nbsp;31일이 지나 새해가 시작되면 지난해의 나와는 아무 관련이 없는 새로운 내가 태어나 훨씬 좋은 마음가짐과 정신상태로 이전에는 못 했던 것들을 잘 해낼 것이라는 근거 없는 믿음을 기반으로 만들어지는 경우가 많다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나를 실적 달성 도구 보고 착취할 때 이득을 보는 건 내가 아니다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20220101102013002</link>
-            <guid>https://v.daum.net/v/20220101102013002</guid>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[애플워치를 샀다. 예뻐서, 그리고 운동량을 좀 기록해보고 분발해 보려는 목적으로 과감하게 질렀다. 사지 않았더라면 계속해서 사고 싶은 마음에 시달릴테고 그 고통을 줄일 방법은 사는 것 밖에 없었다며 합리화 중이다.&nbsp;하루 동안 걷는 량, 운동량, 서 있는 시간 등 하루 활동량이 자동으로 기록돼서 신기했다. 하지만 신기함은 잠시, 곧 매일매일 작은 좌절을 경험]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
