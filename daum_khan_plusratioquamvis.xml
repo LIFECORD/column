@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5024350</id>
     <title>다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이</title>
-    <updated>2022-03-25T06:18:31.815Z</updated>
+    <updated>2022-03-25T07:15:30.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 집무실 용산 이전을 고집하는 윤 당선인을 위한 영화 속 네가지 장면]]></title>
+        <id>https://v.daum.net/v/20220325161034404</id>
+        <link href="https://v.daum.net/v/20220325161034404"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[경향신문] 공간이 의식을 지배한다. 윤석열 대통령 당선인이 제왕적 대통령이 되지 않기 위해 대통령 집무실을 용산으로 이전하겠다며 기자회견에서 밝힌 말이다. 어느 정도 맞는 말이다. 우리의 관념은 물적인 토대와 이를 둘러싼 구조적 관계망 안에서 구성된다. 30억원짜리 서초동 주상복합 아파트에 거주하고 서울대 출신 엘리트에 둘러싸인 윤 당선인의 세상에 대한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로컬 없는 '로컬식탁'은 어떻게 탈정치적 식탁이란 허상을 제시하나]]></title>
         <id>https://v.daum.net/v/20220311160803563</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211008162702021"/>
         <updated>2021-10-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[[경향신문] 주술인가 아닌가. 최근 국민의힘 대선 후보 경선 토론회에서 유력 후보 중 하나인 윤석열 전 검찰총장의 손바닥에 ‘王(임금 왕)’이란 글씨가 쓰인 게 카메라에 잡혀 화제가 되었다. 다른 것도 아닌 대통령 후보를 정하는 토론인 만큼, 그 글씨가 대통령이 되겠다는 주술적 의미를 지닌 것 아니냐는 의혹과 비판이 같은 당에서도 제기되었다. 윤 후보 측]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중년 남성에 대한 연민에서만 일관적인, 마구잡이 서바이벌 '오징어게임']]></title>
-        <id>https://v.daum.net/v/20210924160559961</id>
-        <link href="https://v.daum.net/v/20210924160559961"/>
-        <updated>2021-09-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[경향신문] ※본 기사는 드라마 &lt;오징어게임&gt;에 대한 스포일러를 다수 포함하고 있습니다. 스포일러로 글을 시작해야겠다. 지난 9월17일에 공개된 넷플릭스 오리지널 시리즈 &lt;오징어게임&gt; 마지막 화에서, 게임 참가자인 줄 알았지만 실은 흑막이었던 오일남(오영수)은 게임 우승자 성기훈(이정재)에게 자신이 그런 일을 벌인 이유가 삶의 권태 때문이었다며 “뭘 하면]]></content>
     </entry>
 </feed>
