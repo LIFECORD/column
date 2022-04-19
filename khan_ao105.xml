@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2022-04-19T20:16:30.518Z</updated>
+    <updated>2022-04-19T21:13:58.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시대를 반영하기보다 거스르는 책을 원한다]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202204200300015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202204200300015"/>
+        <updated>2022-04-19T21:11:41.757Z</updated>
+        <content type="html"><![CDATA[거대 양당이 비슷하다지만 정권이 바뀌면 달라지는 사안도 많다. 출판 관련 일도 그중 하나다. 문화체육관광부, 국방부, 여성가족부, 교육 관련 부처, 지방자치단체가 운영하는 권장 도서 목록이 있는데, 선정 위원 교체는 중요한 정치다. 이들의 안목에 따라 사병들이 내무반에서 읽는 책, 중·고등학교, 대학, 지역 도서관의 서고가 달라질 수 있다. 정권교체가 아니더라도 책은 시류에 민감하다. 자기 계발서의 범람, 페미니즘의 대중화 이후 여성학 고전의 재출간 붐, 정...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당, 적대적 공존에서 단독자로]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202203230300005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202107280300065"/>
         <updated>2022-03-01T15:14:51.024Z</updated>
         <content type="html"><![CDATA[국민의힘 이준석 대표와 하태경, 유승민 대선 후보(이하 유승민 전 의원)가 여성가족부 폐지론을 내놓은 지 여러 날이 지났다. 이들의 주장이 무지에서 온 확신인지, 남성 표를 의식한 선거 전략인지는 모르겠다. 둘 다 문제지만, 그나마 후자는 정치인으로서 있을 수 있는 일이다. 물론 “수술실의 CCTV가 의사의 집중력을 방해한다” “통일부도 없애야 한다”는 논리가 얼마나 표로 연결될지는 모르겠다.  나는 여가부 폐지 공약도 득표 전략으로서 효용성이 없다고 생각...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검사의 정체성, 진보의 정체성]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202106300300055</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202106300300055"/>
-        <updated>2022-03-01T15:14:51.025Z</updated>
-        <content type="html"><![CDATA[오독을 우려하는 심정에서, 서두에 이 글의 요지를 분명히 하고 싶다. 이 글은 이념과 직업에 근거하여 자신이 누구인가를 설명하는 정체성의 정치를 비판한다. 특히 이 문제는 현 정권에서 많은 사회적 논란을 일으켰기 때문에 중요하다.우선, ‘윤석열 X파일’은 존재와 사실 여부를 떠나 적절한 표현이 아니다. 대통령 선거를 앞둔 상황에서 ‘X’니 ‘파일’이니 하는 단어가 등장하는 순간, 검증보다는 추측과 대립만 양산할 뿐이다. 매체들은 다른 표기를 고민하기 바...]]></content>
     </entry>
 </feed>
