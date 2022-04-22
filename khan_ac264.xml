@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2022-04-22T07:13:56.530Z</updated>
+    <updated>2022-04-22T08:22:42.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[tvN ‘유 퀴즈 온 더 블럭’, 윤석열의 안하무인과 유재석의 딜레마]]></title>
+        <id>https://www.khan.co.kr/culture/tv/article/202204221610005</id>
+        <link href="https://www.khan.co.kr/culture/tv/article/202204221610005"/>
+        <updated>2022-04-22T08:16:18.815Z</updated>
+        <content type="html"><![CDATA[유재석도 살릴 수 없는 토크가 있다. 지난 20일 방송된 tvN &lt;유 퀴즈 온 더 블럭&gt; 윤석열 대통령 당선인 편 이야기다. 요즘 가장 큰 고민에 대해 질문하자 “국민이 편하게 잘 살 수 있는 좋은 결과를 내놔야 되기 때문에 어떡하면 잘할 수 있는지 여러 가지로 고민도 한다”는 식의 추상적이고 원론적인 답변이나 내놓겠다고 굳이 인기 토크 프로그램을 찾아온 사람에게 뭘 더 꺼내긴 쉽지 않은 일이다. 그나마도 젊은 시절 검찰에서 밥총무를 맡았던 이야기...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 기아 타이거즈 팬의 한화 이글스 다큐멘터리 ‘클럽하우스’ 관람기]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202204081629015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202112031619005"/>
         <updated>2022-02-27T19:09:42.632Z</updated>
         <content type="html"><![CDATA[사람이 죽는 걸로 이야기가 시작되거나, 사람이 죽어야 이야기가 끝난다. 최근 한국에서 만들어져 해외에서도 높은 인기를 기록한 일련의 넷플릭스 오리지널 시리즈들의 공통점이다. &lt;마이네임&gt;은 주인공 윤지우(한소희)의 아버지 윤동훈(윤경호)이 살해당하며, &lt;지옥&gt;은 천사에게 지옥에 갈 거라 고지받은 주명훈(김규백)이 신의 사자들에게 구타당하다 불타 죽으며 이야기가 출발한다. &lt;D.P.&gt;는 조석봉(조현철)이 자살을 시도하다 미수에 그치고 그의 친구 김루리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구경이’, 잠재적 가해의 가능성을 살아내는 여성들의 이야기]]></title>
-        <id>https://www.khan.co.kr/national/media/article/202111191609005</id>
-        <link href="https://www.khan.co.kr/national/media/article/202111191609005"/>
-        <updated>2022-02-27T19:09:42.632Z</updated>
-        <content type="html"><![CDATA[구경이의 세계는 의심으로 가득 차 있다. 누구든 잠재적 가해자일 수 있다는 의심. 송이경의 세계는 확신으로 가득 차 있다. 가해자를 골라낼 수 있다는 확신. 경이는 자신의 의심을 의심하면서 혼돈 속을 더듬으며 괴로워하지만, 이경에겐 모든 것이 쉽고 우습다. 경찰 출신 보험조사관 구경이(이영애)가 연쇄살인범 K이자 죽은 남편의 제자였던 송이경(김혜준)을 쫓는 JTBC 드라마 &lt;구경이&gt;는 경이, 이경이란 두 인물의 이름에서부터 노골적으로 서로 닮되 대립하는 ...]]></content>
     </entry>
 </feed>
