@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-04-23T07:13:35.514Z</updated>
+    <updated>2022-04-23T08:17:48.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감정에 대한 이해가 필요한 이유]]></title>
+        <id>https://v.daum.net/v/20220423170013208</id>
+        <link href="https://v.daum.net/v/20220423170013208"/>
+        <updated>2022-04-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된 분노를 쏟는 경우도 적지 않다. &nbsp;굴절되어 애먼 곳으로 향한 분노는 불행한 사람을 더 늘릴 뿐 아무 문제도 해결하지 못하며 아무도 행복하게 만들지 못한다. 잘 쓰이면 큰 힘을 발휘하기도 하는 분노를 쓸데 없는 데에 소모하기만 하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이지 않는다는 것은 차별이 있다는 뜻이다]]></title>
         <id>https://v.daum.net/v/20220416060029606</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220205060033958"/>
         <updated>2022-02-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[누군가를 위로하고 돕고 싶을 때 일단&nbsp;애쓰면 될 것 같지만 여기에도 바람직한 방법이 있고 그렇지 않은 방법이 있다. 예컨대 요즘 같은 시대에 막무가내로 조언을 주겠다며 "나 때는 말이야"를 무턱대고 던지면 ‘라떼’라는 말을 듣는다.&nbsp; 또 상대가 딱히 요청하지 않은 도움을 들이밀면 오지랖을 부리는 셈이 된다. 함께 일하는 상황이나 편안한 관계일 때나 선의로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감정노동하면서 '번아웃'을 막으려면]]></title>
-        <id>https://v.daum.net/v/20220129060030556</id>
-        <link href="https://v.daum.net/v/20220129060030556"/>
-        <updated>2022-01-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[미국에 있다가 한국 콜센터에 전화할 일이 생겼을 때 지나치게 따뜻하고 순종적인 톤의 목소리에 흠칫 놀랐던 적이 있다. 너무 과도한 감정 노동을 강요하는 것이 아닌지 하는 의문이 들었다. 문제는 감정노동에는 많은 심리적, 사회적 ‘비용’이 따른다는 것이다.&nbsp; 감정노동이란 펜실베이니아주립대의 심리학자 알리시아 그랜디 교수에 따르면&nbsp;감정노동은 고용주가 고용]]></content>
     </entry>
 </feed>

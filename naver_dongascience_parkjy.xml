@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 08:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감정에 대한 이해가 필요한 이유]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000018689?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000018689?sid=110</guid>
+            <pubDate>Sat, 23 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/23/18689.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보이지 않는다는 것은 차별이 있다는 뜻이다]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000018601?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[신종 코로나바이러스 감염증(COVID-19·코로나19) 상황을 재평가해본 사람들은 그렇게 하지 않은 사람들에 비해 똑같은 절망적인 사진을 봐도 부정적…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/04/16958.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울음은 도움 요청계의 만능키]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000016874?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000016874?sid=110</guid>
-            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 현재까지 진행된 여러 연구에 따르면 여러 동물들 중 인간만이 슬픔, 분노, 좌절, 등 감정적 이유로 눈물을 흘리는 정서적 울음을…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/27/16874.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

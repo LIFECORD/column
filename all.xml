@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 08:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학]감정에 대한 이해가 필요한 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=53792</link>
+            <guid>https://www.dongascience.com/news.php?idx=53792</guid>
+            <pubDate>Sat, 23 Apr 2022 08:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된 분노를 쏟는 경우도 적지 않다. 굴절되어 애먼 곳으로 향한 분노는 불행한 사람을 더 늘릴 뿐 아무 문제도 해결하지 못하며 아무도 행복하게 만들지 못한다. 잘 쓰이면 큰 힘을 발휘하기도 하는 분노를 쓸데 없는 데에 소모하기만 하는 이유는 무엇일까? 여러가지 이유가 있겠지만 자신의 욕구와 감정, 자신과 타인에 대한 이해 자체가 부족한 것이 한 가지 원인일 수 있다. 미국 플로리다대 빅토르 해리스 교수는 최근 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학]보이지 않는다는 것은 차별이 있다는 뜻이다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=53670</link>
             <guid>https://www.dongascience.com/news.php?idx=53670</guid>
@@ -431,11 +438,12 @@
             <content:encoded><![CDATA[어느새인가 우리 사회 곳곳에 혐오가 퍼져있다. 온라인 세상도 예외는 아니어서 유명인이나 심지어 일반인을 대상으로 우르르 악플 테러를 하는 등 큰 해를 입히는 경우가 적지 않다. 공격을 행하는 가해자들은 대체로 공격의 대상과 일면식도 없고 그 사람에 의해 아무런 피해도 입지 않은 사람들이 대부분이다. 즉, 딱히 온라인에서의 많은 테러들이 보복하거나 괴롭힐 이유가 전혀 없는 사람들에 의해 저질러지곤 한다. 손쉽게 우르르 몰려가 타인의 삶을 망가뜨리는 비합리적인 행동들이 나타나는 이유는 무엇일까? 학자들에 따르면 온라인 상의 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 진정한 이해 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=52329</link>
-            <guid>https://www.dongascience.com/news.php?idx=52329</guid>
-            <pubDate>Sat, 12 Feb 2022 09:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해력도 늘어나며 섣불리 판단하는 일이 줄어들고 결과적으로 한 단계 더 지혜로워진다는 뜻이 담겨있다. 하지만 때로는 뜬구름 잡는 것처럼 느껴져서 어떻게 해야 타인과 세상을 어른스럽게 이해할 수 있는지 잘 감이 오지 않는다. 우리가 추구해야 한다고 하는 ‘진정한 이해’란 어떤 것일까? 나는 봤지만 걔는 못 봤어 샐리와 앤이 있다. 샐리는 가지고 있던 공을 바구니에 넣는다. 샐리가 자리를 뜨고, 앤이 ...]]></content:encoded>
+            <title><![CDATA[감정에 대한 이해가 필요한 이유 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000018689?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000018689?sid=110</guid>
+            <pubDate>Sat, 23 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/23/18689.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이지 않는다는 것은 차별이 있다는 뜻이다 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -590,12 +598,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/04/16958.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울음은 도움 요청계의 만능키 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000016874?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000016874?sid=110</guid>
-            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 현재까지 진행된 여러 연구에 따르면 여러 동물들 중 인간만이 슬픔, 분노, 좌절, 등 감정적 이유로 눈물을 흘리는 정서적 울음을…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/27/16874.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[감정에 대한 이해가 필요한 이유 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20220423170013208</link>
+            <guid>https://v.daum.net/v/20220423170013208</guid>
+            <pubDate>Sat, 23 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된 분노를 쏟는 경우도 적지 않다. &nbsp;굴절되어 애먼 곳으로 향한 분노는 불행한 사람을 더 늘릴 뿐 아무 문제도 해결하지 못하며 아무도 행복하게 만들지 못한다. 잘 쓰이면 큰 힘을 발휘하기도 하는 분노를 쓸데 없는 데에 소모하기만 하는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보이지 않는다는 것은 차별이 있다는 뜻이다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://v.daum.net/v/20220205060033958</guid>
             <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[누군가를 위로하고 돕고 싶을 때 일단&nbsp;애쓰면 될 것 같지만 여기에도 바람직한 방법이 있고 그렇지 않은 방법이 있다. 예컨대 요즘 같은 시대에 막무가내로 조언을 주겠다며 "나 때는 말이야"를 무턱대고 던지면 ‘라떼’라는 말을 듣는다.&nbsp; 또 상대가 딱히 요청하지 않은 도움을 들이밀면 오지랖을 부리는 셈이 된다. 함께 일하는 상황이나 편안한 관계일 때나 선의로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[감정노동하면서 '번아웃'을 막으려면 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20220129060030556</link>
-            <guid>https://v.daum.net/v/20220129060030556</guid>
-            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국에 있다가 한국 콜센터에 전화할 일이 생겼을 때 지나치게 따뜻하고 순종적인 톤의 목소리에 흠칫 놀랐던 적이 있다. 너무 과도한 감정 노동을 강요하는 것이 아닌지 하는 의문이 들었다. 문제는 감정노동에는 많은 심리적, 사회적 ‘비용’이 따른다는 것이다.&nbsp; 감정노동이란 펜실베이니아주립대의 심리학자 알리시아 그랜디 교수에 따르면&nbsp;감정노동은 고용주가 고용]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
