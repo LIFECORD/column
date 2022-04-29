@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-04-29T20:15:18.273Z</updated>
+    <updated>2022-04-29T21:14:49.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성애자가 성소수자 권리에 목소리를 높이는 이유]]></title>
+        <id>https://v.daum.net/v/20220430060021769</id>
+        <link href="https://v.daum.net/v/20220430060021769"/>
+        <updated>2022-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[사람들이 자신의 이익을 위해 목소리를 내는 것은&nbsp;흔한 일이다.&nbsp; 하지만 자신의 이익과 직결되지 않는 타인의 문제에도 기꺼이 관심을 가지고 함께 싸우는 사람들이 존재한다.&nbsp; 인종차별 문제에 함께 목소리를 내는 백인들이나 성소수자 인권을 위해 함께 싸우는 이성애자들,&nbsp; 또 자신도 약자이면서 다른 사회적 약자들의 권리를 위해 함께 싸우는 이들 같이 남의 일에도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감정에 대한 이해가 필요한 이유]]></title>
         <id>https://v.daum.net/v/20220423170013208</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220212091023132"/>
         <updated>2022-02-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해력도 늘어나며 섣불리 판단하는 일이 줄어들고 결과적으로 한 단계 더 지혜로워진다는 뜻이 담겨있다. 하지만 때로는 뜬구름 잡는 것처럼 느껴져서 어떻게 해야 타인과 세상을 어른스럽게 이해할 수 있는지 잘 감이 오지 않는다. 우리가 추구해야 한다고 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누군가 돕고 싶다면]]></title>
-        <id>https://v.daum.net/v/20220205060033958</id>
-        <link href="https://v.daum.net/v/20220205060033958"/>
-        <updated>2022-02-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[누군가를 위로하고 돕고 싶을 때 일단&nbsp;애쓰면 될 것 같지만 여기에도 바람직한 방법이 있고 그렇지 않은 방법이 있다. 예컨대 요즘 같은 시대에 막무가내로 조언을 주겠다며 "나 때는 말이야"를 무턱대고 던지면 ‘라떼’라는 말을 듣는다.&nbsp; 또 상대가 딱히 요청하지 않은 도움을 들이밀면 오지랖을 부리는 셈이 된다. 함께 일하는 상황이나 편안한 관계일 때나 선의로]]></content>
     </entry>
 </feed>

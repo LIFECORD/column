@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 20:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 21:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이성애자가 성소수자 권리에 목소리를 높이는 이유]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000018786?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000018786?sid=110</guid>
+            <pubDate>Sat, 30 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[개인의 문제보다 구조적 차별의 존재를 알리는 메시지를 보았을 때 사람들이 더 동참한다는 연구결과가 있다. 게티이미지뱅크 제공 사람들이 자신의 이…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/30/18786.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감정에 대한 이해가 필요한 이유]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000018689?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/11/17048.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정말 잃기만 한 시간이었을까]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000016958?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000016958?sid=110</guid>
-            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[신종 코로나바이러스 감염증(COVID-19·코로나19) 상황을 재평가해본 사람들은 그렇게 하지 않은 사람들에 비해 똑같은 절망적인 사진을 봐도 부정적…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/04/16958.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
