@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 20:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 21:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0519/A0002744726_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학]아이들에게 따뜻한 사회가 행복한 어른을 만든다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=54057</link>
+            <guid>https://www.dongascience.com/news.php?idx=54057</guid>
+            <pubDate>Sat, 07 May 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모든 양육자의 꿈은 아이가 행복하고 건강하게 자라나는 것이다. 행복하고 건강한 사람을 만드는 데 중요한 요소들은 아주 많겠지만, 가장 기본적인 것은 무엇보다도 양육자를 포함한 주변 사람들의 사랑과 온기이다. 미국 듀크대 연구팀은 500여명의 갓난아기들을 30세까지 추적 관찰한 연구를 한 일이 있다. 8개월 때 양육자와 친밀하고 사랑이 넘치는 관계를 맺고 있었던 아이들은 그렇지 않은 아이들에 비해 30대가 되어서도 더 행복하고, 나쁜 일이 닥쳐왔을 때 잘 이겨내는 특성인 회복 탄성력도 더 높고, 불안 수준도 더 낮은 것으로 나타났다....]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 이성애자가 성소수자 권리에 목소리를 높이는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=53936</link>
             <guid>https://www.dongascience.com/news.php?idx=53936</guid>
@@ -431,11 +438,12 @@
             <content:encoded><![CDATA[일상이 지루하고 재미없다고 느껴질 때 흔히 자극이 부족해서라고 생각하기 쉽다. 그래서 좀 더 강렬한 자극을 찾아나서야겠다는 생각을 하는 경우가 적지 않다. 물론 자극이 너무 부족한 환경이라면 지루함에서 벗어나기 어려울 것이다. 하지만 지루함에 영향을 주는 것은 자극의 강도가 전부가 아니라는 사실을 아는 것이 중요하다. 미국 플로리다대 심리학자 에린 웨스트게이트 교수에 따르면 지루함은 자극의 부재 못지 않게 '의미'의 부재에 민감하게 반응하는 감정이다. 예컨대 사람들에게 계산이나 종이 찢기처럼 똑같이 지루한 과제들...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학]가짜뉴스에 쉽게 빠지는 사람의 특성 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=52589</link>
-            <guid>https://www.dongascience.com/news.php?idx=52589</guid>
-            <pubDate>Sat, 26 Feb 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은 정보가 넘쳐나고 있다. 정보 부족보다 정보 과잉, 특히 가짜 뉴스들이 넘쳐 사람들의 판단력을 흐리는 것이 문제라는 지적이 많다. 가짜 뉴스가 진짜 뉴스보다 더 쉽게 퍼지고 큰 영향력을 펼치게 되는 경우도 어렵지 않게 접할 수 있다. 이렇게 가짜 뉴스가 판을 치는 현상이 나타나는 이유는 뭘까? 눈이 가는 것이 믿기에도 좋다 가짜 뉴스는 다음과 같이 정의된다. “일반적인 뉴스 미디어를 통해 전해지는 정보의 형태를...]]></content:encoded>
+            <title><![CDATA[아이들에게 따뜻한 사회가 행복한 어른을 만든다 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000018874?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000018874?sid=110</guid>
+            <pubDate>Sat, 07 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 모든 양육자의 꿈은 아이가 행복하고 건강하게 자라나는 것이다. 행복하고 건강한 사람을 만드는 데 중요한 요소들은 아주 많겠지…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/05/07/18874.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이성애자가 성소수자 권리에 목소리를 높이는 이유 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -590,12 +598,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/18/17153.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규범이 촘촘한 문화 가진 국가, 코로나19 피해 적었다 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000017048?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000017048?sid=110</guid>
-            <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/11/17048.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[아이들에게 따뜻한 사회가 행복한 어른을 만든다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20220507060022904</link>
+            <guid>https://v.daum.net/v/20220507060022904</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모든 양육자의 꿈은 아이가 행복하고 건강하게 자라나는 것이다. 행복하고 건강한 사람을 만드는 데 중요한 요소들은 아주 많겠지만, 가장 기본적인 것은 무엇보다도 양육자를 포함한 주변 사람들의 사랑과 온기이다.&nbsp; 미국 듀크대 연구팀은 500여명의 갓난아기들을 30세까지 추적 관찰한 연구를 한 일이 있다.&nbsp;8개월 때 양육자와 친밀하고 사랑이 넘치는 관계를 맺고]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이성애자가 성소수자 권리에 목소리를 높이는 이유 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://v.daum.net/v/20220220023010200</guid>
             <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어느새인가 우리 사회 곳곳에 혐오가&nbsp;퍼져있다.&nbsp;온라인&nbsp;세상도&nbsp;예외는&nbsp;아니어서&nbsp;유명인이나&nbsp;심지어&nbsp;일반인을&nbsp;대상으로&nbsp;우르르&nbsp;악플 테러를&nbsp;하는&nbsp;등&nbsp;큰&nbsp;해를&nbsp;입히는&nbsp;경우가&nbsp;적지&nbsp;않다.&nbsp;공격을&nbsp;행하는&nbsp;가해자들은&nbsp;대체로&nbsp;공격의&nbsp;대상과&nbsp;일면식도&nbsp;없고&nbsp;그&nbsp;사람에&nbsp;의해&nbsp;아무런&nbsp;피해도&nbsp;입지&nbsp;않은&nbsp;사람들이&nbsp;대부분이다.&nbsp;즉,&nbsp;딱히&nbsp;온라인에서의&nbsp;많은&nbsp;테러들이&nbsp;보복하거나 괴롭힐&nbsp;이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진정한 이해 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20220212091023132</link>
-            <guid>https://v.daum.net/v/20220212091023132</guid>
-            <pubDate>Sat, 12 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해력도 늘어나며 섣불리 판단하는 일이 줄어들고 결과적으로 한 단계 더 지혜로워진다는 뜻이 담겨있다. 하지만 때로는 뜬구름 잡는 것처럼 느껴져서 어떻게 해야 타인과 세상을 어른스럽게 이해할 수 있는지 잘 감이 오지 않는다. 우리가 추구해야 한다고 하]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>

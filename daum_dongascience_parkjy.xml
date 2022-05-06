@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-05-06T20:16:37.617Z</updated>
+    <updated>2022-05-06T21:13:36.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이들에게 따뜻한 사회가 행복한 어른을 만든다]]></title>
+        <id>https://v.daum.net/v/20220507060022904</id>
+        <link href="https://v.daum.net/v/20220507060022904"/>
+        <updated>2022-05-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[모든 양육자의 꿈은 아이가 행복하고 건강하게 자라나는 것이다. 행복하고 건강한 사람을 만드는 데 중요한 요소들은 아주 많겠지만, 가장 기본적인 것은 무엇보다도 양육자를 포함한 주변 사람들의 사랑과 온기이다.&nbsp; 미국 듀크대 연구팀은 500여명의 갓난아기들을 30세까지 추적 관찰한 연구를 한 일이 있다.&nbsp;8개월 때 양육자와 친밀하고 사랑이 넘치는 관계를 맺고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성애자가 성소수자 권리에 목소리를 높이는 이유]]></title>
         <id>https://v.daum.net/v/20220430060021769</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220220023010200"/>
         <updated>2022-02-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[어느새인가 우리 사회 곳곳에 혐오가&nbsp;퍼져있다.&nbsp;온라인&nbsp;세상도&nbsp;예외는&nbsp;아니어서&nbsp;유명인이나&nbsp;심지어&nbsp;일반인을&nbsp;대상으로&nbsp;우르르&nbsp;악플 테러를&nbsp;하는&nbsp;등&nbsp;큰&nbsp;해를&nbsp;입히는&nbsp;경우가&nbsp;적지&nbsp;않다.&nbsp;공격을&nbsp;행하는&nbsp;가해자들은&nbsp;대체로&nbsp;공격의&nbsp;대상과&nbsp;일면식도&nbsp;없고&nbsp;그&nbsp;사람에&nbsp;의해&nbsp;아무런&nbsp;피해도&nbsp;입지&nbsp;않은&nbsp;사람들이&nbsp;대부분이다.&nbsp;즉,&nbsp;딱히&nbsp;온라인에서의&nbsp;많은&nbsp;테러들이&nbsp;보복하거나 괴롭힐&nbsp;이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정한 이해]]></title>
-        <id>https://v.daum.net/v/20220212091023132</id>
-        <link href="https://v.daum.net/v/20220212091023132"/>
-        <updated>2022-02-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[나이가 들수록 ‘성숙’해진다고 한다. 여기에는 이 전에는 보지 못했던 많은 것들을 보고 타인이나 세상을 향한 이해력도 늘어나며 섣불리 판단하는 일이 줄어들고 결과적으로 한 단계 더 지혜로워진다는 뜻이 담겨있다. 하지만 때로는 뜬구름 잡는 것처럼 느껴져서 어떻게 해야 타인과 세상을 어른스럽게 이해할 수 있는지 잘 감이 오지 않는다. 우리가 추구해야 한다고 하]]></content>
     </entry>
 </feed>

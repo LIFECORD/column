@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 20:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 21:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이들에게 따뜻한 사회가 행복한 어른을 만든다]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000018874?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000018874?sid=110</guid>
+            <pubDate>Sat, 07 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 모든 양육자의 꿈은 아이가 행복하고 건강하게 자라나는 것이다. 행복하고 건강한 사람을 만드는 데 중요한 요소들은 아주 많겠지…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/05/07/18874.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이성애자가 성소수자 권리에 목소리를 높이는 이유]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000018786?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 18 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아직 다가오지 않은 순간을 두려워하는만큼 정작 중요한 현재를 살 기회를 놓칠 수 있다. 게티이미지뱅크 제공 최악의 상황에서도 눈 앞의 순간에 집중…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/18/17153.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규범이 촘촘한 문화 가진 국가, 코로나19 피해 적었다]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000017048?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000017048?sid=110</guid>
-            <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/11/17048.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
