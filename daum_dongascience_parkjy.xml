@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-05-12T23:17:13.284Z</updated>
+    <updated>2022-05-24T02:23:05.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신은 가장 좋은 내가 될 수 있게 끌어주는 사람입니다]]></title>
+        <id>https://v.daum.net/v/20220521092013913</id>
+        <link href="https://v.daum.net/v/20220521092013913"/>
+        <updated>2022-05-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[예쁘고 잘 생긴 사람이 그렇지 않은 사람보다&nbsp;사회적으로 더 잘 받아들여지는 현상이&nbsp;흔히 나타난다. 예를 들어 매력적인 사람들은 사람들로부터 호감도 더 잘 사고 매력적이지 않은 사람들에 비해 능력도 성격도 더 좋은 편일 거라는 평가를 받곤 한다. 그러다 보니 구직 시장에서도 매력적인 사람들은 그렇지 않은 사람들에 비해 더 잘 채용되고 연봉 또한 더 높게 받곤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주어진 상황을 어떻게 해석해야할까]]></title>
+        <id>https://v.daum.net/v/20220514060035968</id>
+        <link href="https://v.daum.net/v/20220514060035968"/>
+        <updated>2022-05-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[즐길 수 없는 일은 가급적 피하는 것이 정신건강에 이롭다. 하지만 문제는 피할 수 없을 때가 많다는 것이다. 그렇게 피할 수 없을 때 즐기기까지는 못하더라도, 이런 과정 나에게 어떻게든 도움이 될 것이라고 생각하는 것이 스트레스를 이겨내는 데 도움이 된다는 연구들이 있다.&nbsp; 미국 스탠퍼드대 심리학과 앨리아 크럼 교수와 동료들은 다음과 같은 실험을 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이들에게 따뜻한 사회가 행복한 어른을 만든다]]></title>
         <id>https://v.daum.net/v/20220507060022904</id>
@@ -74,19 +88,5 @@
         <link href="https://v.daum.net/v/20220305130015635"/>
         <updated>2022-03-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[일상이 지루하고 재미없다고 느껴질 때 흔히 자극이 부족해서라고 생각하기 쉽다. 그래서 좀 더 강렬한 자극을 찾아나서야겠다는 생각을 하는 경우가 적지 않다. 물론 자극이 너무 부족한 환경이라면 지루함에서 벗어나기 어려울 것이다. 하지만 지루함에 영향을 주는 것은 자극의 강도가 전부가 아니라는 사실을 아는 것이 중요하다.&nbsp; 미국 플로리다대&nbsp;심리학자 에린 웨스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜뉴스에 쉽게 빠지는 사람의 특성]]></title>
-        <id>https://v.daum.net/v/20220226060013800</id>
-        <link href="https://v.daum.net/v/20220226060013800"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은&nbsp; 정보가 넘쳐나고 있다.&nbsp;정보 부족보다 정보 과잉, 특히 가짜 뉴스들이 넘쳐 사람들의 판단력을 흐리는 것이 문제라는 지적이 많다. 가짜 뉴스가 진짜 뉴스보다 더 쉽게 퍼지고 큰 영향력을 펼치게 되는 경우도 어렵지 않게 접할 수 있다. 이렇게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인에서 타인의 삶을 망가뜨리는 사람들]]></title>
-        <id>https://v.daum.net/v/20220220023010200</id>
-        <link href="https://v.daum.net/v/20220220023010200"/>
-        <updated>2022-02-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[어느새인가 우리 사회 곳곳에 혐오가&nbsp;퍼져있다.&nbsp;온라인&nbsp;세상도&nbsp;예외는&nbsp;아니어서&nbsp;유명인이나&nbsp;심지어&nbsp;일반인을&nbsp;대상으로&nbsp;우르르&nbsp;악플 테러를&nbsp;하는&nbsp;등&nbsp;큰&nbsp;해를&nbsp;입히는&nbsp;경우가&nbsp;적지&nbsp;않다.&nbsp;공격을&nbsp;행하는&nbsp;가해자들은&nbsp;대체로&nbsp;공격의&nbsp;대상과&nbsp;일면식도&nbsp;없고&nbsp;그&nbsp;사람에&nbsp;의해&nbsp;아무런&nbsp;피해도&nbsp;입지&nbsp;않은&nbsp;사람들이&nbsp;대부분이다.&nbsp;즉,&nbsp;딱히&nbsp;온라인에서의&nbsp;많은&nbsp;테러들이&nbsp;보복하거나 괴롭힐&nbsp;이]]></content>
     </entry>
 </feed>
