@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2022-06-03T11:13:07.512Z</updated>
+    <updated>2022-06-03T12:25:16.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[걸그룹 SES 전 멤버 슈에 대한 악의적 기사들은 어떻게 혐오의 판을 까는가]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202206031611005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202206031611005"/>
+        <updated>2022-06-03T12:22:26.536Z</updated>
+        <content type="html"><![CDATA[1세대 걸그룹 SES 전 멤버 슈(본명 유수영)의 호(號)는 ‘도박’이다. 그와 관련된 기사에선 내용과 상관없이 그의 이름 앞에 ‘도박’이란 단어를 붙인다. 가령 헤럴드POP은 슈가 본인 인스타그램에 가족과 먹을 늦은 아침 식사 사진을 올리자, 이를 ‘‘도박’ 슈, 평화로운 주말… 삼남매 위한 브런치 뚝딱 “많이 먹고 사랑해”’라는 타이틀의 기사로 소개했다. 샌드위치 사진을 올리면 ‘‘도박’ 슈, 복귀 위해 식단관리 집중… 이렇게 먹으니 뼈밖에 없지’라는 제...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임종린의 세계와 미디어 속 포켓몬빵의 세계, 대혼돈의 멀티버스]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202205201556005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/national-general/article/202201141624005"/>
         <updated>2022-02-27T19:09:42.616Z</updated>
         <content type="html"><![CDATA[이번 칼럼에선 두괄식으로 미리 핵심 결론을 이야기하겠다. 앞으로 한국의 드라마나 영화에서 흥신소를 통해 누군가의 신원이나 행적을 파악하는 장면은 나오지 않거나, 철저히 비판적인 거리를 두고 재현되거나, (가능한 것인지 모르겠지만) 충분히 합법적으로 처리되는 과정을 보여주어야 한다고 생각한다. 적어도 현실 세계에서 한 스토킹 범죄자가 신변보호 중이던 여성의 거주지를 흥신소를 통해 알아내 그의 모친을 살해하고, 흥신소에 그 정보를 2만원에 팔았던 구청 직원...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼프로TV'는 어떻게 지난 대선 손석희의 자리를 대체했나]]></title>
-        <id>https://www.khan.co.kr/national/media/article/202112311644005</id>
-        <link href="https://www.khan.co.kr/national/media/article/202112311644005"/>
-        <updated>2022-02-27T19:09:42.623Z</updated>
-        <content type="html"><![CDATA[‘삼프로TV가 나라를 구했다.’ 경제 및 주식 유튜브 채널 ‘삼프로TV’를 검색하기 위해 구글에 ‘삼프로’까지만 입력하면 자동 완성되는 문장이다. 에두를 것 없다. 지난 12월25일 ‘삼프로TV’는 현재 가장 유력한 두 대선 후보인 이재명 더불어민주당 후보, 윤석열 국민의힘 후보와 각각 진행한 경제 정책 인터뷰를 공개했고, 현재(12월28일 기준) 이재명 후보의 영상은 조회 수 274만회, 윤석열 후보 영상은 175만회를 기록했다. 조회 수도 이재명 후보 쪽이 높았지만...]]></content>
     </entry>
 </feed>
