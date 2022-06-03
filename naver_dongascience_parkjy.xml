@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 20:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 21:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거절은 언제나 아프다]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000019219?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000019219?sid=110</guid>
+            <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 거절은 언제나 아프다. 특히 사회적 동물로 태어난 인간들의 경우 실험실 상에서 약 2분만 모르는 사람들로부터 소외되어도 자존…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/06/04/19219.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무기력함 이겨내는 것은 '작은 행동']]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000019139?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 얼마 전부터 갑자기 스마트폰 사진을 출력할 수 있는 프린터가 가지고 싶다는 마음이 생겼다. 원래 별로 있는지도 몰랐고 따라서 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/01/22/17549.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바디스캔의 핵심]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000017481?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000017481?sid=110</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 최근 마음챙김 명상 특강을 들을 일이 있다. 가장 기본적인 명상을 몇 가지 체험해보는 것이 주된 내용이다. 그 중 바디스캔(bod…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/01/15/17481.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
