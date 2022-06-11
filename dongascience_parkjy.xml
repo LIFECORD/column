@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2022-06-11T08:16:21.366Z</updated>
+    <updated>2022-06-11T09:12:41.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 지나치게 걱정이 많은 사람에게]]></title>
+        <id>https://www.dongascience.com/news.php?idx=54830</id>
+        <link href="https://www.dongascience.com/news.php?idx=54830"/>
+        <updated>2022-06-11T09:11:49.775Z</updated>
+        <content type="html"><![CDATA[저녁 메뉴를 고르거나 옷을 고르는 사소한 일도 쉽게 결정하지 못하는 탓에 고민인 사람이 있다. 소위 결정 장애로 불리는 사람들이다. 물론 결정을 내리는 것은 누구에게나 절대로 쉽지 않은 일이다. 어떤 결정을 내리든 다 나름의 장단점이 있고 내가 내린 선택으로 미래의 결과를 예측하기란 불가능한 일이기 때문이다. 때로는 결정을 너무 쉽게 내리는 것 또한 문제를 일으키곤 한다. 신중함이 부족하거나 생각이 짧거나 그냥 귀찮아서, 또는 충동적인 성향이 커서 대충 결정을 내리고 나면 차마 고려하지 못했던 요소들로 인해 후회하는 경우가 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 거절은 언제나 아프다]]></title>
         <id>https://www.dongascience.com/news.php?idx=54720</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=53545"/>
         <updated>2022-04-09T06:00:00.000Z</updated>
         <content type="html"><![CDATA[최근 장애인들의 이동권 시위에 대해 '이기적인 요구'를 한다는 반응들을 어렵지 않게 찾아볼 수 있다. 필자도 어느 연세가 있는 분이 장애인들의 시위 때문에 아이들이 지각을 하는 등 피해를 보고 있다고 말하는 것을 들은 적이 있다. 하지만 장애인들의 권리 찾기 운동이 자기들만 이득을 보려고 한다든가, 이기적이라고 하는 말은 성립되기 어렵다. 타이밍만 다를 뿐 모든 인간은 크고 작은 장애를 갖게 되기 때문이다. 비장애인이란 아직 장애를 갖지 않고 있는 '일시적 상태'일 뿐 변치 않는 정체성 같은 것이 아니라는 얘기다. 허...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 감정을 있는 그대로 받아들이려면 판단하지 말아야]]></title>
-        <id>https://www.dongascience.com/news.php?idx=53411</id>
-        <link href="https://www.dongascience.com/news.php?idx=53411"/>
-        <updated>2022-04-02T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[고등학생 때 집안 사정으로 많이 힘들었던 시기가 있었다. 어느 날 야간 자율학습 시간에 교실을 빠져나와 조용한 학교를 혼자 돌아다녔다. 정처없이 거닐다가 아무도 없는 작은 화단을 발견했다. 화단 구석에 앉아 어두워지는 하늘을 보고 있노라니 왠지 모르게 마음이 놓였다. 이윽고 마음이 툭 하는 소리를 내며 스르르 풀어짐을 느꼈다. 모든 게 다 싫고 밉다며 씩씩거리던 마음이 차분해졌고 이내 진한 외로움이 밀려왔다. 처음으로 철저히 혼자라는 느낌을 받았다. 사실 알고는 있었는데 모르는 척 해왔던 감정을 처음으로 직면했다. 갑자기 절...]]></content>
     </entry>
 </feed>
