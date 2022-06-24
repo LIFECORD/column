@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-06-24T20:14:29.467Z</updated>
+    <updated>2022-06-24T21:12:11.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부정적 정서는 주의를 빼앗는데 능숙하다]]></title>
+        <id>https://v.daum.net/v/20220625060020279</id>
+        <link href="https://v.daum.net/v/20220625060020279"/>
+        <updated>2022-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[학점을&nbsp;잘&nbsp;받기&nbsp;위해서는&nbsp;보통&nbsp;여러&nbsp;과목을&nbsp;골고루&nbsp;공부해야&nbsp;한다. 하지만&nbsp;심히&nbsp;걱정되는&nbsp;과목이&nbsp;하나&nbsp;있어서&nbsp;거기에&nbsp;특별히&nbsp;집중하다가&nbsp;나머지&nbsp;과목들을&nbsp;공부할&nbsp;시기를&nbsp;놓치고&nbsp;말았다는&nbsp;이야기를&nbsp;들었다.&nbsp;다들&nbsp;한&nbsp;번쯤은&nbsp;이런&nbsp;경험이&nbsp;있을&nbsp;것이다.&nbsp;시간과&nbsp;자원이&nbsp;무한하면&nbsp;좋겠지만&nbsp;그렇지&nbsp;않기&nbsp;때문에&nbsp;어떤&nbsp;한&nbsp;가지를&nbsp;지나치게&nbsp;걱정하고 그 일에 몰두하다보면&nbsp;다른&nbsp;중요한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지나치게 걱정이 많은 사람에게]]></title>
         <id>https://v.daum.net/v/20220611173015601</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220402060051617"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[고등학생 때 집안 사정으로 많이 힘들었던 시기가 있었다. 어느 날 야간 자율학습 시간에 교실을 빠져나와 조용한 학교를 혼자 돌아다녔다. 정처없이 거닐다가 아무도 없는 작은 화단을 발견했다. 화단 구석에 앉아 어두워지는 하늘을 보고 있노라니 왠지 모르게 마음이 놓였다. 이윽고 마음이 툭 하는 소리를 내며 스르르 풀어짐을 느꼈다. &nbsp; 모든 게 다 싫고 밉다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇을 위한 성실성인가]]></title>
-        <id>https://v.daum.net/v/20220326080044816</id>
-        <link href="https://v.daum.net/v/20220326080044816"/>
-        <updated>2022-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[얼마전 연구실 사람들과 끊임없이 목표를 세우고 달성해야만 한다는 압박감의 존재에 대한 이야기를 했다. 사실 이미 어느 정도 좋은 성과를 내고 있음에도 만족하지 말라며 자신을 다그치고, 일 하지 않는 상태 자체를 악으로 규정하고 휴식 시간에 죄책감을 느끼며, 멈추지 않고 달려가야 한다는 압박감을 느낀다는 것이었다. 우리 삶이 과하게 필요한 것은 어쩌면 실제]]></content>
     </entry>
 </feed>

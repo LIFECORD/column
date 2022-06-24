@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2022-06-24T20:14:29.468Z</updated>
+    <updated>2022-06-24T21:12:11.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]부정적 정서는 주의를 빼앗는데 능숙하다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=55054</id>
+        <link href="https://www.dongascience.com/news.php?idx=55054"/>
+        <updated>2022-06-25T06:00:00.000Z</updated>
+        <content type="html"><![CDATA[학점을 잘 받기 위해서는 보통 여러 과목을 골고루 공부해야 한다. 하지만 심히 걱정되는 과목이 하나 있어서 거기에 특별히 집중하다가 나머지 과목들을 공부할 시기를 놓치고 말았다는 이야기를 들었다. 다들 한 번쯤은 이런 경험이 있을 것이다. 시간과 자원이 무한하면 좋겠지만 그렇지 않기 때문에 어떤 한 가지를 지나치게 걱정하고 그 일에 몰두하다보면 다른 중요한 것들을 놓치게 되곤 한다. 이렇게 마치 한 곳만 딱 비추는 조명처럼 걱정과 불안은 우리로 하여금 그 원인이 되는 무엇에 많은 주의를 기울이게 만든다. 부정적인 감정의 기능...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 지나치게 걱정이 많은 사람에게]]></title>
         <id>https://www.dongascience.com/news.php?idx=54830</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=53670"/>
         <updated>2022-04-16T06:00:00.000Z</updated>
         <content type="html"><![CDATA[해외 TV 쇼에서 점점 인종 구성이 다양해지는 것을 볼 수 있다. 백인이 대다수이던 시상식에서도 점점 흑인이나 아시안 등 유색인종이 등장하는 것을 어렵지 않게 찾아볼 수 있다. 한국계 미국인 배우 산드라 오의 경우 자신은 한국계라는 사실을 항상 인식하고 있음을 자주 언급한다. 아시아계 사람들의 경우 영원한 외국인으로 인식되는 경우가 많기에 아시아계 사람들이 미디어에 등장하는 모습을 보며 새롭다고 느끼는 사람들이 적지 않다. 이제야 내가 이 사회에 속한 구성원이라는 느낌을 받는다는 반응들도 적지 않다. 이전에는 보이지 않던 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학]거리에서 장애를 가진 사람들이 잘 보이지 않는다는 의미]]></title>
-        <id>https://www.dongascience.com/news.php?idx=53545</id>
-        <link href="https://www.dongascience.com/news.php?idx=53545"/>
-        <updated>2022-04-09T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 장애인들의 이동권 시위에 대해 '이기적인 요구'를 한다는 반응들을 어렵지 않게 찾아볼 수 있다. 필자도 어느 연세가 있는 분이 장애인들의 시위 때문에 아이들이 지각을 하는 등 피해를 보고 있다고 말하는 것을 들은 적이 있다. 하지만 장애인들의 권리 찾기 운동이 자기들만 이득을 보려고 한다든가, 이기적이라고 하는 말은 성립되기 어렵다. 타이밍만 다를 뿐 모든 인간은 크고 작은 장애를 갖게 되기 때문이다. 비장애인이란 아직 장애를 갖지 않고 있는 '일시적 상태'일 뿐 변치 않는 정체성 같은 것이 아니라는 얘기다. 허...]]></content>
     </entry>
 </feed>
