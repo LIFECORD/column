@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 20:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 21:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0630/A0002755682_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 우리는 오직 자기 자신만을 용서할 수 있다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=55171</link>
+            <guid>https://www.dongascience.com/news.php?idx=55171</guid>
+            <pubDate>Sat, 02 Jul 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“어떻게 저런 사람을 용서할 수가 있지?”라는 질문이 생길 때가 있다. 끔찍한 짓을 저지른 가해자를 향해 피해자나 유족들이 나는 당신을 용서한다고 이야기하는 장면들을 볼 때면 늘 그렇다. 용서란 이해하기 어렵고 다루기 어려운 주제다. 사람이 사람을 용서한다는 것이 애초에 가능한 일인가 싶기도 하다. 그러던 중 최근 《내 죽음을 기억하시나요》 라는 연극을 봤다. 폭력 사건으로 인해 동생이 죽고 나서 동생을 지키지 못했다는 죄책감에 괴로워하는 형이 주인공이었다. 형은 용서의 의미를 파헤치기 위해 고군분투하지만 더욱...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학]부정적 정서는 주의를 빼앗는데 능숙하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=55054</link>
             <guid>https://www.dongascience.com/news.php?idx=55054</guid>
@@ -431,11 +438,12 @@
             <content:encoded><![CDATA[주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된 분노를 쏟는 경우도 적지 않다. 굴절되어 애먼 곳으로 향한 분노는 불행한 사람을 더 늘릴 뿐 아무 문제도 해결하지 못하며 아무도 행복하게 만들지 못한다. 잘 쓰이면 큰 힘을 발휘하기도 하는 분노를 쓸데 없는 데에 소모하기만 하는 이유는 무엇일까? 여러가지 이유가 있겠지만 자신의 욕구와 감정, 자신과 타인에 대한 이해 자체가 부족한 것이 한 가지 원인일 수 있다. 미국 플로리다대 빅토르 해리스 교수는 최근 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학]보이지 않는다는 것은 차별이 있다는 뜻이다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=53670</link>
-            <guid>https://www.dongascience.com/news.php?idx=53670</guid>
-            <pubDate>Sat, 16 Apr 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해외 TV 쇼에서 점점 인종 구성이 다양해지는 것을 볼 수 있다. 백인이 대다수이던 시상식에서도 점점 흑인이나 아시안 등 유색인종이 등장하는 것을 어렵지 않게 찾아볼 수 있다. 한국계 미국인 배우 산드라 오의 경우 자신은 한국계라는 사실을 항상 인식하고 있음을 자주 언급한다. 아시아계 사람들의 경우 영원한 외국인으로 인식되는 경우가 많기에 아시아계 사람들이 미디어에 등장하는 모습을 보며 새롭다고 느끼는 사람들이 적지 않다. 이제야 내가 이 사회에 속한 구성원이라는 느낌을 받는다는 반응들도 적지 않다. 이전에는 보이지 않던 ...]]></content:encoded>
+            <title><![CDATA[우리는 오직 자기 자신만을 용서할 수 있다 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000019490?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000019490?sid=110</guid>
+            <pubDate>Sat, 02 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[타인에 대한 미안함을 굳이 나를 향한 미움으로 바꿀 필요가 없는 이유. 게티이미지뱅크 제공 “어떻게 저런 사람을 용서할 수가 있지?”라…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/07/02/19490.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부정적 정서는 주의를 빼앗는데 능숙하다 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -590,12 +598,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/12/17792.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군가 돕고 싶다면 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000017692?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000017692?sid=110</guid>
-            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 누군가를 위로하고 돕고 싶을 때 일단 애쓰면 될 것 같지만 여기에도 바람직한 방법이 있고 그렇지 않은 방법이 있다. 예컨대 요…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/05/17692.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[우리는 오직 자기 자신만을 용서할 수 있다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20220702060030725</link>
+            <guid>https://v.daum.net/v/20220702060030725</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“어떻게 저런 사람을 용서할 수가 있지?”라는 질문이 생길 때가 있다. 끔찍한 짓을 저지른 가해자를 향해 피해자나 유족들이 나는 당신을 용서한다고 이야기하는 장면들을 볼 때면 늘 그렇다. 용서란 이해하기 어렵고 다루기 어려운 주제다. 사람이 사람을 용서한다는 것이 애초에 가능한 일인가 싶기도 하다.&nbsp; 그러던 중 최근 《내 죽음을 기억하시나요》 라는 연극을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부정적 정서는 주의를 빼앗는데 능숙하다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://v.daum.net/v/20220409060029018</guid>
             <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 장애인들의 이동권 시위에 대해 '이기적인 요구'를 한다는 반응들을 어렵지 않게 찾아볼 수 있다. 필자도&nbsp;어느 연세가 있는&nbsp;분이 장애인들의 시위 때문에 아이들이 지각을 하는 등 피해를 보고 있다고 말하는 것을 들은 적이 있다.&nbsp; 하지만 장애인들의 권리 찾기 운동이 자기들만 이득을 보려고 한다든가, 이기적이라고 하는 말은 성립되기 어렵다. 타이밍만 다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[감정을 있는 그대로 받아들이려면 판단하지 말아야 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20220402060051617</link>
-            <guid>https://v.daum.net/v/20220402060051617</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고등학생 때 집안 사정으로 많이 힘들었던 시기가 있었다. 어느 날 야간 자율학습 시간에 교실을 빠져나와 조용한 학교를 혼자 돌아다녔다. 정처없이 거닐다가 아무도 없는 작은 화단을 발견했다. 화단 구석에 앉아 어두워지는 하늘을 보고 있노라니 왠지 모르게 마음이 놓였다. 이윽고 마음이 툭 하는 소리를 내며 스르르 풀어짐을 느꼈다. &nbsp; 모든 게 다 싫고 밉다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
