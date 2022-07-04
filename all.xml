@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 09:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 10:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[우리 사회에서 2019년 말부터 발생한 코로나19는 2020년 1월3일부터 사망자 집계가 시작되었다. 9월25일 현재 중앙방역대책본부에 따르면 그간 코로나 누적 사망자는 2434명이다. 한편, 지난 23일 대한신경과학회는 4년 동안 자살한 이들이 하루 38명으로 총 5만2950명에 달한다고 발표했다. 통계청 결과도 비슷하다. 지난해 하루 평균 자살한 환자 수는 37.8명. 작년에만 1만3797명(37.8명×365일)이 자살로 사망했다는 얘기다 1년간 1만3000여건의 자살과 코로나 이후 1년10개월 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인기드라마 주연배우의 커밍아웃... 제작진의 대응 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002847026</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002847026</guid>
+            <pubDate>Mon, 04 Jul 2022 10:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0701/A0002847026_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돈때문에 변절했다 고백한 운동가... 그럼에도 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002843660</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002843660</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 09 Jun 2022 10:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span>버금</span>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0809/A0002765331_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자살'이 특별하지 않은 일이 될 때 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002755682</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002755682</guid>
-            <pubDate>Thu, 09 Jun 2022 10:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0630/A0002755682_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 우리는 오직 자기 자신만을 용서할 수 있다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
