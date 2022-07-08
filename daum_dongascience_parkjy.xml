@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-07-08T20:14:49.327Z</updated>
+    <updated>2022-07-08T21:13:56.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭력과 차별에 맞서는 정확한 표현]]></title>
+        <id>https://v.daum.net/v/20220709060032965</id>
+        <link href="https://v.daum.net/v/20220709060032965"/>
+        <updated>2022-07-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴스 기사 헤드라인들을 보다 보면 어떤 범죄들은 마치 '해리포터의 이름을 말하면 안되는 존재 , 볼드모트'처럼 그 이름으로 부르지 않는 경우가 허다하다. 예컨대 성폭력의 경우 아직도 몹쓸 짓이라는 이상한 표현으로 불릴 때가 많고 데이트 폭력, 가정 폭력 등의 여성혐오 범죄들도 여성혐오 범죄라 명명하지 않음으로써 문제의 본질을 가릴 때가 많다.&nbsp; 이러한 현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리는 오직 자기 자신만을 용서할 수 있다]]></title>
         <id>https://v.daum.net/v/20220702060030725</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220416060029606"/>
         <updated>2022-04-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[해외 TV 쇼에서 점점 인종 구성이 다양해지는 것을 볼 수 있다. 백인이 대다수이던 시상식에서도 점점 흑인이나 아시안 등 유색인종이 등장하는 것을 어렵지 않게 찾아볼 수 있다. 한국계 미국인 배우 산드라 오의 경우 자신은 한국계라는 사실을 항상 인식하고 있음을 자주 언급한다. 아시아계 사람들의 경우 영원한 외국인으로 인식되는 경우가 많기에 아시아계 사람들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거리에서 장애를 가진 사람들이 잘 보이지 않는다는 의미]]></title>
-        <id>https://v.daum.net/v/20220409060029018</id>
-        <link href="https://v.daum.net/v/20220409060029018"/>
-        <updated>2022-04-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 장애인들의 이동권 시위에 대해 '이기적인 요구'를 한다는 반응들을 어렵지 않게 찾아볼 수 있다. 필자도&nbsp;어느 연세가 있는&nbsp;분이 장애인들의 시위 때문에 아이들이 지각을 하는 등 피해를 보고 있다고 말하는 것을 들은 적이 있다.&nbsp; 하지만 장애인들의 권리 찾기 운동이 자기들만 이득을 보려고 한다든가, 이기적이라고 하는 말은 성립되기 어렵다. 타이밍만 다]]></content>
     </entry>
 </feed>
