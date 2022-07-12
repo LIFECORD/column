@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2022-07-12T20:15:40.837Z</updated>
+    <updated>2022-07-12T21:12:50.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오래 날고 싶다면? 대학생의 노동자 고소를 보면서]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202207130300005</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202207130300005"/>
+        <updated>2022-07-12T21:11:21.759Z</updated>
+        <content type="html"><![CDATA[최근 출간된 소설가 정찬의 열 번째 장편소설 &lt;발 없는 새&gt;의 배경 중 하나는 첸 카이거 감독의 &lt;패왕별희&gt;다. 제목 &lt;발 없는 새&gt;는 &lt;패왕별희&gt;의 주인공 장뤄룽(張國榮)의 &lt;아비정전&gt;의 대사에서 나왔다. “세상에 발 없는 새가 있다더군. 이 새는 나는 것 외에는 알지 못해. 날다가 지치면 바람 속에서 쉰대. 딱 한 번 땅에 내려앉는데 그건 바로 죽는 때지.” 세상에는 ‘발 없는 새’도 있지만 ‘발 디딜 곳 없는 새’도 있다. 운...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘검사 편향과 민변 도배’의 평화학]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202206150300015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202110270300015"/>
         <updated>2022-03-01T15:14:51.021Z</updated>
         <content type="html"><![CDATA[나는 화초를 키운다. 겨울철 난방비 때문에 이때쯤 가격이 좋다. 1년 내내 잘 가꿔진 화초를 저렴하게 살 수 있다. 반려동물 가구가 전체의 25%, 인구로는 1500만명 정도다. 주변에서는 대개 반려동물을 키우는데 그들이 이구동성으로 말하는 어려움은 동물 의료보험 문제다. 비용과 능력이 부족한 나는 스킨답서스처럼 싸고 잘 자라는 식물이 좋다. 간혹 친구들이 화분을 달라고 한다. 주면서도 여러 가지 생각을 하게 된다. 그 반대의 경우는 거의 없기 때문이다. 화초...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고통 호소가 협박이 된 사회]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202109290300055</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202109290300055"/>
-        <updated>2022-03-01T15:14:51.022Z</updated>
-        <content type="html"><![CDATA[우리 사회에서 2019년 말부터 발생한 코로나19는 2020년 1월3일부터 사망자 집계가 시작되었다. 9월25일 현재 중앙방역대책본부에 따르면 그간 코로나 누적 사망자는 2434명이다. 한편, 지난 23일 대한신경과학회는 4년 동안 자살한 이들이 하루 38명으로 총 5만2950명에 달한다고 발표했다. 통계청 결과도 비슷하다. 지난해 하루 평균 자살한 환자 수는 37.8명. 작년에만 1만3797명(37.8명×365일)이 자살로 사망했다는 얘기다 1년간 1만3000여건의 자살과 코로나 이후 1년10개월 ...]]></content>
     </entry>
 </feed>
