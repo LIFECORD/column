@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 01:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 나은 대우를 받을 자격이 있다는 착각이 불러온 분노]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000019625?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000019625?sid=110</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자격의식과 분노는 일생활에서 우월감을 추구하고 우열을 따지면서 생기는 감정인 열등감과도 맞닿아 있다. 픽사베이 제공 최근 국내에선 장애인 이동…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/07/17/19625.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭력과 차별에 맞서는 정확한 표현]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000019568?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동아사이언스DB 신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은 정보가 넘쳐…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/26/17964.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인에서 타인의 삶을 망가뜨리는 사람들]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000017890?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000017890?sid=110</guid>
-            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가학적인 성격 특성을 가지고 있는 사람들이 신체적으로 고통이 느껴지는 사진을 보고 즐거움을 크게 느낀 것으로 나타났다. 게티이미지뱅크 제공 어느…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/20/17890.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
