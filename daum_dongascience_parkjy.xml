@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
-    <updated>2022-07-22T20:16:32.599Z</updated>
+    <updated>2022-07-22T21:13:46.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행복이 낯설더라도]]></title>
+        <id>https://v.daum.net/v/20220723060012537</id>
+        <link href="https://v.daum.net/v/20220723060012537"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[사람들은&nbsp;다들 행복해지고 싶다고 이야기 한다. 자신은 꼭 불행해지고 싶다고 이야기 하는 사람은 잘 없을 것이다. 하지만 마치 우리의 원대한 다이어트 계획이나 공부 계획처럼, 말만 이렇게 할 뿐 실제 행복을 실천하고 경험하지 않으면 행복해지기란 참으로 어려운 일이다. 흔히 특별한 무엇을 성취하면 어느 날 갑자기 마법처럼 행복해질 것이라고 믿곤 하지만 실제 행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 대우를 받을 자격이 있다는 착각이 불러온 분노]]></title>
         <id>https://v.daum.net/v/20220717083012968</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220430060021769"/>
         <updated>2022-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[사람들이 자신의 이익을 위해 목소리를 내는 것은&nbsp;흔한 일이다.&nbsp; 하지만 자신의 이익과 직결되지 않는 타인의 문제에도 기꺼이 관심을 가지고 함께 싸우는 사람들이 존재한다.&nbsp; 인종차별 문제에 함께 목소리를 내는 백인들이나 성소수자 인권을 위해 함께 싸우는 이성애자들,&nbsp; 또 자신도 약자이면서 다른 사회적 약자들의 권리를 위해 함께 싸우는 이들 같이 남의 일에도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감정에 대한 이해가 필요한 이유]]></title>
-        <id>https://v.daum.net/v/20220423170013208</id>
-        <link href="https://v.daum.net/v/20220423170013208"/>
-        <updated>2022-04-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된 분노를 쏟는 경우도 적지 않다. &nbsp;굴절되어 애먼 곳으로 향한 분노는 불행한 사람을 더 늘릴 뿐 아무 문제도 해결하지 못하며 아무도 행복하게 만들지 못한다. 잘 쓰이면 큰 힘을 발휘하기도 하는 분노를 쓸데 없는 데에 소모하기만 하는]]></content>
     </entry>
 </feed>

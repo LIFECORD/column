@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 20:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 21:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복이 낯설더라도]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000019675?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000019675?sid=110</guid>
+            <pubDate>Sat, 23 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[게티이미지뱅크 제공 사람들은 다들 행복해지고 싶다고 이야기 한다. 자신은 꼭 불행해지고 싶다고 이야기 하는 사람은 잘 없을 것이다. 하지만 마치 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/07/23/19675.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 나은 대우를 받을 자격이 있다는 착각이 불러온 분노]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000019625?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 일상이 지루하고 재미없다고 느껴질 때 흔히 자극이 부족해서라고 생각하기 쉽다. 그래서 좀 더 강렬한 자극을 찾아나서야겠다는 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/03/05/18062.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜뉴스에 쉽게 빠지는 사람의 특성]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000017964?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000017964?sid=110</guid>
-            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[동아사이언스DB 신종코로나바이러스감염증(코로나19) 사태 이후 백신에 관한 가짜 뉴스부터 특정 음식이 효과에 좋다는 주장까지 수많은 정보가 넘쳐…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/02/26/17964.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
