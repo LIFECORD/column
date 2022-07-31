@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 21:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 22:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[나는 화초를 키운다. 겨울철 난방비 때문에 이때쯤 가격이 좋다. 1년 내내 잘 가꿔진 화초를 저렴하게 살 수 있다. 반려동물 가구가 전체의 25%, 인구로는 1500만명 정도다. 주변에서는 대개 반려동물을 키우는데 그들이 이구동성으로 말하는 어려움은 동물 의료보험 문제다. 비용과 능력이 부족한 나는 스킨답서스처럼 싸고 잘 자라는 식물이 좋다. 간혹 친구들이 화분을 달라고 한다. 주면서도 여러 가지 생각을 하게 된다. 그 반대의 경우는 거의 없기 때문이다. 화초...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[중산층의 고급 취미생활? 나는 택시 안에서 펑펑 울었다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002853870</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002853870</guid>
+            <pubDate>Sun, 31 Jul 2022 22:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['헤어질 결심'의 부진, 이 영화에 없는 것 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002850673</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002850673</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 09 Jun 2022 10:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0923/A0002775487_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SNL 코리아' 인턴기자 스케치, 이게 개그인가? (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002774010</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002774010</guid>
-            <pubDate>Thu, 09 Jun 2022 10:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/0914/A0002774010_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]행복이 낯설더라도 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
