@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 20:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 21:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고난을 받아들이면 의외로 해결하기 쉬워져]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000019809?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000019809?sid=110</guid>
+            <pubDate>Sat, 06 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[삶에 큰 어려움이 닥쳐왔을 때 그 어려운 상황을 똑바로 보고 인정하는 것이 문제 해결의 첫번째 단계이다. 게티이미지뱅크 제공 마침내 코로나19에 걸…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/08/06/19809.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행복이 낯설더라도]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000019675?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[타임지 홈페이지 캡쳐 20대 대통령을 뽑는 이번 대선은 해외에서도 많은 주목을 받았다. 한국 일부 남성들의 '안티페미니즘' 성향에 관한 기사가 민망…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/03/12/18146.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바빠도 지루함을 느낄 수 있는 이유]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000018062?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000018062?sid=110</guid>
-            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 일상이 지루하고 재미없다고 느껴질 때 흔히 자극이 부족해서라고 생각하기 쉽다. 그래서 좀 더 강렬한 자극을 찾아나서야겠다는 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/03/05/18062.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
