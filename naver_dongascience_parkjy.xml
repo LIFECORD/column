@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 20:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 21:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['성실함'은 미덕이지만 '재미'도 찾아야]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000020028?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000020028?sid=110</guid>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자기통제력이 높다고 해서 차가운 사람인 것은 아니지만 '재미'를 추구하는 면은 실제로 적을 수 있다. 게티이미지뱅크 제공 요즘 별로 일상 생활 속에…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/08/27/20028.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[씻으면 스트레스도 씻겨 나간다]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000019957?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리는 감정에 수동적으로 반응하기만 하는 존재가 아니라 적극적인 해석을 통해 감정을 얼마든지 바꿀 수 있는 존재이다. 게티이미지뱅크 제공 고등학…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/02/18423.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇을 위한 성실성인가]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000018330?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000018330?sid=110</guid>
-            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['성실성'은 다양한 영역에서 높은 성취와 관련을 보인다. 하지만 열심히 사는 것이 그 자체로 삶의 목표가 될 때는 문제가 된다. 게티이미지뱅크 제공 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/03/26/18330.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
