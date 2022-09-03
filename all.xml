@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 01:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 04:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/1215/A0002795399_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 운전실력 과신은 사고를 부른다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=56112</link>
+            <guid>https://www.dongascience.com/news.php?idx=56112</guid>
+            <pubDate>Sat, 03 Sep 2022 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[운전을 시작했다. 여름 동안 면허를 따고 장롱면허가 되지 않도록 계속 연습해서 지금은 조금 운전이 익숙해진 것 같다. 어쩌면 나는 천재가 아닐까 잠깐 고민하기도 했다. 조금 더 일찍 시작했으면 F1에 나갔을 거라는 우스갯 소리도 해보았다. 하지만 이럴 때일수록 방심은 금물인 것이 나를 포함해서 많은 사람들이 자신의 운전 실력을 과신하기 때문이다. 예컨대 운전자의 93%가 자신의 운전 실력은 평균 이상이라고 자신한다는 연구 결과가 있었다. 하지만 모두가 평균 이상일 수는 없으므로 이는 곧 약 50%의 사람들이 자신의 운전실력을 과대평...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '성실함'은 미덕이지만 '재미'도 찾아야 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=55989</link>
             <guid>https://www.dongascience.com/news.php?idx=55989</guid>
@@ -431,11 +438,12 @@
             <content:encoded><![CDATA[학점을 잘 받기 위해서는 보통 여러 과목을 골고루 공부해야 한다. 하지만 심히 걱정되는 과목이 하나 있어서 거기에 특별히 집중하다가 나머지 과목들을 공부할 시기를 놓치고 말았다는 이야기를 들었다. 다들 한 번쯤은 이런 경험이 있을 것이다. 시간과 자원이 무한하면 좋겠지만 그렇지 않기 때문에 어떤 한 가지를 지나치게 걱정하고 그 일에 몰두하다보면 다른 중요한 것들을 놓치게 되곤 한다. 이렇게 마치 한 곳만 딱 비추는 조명처럼 걱정과 불안은 우리로 하여금 그 원인이 되는 무엇에 많은 주의를 기울이게 만든다. 부정적인 감정의 기능...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 지나치게 걱정이 많은 사람에게 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=54830</link>
-            <guid>https://www.dongascience.com/news.php?idx=54830</guid>
-            <pubDate>Thu, 01 Sep 2022 11:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[저녁 메뉴를 고르거나 옷을 고르는 사소한 일도 쉽게 결정하지 못하는 탓에 고민인 사람이 있다. 소위 결정 장애로 불리는 사람들이다. 물론 결정을 내리는 것은 누구에게나 절대로 쉽지 않은 일이다. 어떤 결정을 내리든 다 나름의 장단점이 있고 내가 내린 선택으로 미래의 결과를 예측하기란 불가능한 일이기 때문이다. 때로는 결정을 너무 쉽게 내리는 것 또한 문제를 일으키곤 한다. 신중함이 부족하거나 생각이 짧거나 그냥 귀찮아서, 또는 충동적인 성향이 커서 대충 결정을 내리고 나면 차마 고려하지 못했던 요소들로 인해 후회하는 경우가 ...]]></content:encoded>
+            <title><![CDATA[운전실력 과신은 사고를 부른다 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000020109?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000020109?sid=110</guid>
+            <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[개티이미지뱅크 제공 운전을 시작했다. 여름 동안 면허를 따고 장롱면허가 되지 않도록 계속 연습해서 지금은 조금 운전이 익숙해진 것 같다. 어쩌면 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/09/03/20109.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성실함'은 미덕이지만 '재미'도 찾아야 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -590,12 +598,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/09/18514.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감정을 있는 그대로 받아들이려면 판단하지 말아야 (네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000018423?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000018423?sid=110</guid>
-            <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 감정에 수동적으로 반응하기만 하는 존재가 아니라 적극적인 해석을 통해 감정을 얼마든지 바꿀 수 있는 존재이다. 게티이미지뱅크 제공 고등학…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/02/18423.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[운전실력 과신은 사고를 부른다 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20220903112012548</link>
+            <guid>https://v.daum.net/v/20220903112012548</guid>
+            <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[운전을 시작했다. 여름 동안 면허를 따고 장롱면허가 되지 않도록 계속 연습해서 지금은 조금 운전이 익숙해진 것 같다. 어쩌면 나는 천재가 아닐까 잠깐 고민하기도 했다. 조금 더 일찍 시작했으면 F1에 나갔을 거라는 우스갯 소리도 해보았다. &nbsp; 하지만 이럴 때일수록 방심은 금물인 것이 나를 포함해서 많은 사람들이 자신의 운전 실력을 과신하기 때문이다. 예컨]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['성실함'은 미덕이지만 '재미'도 찾아야 (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://v.daum.net/v/20220604060045074</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[거절은 언제나 아프다. 특히 사회적 동물로 태어난 인간들의 경우 실험실 상에서 약 2분만 모르는 사람들로부터 소외되어도 자존감이 뚝 떨어지고 행복감과 삶의 의미감 마저 떨어지는 등 사람으로부터 거절되는 경험은 인간이 겪을 수 있는 가장 아픈 경험 중 하나이다. 그러서 그런지 사람 사이에서 겪는 슬픔과 좌절들에 대해 “상처 받았다”, “아프다” 같은 표현]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무기력함 이겨내는 것은 '작은 행동' (다음 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20220528060036335</link>
-            <guid>https://v.daum.net/v/20220528060036335</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[생각도 걱정도 많지만 게으름이 문제였다. 그러니까 불안은 많지만 늘 언제나처럼 걱정만 할 뿐 딱히 변화를 위한 행동 같은 것은 하지 않아서 불안만 자꾸 쌓여가는 것이 문제였던 때가 있었다.&nbsp; 어차피 아무 것도 하지 않을 거라면 걱정도 하지 않으면 좋을텐데 우리의 마음이란 이상해서 잔뜩 지치고 무기력할 때에도, 어쩌면 그럴 때라서 더 "위험! 위험!" 이라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>

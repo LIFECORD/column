@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 01:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 04:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운전실력 과신은 사고를 부른다]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000020109?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000020109?sid=110</guid>
+            <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[개티이미지뱅크 제공 운전을 시작했다. 여름 동안 면허를 따고 장롱면허가 되지 않도록 계속 연습해서 지금은 조금 운전이 익숙해진 것 같다. 어쩌면 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/09/03/20109.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['성실함'은 미덕이지만 '재미'도 찾아야]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000020028?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 최근 장애인들의 이동권 시위에 대해 '이기적인 요구'를 한다는 반응들을 어렵지 않게 찾아볼 수 있다. 필자도 어느 연세가 있는 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/09/18514.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감정을 있는 그대로 받아들이려면 판단하지 말아야]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000018423?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000018423?sid=110</guid>
-            <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 감정에 수동적으로 반응하기만 하는 존재가 아니라 적극적인 해석을 통해 감정을 얼마든지 바꿀 수 있는 존재이다. 게티이미지뱅크 제공 고등학…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/02/18423.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
