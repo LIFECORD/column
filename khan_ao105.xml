@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2022-09-06T20:17:03.024Z</updated>
+    <updated>2022-09-06T21:14:23.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1997년 7월30일 경향신문, 9월6일 한겨레, 7일 연합통신]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202209070300005</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202209070300005"/>
+        <updated>2022-09-06T21:12:37.361Z</updated>
+        <content type="html"><![CDATA[이 글의 목적은 어떤 사실관계를 명확히 하기 위해서이다. 20년 전 나는 처음 일본을 방문했다. 동아시아 지역 제노사이드 주제의 학술대회 일정이었다. 가장 크게 놀란 장면은 교토 거리 곳곳에 붙은 공산당 선전 포스터였다. 共産黨. 박정희 시대에 초등학교를 다닌 내게, 세 글자는 충격이었지만 곧바로 이성을 찾았다. 일본 좌파는 천황제를 의식, 대중노선을 채택하고 국가사회주의를 주도했다. 국가는 소수자 배제를 통해 자랑스럽게 대표되어야 하므로 일본 공산당이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘헤어질 결심’, 군 위안부, 김건희님의 다운로드]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202208100300015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202112220300015"/>
         <updated>2022-08-25T12:25:49.364Z</updated>
         <content type="html"><![CDATA[내가 사는 서울 남서부 지역, 이 글을 쓰고 있는 지금 눈이 내린다. 양이 상당하다. 눈은 음소거 기능이 있어 주변을 조용하게 만든다. 2019년 12월 이후의 세계. 고요하고 아늑한 겨울밤을 다시 맞을 수 있을까 싶다. 지속될 기후위기와 대통령 선거가 겁나는 시간. 변화와 기대보다 불안한 심정, 나뿐만은 아닐 것이다.  내 친구는 50대 1인 가구 여성으로, 건강보험이 적용되지 않는 만성 질환을 20년째 앓고 있다. 거래도 없는 서울시에서 가장 공시지가가 낮은 4...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘젠더 갈등’이 아니라 성차별이다]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202111240300015</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202111240300015"/>
-        <updated>2022-08-25T12:25:49.365Z</updated>
-        <content type="html"><![CDATA[코로나 이후. 기후위기를 낙관하는 이들은 없다. 팬데믹은 지속될 것이다. 2년간 일상의 불편은 말할 것도 없고 생계와 생명을 잃은 이들을 생각해 보라. 나는 당연히 이번 대선의 주요 의제가 환경, 노동 문제가 될 줄 알았다. 그러나 거대 양당은 일부 남성의 성차별 의식을 이용, 이를 표로 연결시키는 데 골몰하고 있다. 며칠 전 경향신문 보도대로, “젠더 지우기로 젠더 공략하는 ‘젠더 대선’”이다. 최근 한국 사회에서 세대 차이(generation gap)만큼 골치 아픈...]]></content>
     </entry>
 </feed>
