@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[내가 사는 서울 남서부 지역, 이 글을 쓰고 있는 지금 눈이 내린다. 양이 상당하다. 눈은 음소거 기능이 있어 주변을 조용하게 만든다. 2019년 12월 이후의 세계. 고요하고 아늑한 겨울밤을 다시 맞을 수 있을까 싶다. 지속될 기후위기와 대통령 선거가 겁나는 시간. 변화와 기대보다 불안한 심정, 나뿐만은 아닐 것이다.  내 친구는 50대 1인 가구 여성으로, 건강보험이 적용되지 않는 만성 질환을 20년째 앓고 있다. 거래도 없는 서울시에서 가장 공시지가가 낮은 4...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[명절 끝나고 부쩍 자존감이 낮아진 사람들에게 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002864238</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002864238</guid>
+            <pubDate>Tue, 13 Sep 2022 06:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0912/A0002864238_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이혼이 '불가능한' 커플... 고통의 평등을 허하라 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002860407</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002860407</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 09 Jun 2022 10:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0127/A0002805908_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 대표 이준석의 위험한 정치 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002795399</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002795399</guid>
-            <pubDate>Thu, 09 Jun 2022 10:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2021/1215/A0002795399_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] '고맙다'는 말은 '마법' 같다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
