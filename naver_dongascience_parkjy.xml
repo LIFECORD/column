@@ -4,9 +4,17 @@
         <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 20:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 21:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남아있는 시간 떠올리면 '소확행' 많아져]]></title>
+            <link>https://n.news.naver.com/mnews/article/584/0000020223?sid=110</link>
+            <guid>https://n.news.naver.com/mnews/article/584/0000020223?sid=110</guid>
+            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나이가 들수록 먼 미래를 위해 지금을 희생하기보다 '지금'을 가급적 행복하게 보내려는 경향이 나타난다. 게티이미지뱅크 제공 최근 들어 통증이 심해…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/09/17/20223.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['고맙다'는 말은 '마법' 같다]]></title>
             <link>https://n.news.naver.com/mnews/article/584/0000020169?sid=110</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 주위를 둘러보면 성난 사람들이 많다. 그 중에는 자신의 삶이 불행한 이유를 정확히 인식하지 못한 채 만만한 약자를 향해 굴절된…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/23/18689.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이지 않는다는 것은 차별이 있다는 뜻이다]]></title>
-            <link>https://n.news.naver.com/mnews/article/584/0000018601?sid=110</link>
-            <guid>https://n.news.naver.com/mnews/article/584/0000018601?sid=110</guid>
-            <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 해외 TV 쇼에서 점점 인종 구성이 다양해지는 것을 볼 수 있다. 백인이 대다수이던 시상식에서도 점점 흑인이나 아시안 등 유색…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2022/04/16/18601.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
