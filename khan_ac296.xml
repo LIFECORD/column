@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2022-10-07T06:24:53.055Z</updated>
+    <updated>2022-10-07T07:23:34.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사고 친 ‘최애’로 상처 입은 마음…그럼에도 또 다른 ‘나’의 사랑 찾아]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202210071600005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202210071600005"/>
+        <updated>2022-10-07T07:22:13.063Z</updated>
+        <content type="html"><![CDATA[누군가를 열렬히 사랑하는 팬들끼리, ‘최애’(가장 좋아하는 대상)가 누구인지 불문하고 주고받는 덕담이 있다. “모쪼록 여러분의 최애가 사회면 데뷔하지 않고… 법원 프리뷰 뜰 일 없기를….” 그만큼 남자 유명인이 범죄를 저질러 사회면에 보도되고, 법원에 출두하는 일이 잦다는 뜻이다. 최지은 기자의 책 &lt;이런 얘기 하지 말까?&gt;(콜라주, 2021)에는 이런 문장이 나온다. “최애거나 최애였던 ‘오빠’들의 음주운전, 성 매수, 성폭력 사실이 밝혀질 때마다 내가 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프메 인기몰이 이동욱부터 청담부부 정우성·이정재까지…‘아저씨 열풍’의 이면]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202209231558005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202205271601015"/>
         <updated>2022-10-07T04:47:07.489Z</updated>
         <content type="html"><![CDATA[언니에게, 최근 다녀온 카페를 공유하며 함께 가자고 했다. 언니가 바로 되물었다. “노키즈존 아니야?” 언니는 작년에 아기를 낳은 후, 출산 전 다니던 많은 공간으로부터 출입을 금지당했다. 순간 등골이 서늘해졌다. 아동거부업소임을 표기하지 않은 업장도 많으니까. 황급히 찾아보니 다행히 아니었다. 한숨을 쉬며 가슴을 쓸어내렸다. 관광지에서 방문했던 베이커리 카페가 생각난다. 들어가는 곳 어디에도 아동거부업소라는 표시가 없었다. 빵을 다 고른 후 계산대 쪽으...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“느그 아버지 뭐하시노?” 묻던 ‘미친개’···왜 시대마다 존재할까]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202205131600005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202205131600005"/>
-        <updated>2022-10-07T04:47:07.489Z</updated>
-        <content type="html"><![CDATA[곧 스승의날이다. 스승의날 하면, 한 편의 부조리극 같은 장면이 떠오른다. 초등학교 3학년 때 담임교사는 아이들을 엎드려뻗쳐시켜놓고 제일 앞의 어린이를 걷어찬 뒤 도미노처럼 연이어 쓰러지게 하는 체벌을 즐겼다. 나는 모랫바닥에 엎드린 채, 쓰러진 친구의 몸이 언제 나를 칠지 초조해하다 내 차례가 오면 적당히 무너졌다. 그러다가도 우리를 걷어찬 교사 앞에 길게 줄을 섰다. 저마다 집에서 마련해준 선물을 전달하기 위해. 어느 날 갑자기 싸늘해진 교사의 태도...]]></content>
     </entry>
 </feed>
