@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 20:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 21:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0706/A0002848132_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 생각없이 해야 실행력 오른다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=57172</link>
+            <guid>https://www.dongascience.com/news.php?idx=57172</guid>
+            <pubDate>Sat, 19 Nov 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중요한 과제의 마감일을 앞두고 있노라면 불안감이 엄습해온다. 어떨 때는 마감이 다가오고 있다는 사실을 떠올리기만 해도 숨이 턱턱 막히기도 한다. 이렇게 불안이 차오르면 불안을 씻어내기 위해서라도 빨리 일을 시작할 것 같다. 하지만 안타까운 사실은 꼭 그렇게 되지만은 않는다는 것이다. 일반적으로 사람은 할 수 있을 것 같다는 자신감이 높을수록 일을 시작하고 노력을 기울이곤 하는 경향을 보인다. 이 때 어느 정도의 스트레스는 긴장감을 더해서 추진력을 높이는 등 도움이 되곤 한다. 하지만 긴장감이 불안이 되고 불안이 어느 수준을...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 불안을 느껴야 생존한다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=57072</link>
             <guid>https://www.dongascience.com/news.php?idx=57072</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=56112</guid>
             <pubDate>Sat, 03 Sep 2022 11:13:00 GMT</pubDate>
             <content:encoded><![CDATA[운전을 시작했다. 여름 동안 면허를 따고 장롱면허가 되지 않도록 계속 연습해서 지금은 조금 운전이 익숙해진 것 같다. 어쩌면 나는 천재가 아닐까 잠깐 고민하기도 했다. 조금 더 일찍 시작했으면 F1에 나갔을 거라는 우스갯 소리도 해보았다. 하지만 이럴 때일수록 방심은 금물인 것이 나를 포함해서 많은 사람들이 자신의 운전 실력을 과신하기 때문이다. 예컨대 운전자의 93%가 자신의 운전 실력은 평균 이상이라고 자신한다는 연구 결과가 있었다. 하지만 모두가 평균 이상일 수는 없으므로 이는 곧 약 50%의 사람들이 자신의 운전실력을 과대평...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] '성실함'은 미덕이지만 '재미'도 찾아야 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=55989</link>
-            <guid>https://www.dongascience.com/news.php?idx=55989</guid>
-            <pubDate>Sat, 27 Aug 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 별로 일상 생활 속에서 재미를 못 느끼고 있다는 생각이 들어 고민하던 찰나 혹시 너무 열심히 살고 있는 것은 아닌지 스스로 질문해 봤다. 마침 자기통제를 지나치게 잘 하는 사람들은 주변 사람들에 의해서 성실한 사람이라는 평가 못지 않게 “지나치게 로봇같고 비인간적인 사람”이라는 평가를 받는다는 연구를 보게 됐다. 열심히 살면 기계같은 사람이 되어버리고 마는 것일까. 퍼듀대의 연구자 사만사 랩카(Samantha Lapka)와 동료들은 사람들로 하여금 주변 사람들 중 꽤 성실한 사람 한 명과 적당히 성실한 사람을 각각 떠...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
