@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 20:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 21:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의사회심리학] 새로운 인연 만들기는 '해볼 만한 일' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=57490</link>
+            <guid>https://www.dongascience.com/news.php?idx=57490</guid>
+            <pubDate>Sat, 10 Dec 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스쳐지나갔지만 평생 기억에 남는 만남들이 있다. 태국에서 여행할 때 우연히 만나 친해진 친구와 트럭 뒤에 앉아 시골길을 달리며 봤던 파란 하늘, 남편과 사별하고 80세가 되어 처음으로 세계일주를 해야겠다고 마음 먹고 전세계 곳곳을 홀로 누비고 다니던 할머니, 생일이지만 병원에 있었던 나에게 “생일인데 파티를 해야지” 라고 했던, 그래서 파티는 어떻게 하는 거냐는 내 물음에 자신은 매일매일이 파티라며 어떤 순간에도 즐거워할 준비가 되어 있다고 자신있게 답하던 간호사, 12월 7일이 무슨 날(요일)이냐는 물음에 “P...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '사람은 거기서 거기"...나에게 어려운 건 남들도 어렵다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=57391</link>
             <guid>https://www.dongascience.com/news.php?idx=57391</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=56373</guid>
             <pubDate>Sat, 24 Sep 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[건강상의 이유 등으로 인해 함께 일하는 사람들에게 양해와 도움을 구해야 하는 상황이 되었다. 혼자 앓다가 결국 일도, 나 자신도 망치는 것보다 내 상황을 분명하게 전달하고 미리 함께 일을 조율하는 것이 모두를 위해 훨씬 현명한 선택인데도 생각보다 입을 여는 것이 쉽지 않았다. 혼자 끙끙 거리며 무리하는 것보다 주변의 도움을 구하는 것이 더 어렵게 느껴지기도 했다. 서로 돕고 도우며 사는 것이라고들 하는데 도움을 구하는 행위는 왜 이렇게 어색하게 느껴지는 걸까. 이는 일면 문화적으로 도움을 구하는 행위를 권장하지 않는 환경에서...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 남아있는 시간 떠올리면 '소확행' 많아져 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=56275</link>
-            <guid>https://www.dongascience.com/news.php?idx=56275</guid>
-            <pubDate>Sat, 17 Sep 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 들어 통증이 심해졌다. 신경통을 앓은지 몇 년 되었지만 통증이 심해질 때면 늘 조금씩 희망을 잃는다. 처음 병을 진단받고 나서 어언 십여년이 지났는데 지금까지의 상태 그래프를 그려보면 전반적으로 하향 곡선이다. 물론 세월이 지날수록 건강 상태가 나빠지는 것은 자연스러운 일이지만 통증이 심해지면서 하향의 정도가 유난히 가파르게 느껴진다. 이대로 계속 내려가게 될까. 지금까지 자연스럽게 누려오던 일상들을 언제까지 유지할 수 있을지에 대해 의문을 갖게 된다. 제대로 기능할 수 있는 시간이 한정되어 있을지도 모른다는 생각이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
