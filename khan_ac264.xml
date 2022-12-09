@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2022-12-09T07:16:53.062Z</updated>
+    <updated>2022-12-09T08:18:52.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교원평가 성희롱으로 더 명백해진 네이버 웹툰 ‘참교육’의 무책임한 대안사실]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202212091608005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202212091608005"/>
+        <updated>2022-12-09T08:14:17.982Z</updated>
+        <content type="html"><![CDATA[최근 세종시 한 고등학교에서 학생 일부가 교원평가를 하며 여성 교사를 향한 성희롱성 답변을 써 논란이 일어났다. 익명성에 기댄 성희롱인 만큼 가해 학생을 찾아내기도 쉽지 않으며, 교사로서는 가해자일지도 모르는 학생 앞에 서서 수업을 진행해야 하는 상황에 정신적 고통을 호소했다. 전교조 세종지부는 성명서를 통해 “익명으로 진행되는 현재의 교원평가는 교사에 대한 악플을 방조하고 있어 어떠한 교육적 효과도 기대할 수 없다”며 교원평가 폐지를 요청하기도 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부마민주항쟁 기념식 공연에 이랑과 늑대의 ‘하울링’이 필요한 이유]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202211251605005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202207151607005"/>
         <updated>2022-11-16T18:21:58.223Z</updated>
         <content type="html"><![CDATA[“자산운용이 있는 게, (투자를 위해) 공부할 시간이 없으니까 대신해주는 거군요.” 2020년 7월 초 방영한 SBS &lt;집사부일체&gt;에서 멤버 이승기는 그날의 ‘사부님’이었던 당시 메리츠자산운용 대표 존 리에게 이렇게 말했다. 존 리 역시 “하나를 가르치면 열을 아시네”라 화답했다. 2년 전의 이 훈훈한 장면을 존 리가 차명 투자 의혹으로 회사에서 자진 사퇴한 현재 다시 보면 의미가 새롭다. 해당 방송을 포함해 당시 ‘한국의 워런 버핏’이라는 과한 타이틀로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 '도박중독자의 가족', 왜 고통은 똑똑한 여성의 몫인가]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202207011604015</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202207011604015"/>
-        <updated>2022-11-16T18:21:58.224Z</updated>
-        <content type="html"><![CDATA[트로이 공주 카산드라는 미래에 대한 예지 능력을 지녔지만, 정작 누구도 그의 말을 믿지 않는 저주를 받았다. 그는 동생인 파리스를 스파르타에 보내면 트로이에 재앙이 올 것이라 예언했지만 파리스가 헬레네를 데려오며 트로이 전쟁이 벌어지는 걸 봐야만 했고, 그리스군이 남긴 거대한 목마를 들이면 나라가 멸망할 것이라 예언했지만 역시 받아들여지지 않아 트로이는 불타오르고 만다. 만약 카산드라의 말을 경청했더라면 트로이는 그리스의 침략으로부터 자유롭거나 최악...]]></content>
     </entry>
 </feed>
