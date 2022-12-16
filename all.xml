@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,6 +480,13 @@
             <content:encoded><![CDATA[[경향신문] 남성혐오 논란이 잦아들 기미가 보이지 않는다. 곳곳에 숨어 있는 남혐 손가락을 적발해내는 것은 ‘놀이’ 수준을 뛰어넘어 연일 언론지상에 오르내릴 정도의 사회적 의제가 되었다. 급기야 한 금메달리스트 여성이 남성혐오 용어를 사용했다는 것까지 시비의 대상이 되고 말았다. 혐오와 차별은 여성, 장애인, 성소수자, 이주자, 소수종교신자 등 소수자 집]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전설의 귀환…소녀시대·카라의 데뷔 15주년 컴백 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20221216162826673</link>
+            <guid>https://v.daum.net/v/20221216162826673</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2009년 전후의 K팝 전성기를 추억하십니까? 알록달록한 컬러 스키니진을 옷장에 들인 적 있으십니까? 멜빵 바지만 보면 냅다 엉덩이를 흔들고 싶으십니까? ‘다시 만난 세계’의 전주를 들으면 눈물이 고이십니까? 일이 잘 안 될 때마다, “괜히 그랬겠어? 그랬겠어?!” 하고 발을 구르고 싶어지십니까? 그렇다면 2022년이 그 어느 때보다 특별하게 여겨질 것이다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연예인의 ‘봉인 해제’된 모습 보여주는 ‘술방’ (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20221202161526740</link>
             <guid>https://v.daum.net/v/20221202161526740</guid>
@@ -555,13 +562,6 @@
             <guid>https://v.daum.net/v/20220624163846306</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 14일, 방탄소년단(BTS)은 공식 유튜브 채널에 올린 영상을 통해 활동의 기조 변화를 예고했다. 요약하자면 지금까지 그룹 활동에 집중해왔다면 이제부터는 멤버 각자가 솔로 활동을 시작하며 휴식과 재충전의 시간이 필요하다는 내용이다. 영상이 공개된 직후 ‘해체’, ‘활동 중단’ 같은 자극적인 타이틀로 떠들썩했지만, 영상에서 명시하듯 해체가 아니라 활동]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[승리한 성기훈보다 유혹 못 이긴 해롱이가 '중독의 본모습' (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220610160444957</link>
-            <guid>https://v.daum.net/v/20220610160444957</guid>
-            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 전 세계적인 돌풍을 일으킨 넷플릭스 드라마 &lt;오징어 게임&gt;(2021)의 주인공 성기훈(이정재)은 도박 빚 때문에 목숨을 건 게임에 뛰어든다. &lt;오징어 게임&gt;을 본 한 친구는 진저리를 쳤다. “나는 저렇게 도박 중독자가 ‘그래도 본성은 선량한’ 인물로 그려지는 게 싫어. 중독은 그런 게 아니야. 최소한의 인간성이나 판단력까지 앗아간다고.” 친구는 어렸]]></content:encoded>
         </item>
     </channel>
 </rss>
