@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 21:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 22:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0729/A0002853870_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 스트레스는 '백신'...어려움 속 더 강해진다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=57611</link>
+            <guid>https://www.dongascience.com/news.php?idx=57611</guid>
+            <pubDate>Sat, 17 Dec 2022 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사람은 약하면서 강하다. 사고로 크게 다치거나 사랑하는 사람을 잃어도, 물론 당시에는 힘들어서 죽을 것 같다는 생각을 하지만 시간이 지나면 많은 이들이 원래의 상태를 회복하곤 한다. 실제로 충격적인 사건과 회복탄력성 간의 관계에 대해 살펴본 연구들을 보면 사람들은 충격적인 사건이 터졌을 때 생각보다 충격에 잘 견디고, 절망과 무기력에 꽤 잘 저항하는 편이고, 설령 슬픔과 절망에 빠지더라도 시간이 지나면 천천히 다시 원래의 상태를 회복하는 편이다. 우리의 정신상태는 어느 정도 고무고무하다고나 할까 꽤나 탄력적이다. ● 당신은...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의사회심리학] 새로운 인연 만들기는 '해볼 만한 일' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=57490</link>
             <guid>https://www.dongascience.com/news.php?idx=57490</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=56476</guid>
             <pubDate>Sat, 01 Oct 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도대체 왜 저렇게 까지 하는지, 왜 자꾸 주변 사람들을 괴롭히고 못살게 구는 건지 상식적으로 이해할 수 없는 사람들이 있다. 물론 사람들은 때로 어떤 사연이 있거나 자기조절 능력이 부족해서, 또는 누군가를 깔아뭉개야 출세가 가능한 상황적 요소 때문에 등 다양한 이유로 타인을 괴롭히곤 한다. 하지만 별다른 이유 없이 본인의 성향 때문에 주변 사람들을 못살게 구는 경우가 분명 존재한다. 마키아벨리즘, 나르시시즘, 사이코패시, 사디즘, 탐욕 등 인간 성격의 어두운 특성을 가지고 있는 사람들이 그러하다. 아러한 성격 특성들을 '어둠...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 도움 요청을 꺼리는 이유는..."약해 보일까봐" (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=56373</link>
-            <guid>https://www.dongascience.com/news.php?idx=56373</guid>
-            <pubDate>Sat, 24 Sep 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건강상의 이유 등으로 인해 함께 일하는 사람들에게 양해와 도움을 구해야 하는 상황이 되었다. 혼자 앓다가 결국 일도, 나 자신도 망치는 것보다 내 상황을 분명하게 전달하고 미리 함께 일을 조율하는 것이 모두를 위해 훨씬 현명한 선택인데도 생각보다 입을 여는 것이 쉽지 않았다. 혼자 끙끙 거리며 무리하는 것보다 주변의 도움을 구하는 것이 더 어렵게 느껴지기도 했다. 서로 돕고 도우며 사는 것이라고들 하는데 도움을 구하는 행위는 왜 이렇게 어색하게 느껴지는 걸까. 이는 일면 문화적으로 도움을 구하는 행위를 권장하지 않는 환경에서...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
