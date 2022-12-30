@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 06:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 07:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,6 +480,13 @@
             <content:encoded><![CDATA[[경향신문] 남성혐오 논란이 잦아들 기미가 보이지 않는다. 곳곳에 숨어 있는 남혐 손가락을 적발해내는 것은 ‘놀이’ 수준을 뛰어넘어 연일 언론지상에 오르내릴 정도의 사회적 의제가 되었다. 급기야 한 금메달리스트 여성이 남성혐오 용어를 사용했다는 것까지 시비의 대상이 되고 말았다. 혐오와 차별은 여성, 장애인, 성소수자, 이주자, 소수종교신자 등 소수자 집]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[입양 보낸 강아지 만나러 가는 ‘캐나다 체크인’, 그 뒷 이야기 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20221230160935397</link>
+            <guid>https://v.daum.net/v/20221230160935397</guid>
+            <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이효리의 &lt;캐나다 체크인&gt;(tvN)이 지난 17일, 첫 방송을 시작했다. &lt;캐나다 체크인&gt;은 10년 이상 유기견 구조 및 봉사 활동을 해온 이효리가 캐나다로 해외 입양 보낸 강아지를 만나러 가는 여정을 담은 프로그램이다. 이효리가 직접 기획하고, 구조부터 입양까지 직접 찍은 영상들을 ‘털어’ 제작에 협조했다. 사회관계망서비스(SNS)와 친밀한 독자라면 이미]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전설의 귀환…소녀시대·카라의 데뷔 15주년 컴백 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20221216162826673</link>
             <guid>https://v.daum.net/v/20221216162826673</guid>
@@ -555,13 +562,6 @@
             <guid>https://v.daum.net/v/20220708162156072</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채널A의 &lt;금쪽같은 내 새끼&gt;의 매회, 아이들은 이상 행동의 원인인 부모를 사랑한다고 고백한다. 아무리 이상한 부모라도 열렬하게 사랑하고 간절하게 사랑받고 싶어 한다. 내리사랑은 있어도 치사랑은 없…는 게 맞나? 내리사랑의 우월함만을 강조하는 속담은, 성장한 자식에게 연로한 부모가 우선순위에서 밀릴 때 자주 소환된다. 하지만 어린 시절을 조금이라도 기억한다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS의 성공 뒤에 자신을 갈아 넣은 멤버들..경쟁과 성과만을 강요하는 K팝의 산업 구조 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220624163846306</link>
-            <guid>https://v.daum.net/v/20220624163846306</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 14일, 방탄소년단(BTS)은 공식 유튜브 채널에 올린 영상을 통해 활동의 기조 변화를 예고했다. 요약하자면 지금까지 그룹 활동에 집중해왔다면 이제부터는 멤버 각자가 솔로 활동을 시작하며 휴식과 재충전의 시간이 필요하다는 내용이다. 영상이 공개된 직후 ‘해체’, ‘활동 중단’ 같은 자극적인 타이틀로 떠들썩했지만, 영상에서 명시하듯 해체가 아니라 활동]]></content:encoded>
         </item>
     </channel>
 </rss>
