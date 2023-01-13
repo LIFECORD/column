@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 20:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 21:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0912/A0002864238_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 행복을 자랑하지 않아야 행복하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=58018</link>
+            <guid>https://www.dongascience.com/news.php?idx=58018</guid>
+            <pubDate>Sat, 14 Jan 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[핀란드 사람들은 왜 이렇게 행복할까. 핀란드는 벌써 수년 째 여러 문화권에 걸쳐 행복과 관련한 대규모 조사에서 1위를 굳건히 지키고 있다. 그 이유에 대해 여러가지가 제시되고 있지만 몇 가지 주로 이야기 되는 것이 바로 “자신의 행복을 자랑하지 않는 것”, “사회적 비교가 심하지 않은 것”, 또 “사회적(social), 잠재적(potential), 정신적(psychological) 자유도(freedom)가 높은 것”이다. '사이언티픽 어메리컨 마인드(Scientific American Mind)'에 실린 한 기사에 따르면 핀란드 사람들은...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 애써도 세상은 바뀌지 않는다는 이들에게 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=57918</link>
             <guid>https://www.dongascience.com/news.php?idx=57918</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=56971</guid>
             <pubDate>Sun, 06 Nov 2022 08:53:21 GMT</pubDate>
             <content:encoded><![CDATA[소중한 사람을 잃는 아픔은 세상이 무너져 내리는 듯한 아픔이다. 내가 살고 있는 세상이 안전하고 내 삶이 의미 있으며 나는 가치 있는 사람이라는 한 인간을 지탱하는 존재론적인 안정감은 소중한 사람들의 존재로 인해 완성된다. 사회적 동물이 느끼는 안정감은 가족 같이 보살핌의 근원이 되는 특별한 사람들과의 애착을 통해 형성되기 때문이다. 때문에 이들 중 누구라도 잃는 경험을 하게 되면 우리는 지금까지 내가 알던 세상이 무너져내린 것만 같은, 더 이상 세상이 안전하지 않은 것 같고 삶에도 의미가 없는 것 같으며 앞으로 어떻게 살아...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] '나'를 지탱해주는 '누군가'의 존재 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=56870</link>
-            <guid>https://www.dongascience.com/news.php?idx=56870</guid>
-            <pubDate>Sat, 29 Oct 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[늘 많은 사람들에게 목숨을 빚지고 있다. 태어나서 첫 숨을 내뱉었을 때부터 단 한 순간도 타인에게 삶을 빚지지 않은 적이 없었지만 병원 왕래가 잦았던 근래에는 조금 더 그랬다. 나보다 더 걱정스러워 보이는 얼굴을 하고 있는 의료진, 가족, 친구들을 볼 때면 그럴 필요가 없음에도 마음을 쏟아주고 없는 시간을 쪼개 잠깐이라도 내 생각을 해주는 친절함이 이상하게 느껴지기도 한다. 알 수 없는 이유로 상태가 악화되어 준비중이던 모든 것들이 와르르 무너지는 것은 언제나 순식간이고, 그럴 때면 삶의 이유를 잃어버린 듯한 기분이 든다. 이럴...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
