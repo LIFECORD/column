@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-01-20T06:20:12.893Z</updated>
+    <updated>2023-01-20T07:15:04.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘일타강사’ ‘유퀴즈’와 ‘세치혀’…예능에도 재현 다양성은 필요하다]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202301201527025</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202301201527025"/>
+        <updated>2023-01-20T07:11:28.590Z</updated>
+        <content type="html"><![CDATA[비교적 최근 시작한 MBC의 새 강연 예능 &lt;일타강사&gt;의 홍보 문구는 다음과 같다. ‘지금까지 이런 강의는 없었다.’ 거짓말이다. 그들의 2023년 연사 라인업을 보면 한숨이 나온다. 김미경, 김창옥, 이다지. 연사들의 수준이 낮다는 뜻은 물론 아니다. 그들은 이미 강연계의 검증된 슈퍼스타다. 그리고 그것이 문제다. 가장 먼저 드는 의문은 이미 수많은 강연 프로그램과 그들의 개인 채널로 들었던 자기 개발 담론이나 소통의 태도, 국어 지식을 왜 굳이 새로운 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송태섭과 북산고···언더독이 할 수 있는 건 ‘꺾이지 않기’다]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202301061600015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202209161601005"/>
         <updated>2022-11-16T18:21:58.218Z</updated>
         <content type="html"><![CDATA[“마귀가 들렸네, 마귀가 들렸어.” 지난 9월9일 공개된 넷플릭스 오리지널 시리즈 &lt;수리남&gt; 5화에서 마약 사업을 하는 전요환(황정민)은 국정원과 협업 중인 위장 브로커 강인구(하정우)의 목을 조르며 이렇게 외쳤다. 그의 외침은 연출을 맡은 윤종빈 감독에게도 적용 가능해 보인다. 한국 남자 감독들은 대체 어떤 마귀에 씌었기에 불필요한 섹스 장면에 집착하는 걸까. 2화에서 마약에 취한 남녀의 헐벗은 난교 파티, 3화에서 어둠의 무역상인 척 접근한 국정원 요...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스맨파’·‘스우파’의 차이점을 해석하는 남성들의 ‘둔감한’ 시선]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202208261601005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202208261601005"/>
-        <updated>2022-11-16T18:21:58.218Z</updated>
-        <content type="html"><![CDATA[왜 남자들은 쓸데없는 말을 할까. 지난 8월23일 첫 방영한 Mnet &lt;스트릿 맨 파이터&gt;(이하 &lt;스맨파&gt;) 제작보고회에서 제작을 총괄하는 권영찬 CP는 전작이라 할 수 있는 &lt;스트릿 우먼 파이터&gt;(이하 &lt;스우파&gt;)와의 차이에 대해 “여자 댄서들의 서바이벌에는 질투, 욕심이 있었다면 남자 댄서들은 의리와 자존심이 자주 보였다”고 말했다. 만에 하나 사실이라 해도 특정 성별에 대한 부정적 스테레오타입을 강화하는 말을 그것도 본인이 CP를 맡았던...]]></content>
     </entry>
 </feed>
