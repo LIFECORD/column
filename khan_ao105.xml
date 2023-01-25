@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-01-25T03:18:09.892Z</updated>
+    <updated>2023-01-25T04:17:57.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령의 주적, 국민의 주적]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202301250300065</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202301250300065"/>
+        <updated>2023-01-25T04:15:42.259Z</updated>
+        <content type="html"><![CDATA[올 명절에도 정치인들은 전통시장을 찾았다. 시장마다 정세(政勢)가 달라서, 누가 어디를 가는가에 따라 ‘완전(?) 환영, 반만 환영, 계란 세례’까지 반응이 다양할 것이다. 이재명 더불어민주당 대표의 서울 마포구 망원 시장 방문은 지지자는 좋아하고 상인에게는 영업 방해였다. 그럭저럭 평균점이지만 그렇다면 안 가는 게 낫지 않았을까. “여성 민방위 훈련”을 발의한 김기현 국민의힘 의원이 여성 모임에 갔다면 환영받지 못했을 것이다. 여성은 민방위 훈련을 안 받...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 사랑이 사회악의 동력이 된다면?]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202212280300065</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202205180300015"/>
         <updated>2022-11-16T19:12:50.840Z</updated>
         <content type="html"><![CDATA[한국과 일본의 노동시장 연공서열제는 문제이지만, 나는 모든 이들이 나이와 무관하게 하고 싶은 일을 지속할 수 있는 사회를 원한다. 연령은 계급, 젠더와 함께 중요한 사회 구성 요소로, 모든 분야가 노소(老少)에 따른 ‘우선권’을 둘러싼 정치경제학의 전쟁터다. 나이는 다른 사회 구조와 다르게 ‘어려도’ ‘어중간해도’ ‘늙어도’ 맥락에 따라 차별받는다. 이처럼 연령주의는 간단한 주제는 아니지만, 논외는 있다. 사람들이 “그만큼 해(처)먹었으면 됐지”라고 지칭하...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대를 반영하기보다 거스르는 책을 원한다]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202204200300015</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202204200300015"/>
-        <updated>2022-11-16T19:12:50.841Z</updated>
-        <content type="html"><![CDATA[거대 양당이 비슷하다지만 정권이 바뀌면 달라지는 사안도 많다. 출판 관련 일도 그중 하나다. 문화체육관광부, 국방부, 여성가족부, 교육 관련 부처, 지방자치단체가 운영하는 권장 도서 목록이 있는데, 선정 위원 교체는 중요한 정치다. 이들의 안목에 따라 사병들이 내무반에서 읽는 책, 중·고등학교, 대학, 지역 도서관의 서고가 달라질 수 있다. 정권교체가 아니더라도 책은 시류에 민감하다. 자기 계발서의 범람, 페미니즘의 대중화 이후 여성학 고전의 재출간 붐, 정...]]></content>
     </entry>
 </feed>
