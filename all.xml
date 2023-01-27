@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 21:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 22:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/0923/A0002867098_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 어려운 것부터 해치워야 효율 높아져 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=58221</link>
+            <guid>https://www.dongascience.com/news.php?idx=58221</guid>
+            <pubDate>Sat, 28 Jan 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시간과 에너지는 한정적이다. 또한 사람은 일만 하면서 살 수는 없다. 우리는 성취하는 것 못지 않게 잘 쉬고 잘 놀아야 삶이 의미있다는 느낌과 행복감을 느끼는 존재다. 때문에 적은 시간 동안 많은 일을 해내는 효율적인 일하기는 행복에도 중요한 역할을 미친다. 특히 조금만 무리하면 컨디션이 급격히 나빠지는 필자의 경우 적은 시간 동안 가급적 많은 일을 마쳐 두는 것이 생존의 문제가 되기도 한다. 심리학자들이 말하는 효율적인 일하기법에는 어떤 것이 있을까. 개구리를 가장 먼저 먹기(eat the frog) 마크 트웨인은 하루를 시작할 때 개...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 행복을 자랑하지 않아야 행복하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=58018</link>
             <guid>https://www.dongascience.com/news.php?idx=58018</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=57072</guid>
             <pubDate>Sat, 12 Nov 2022 07:46:28 GMT</pubDate>
             <content:encoded><![CDATA[불안은 기본적으로 “불확실성”에서 온다. 예측할 수 없고 완전히 통제할 수 없는 잠재적인 위험에 대해 반응하는 감정이다. 당장 내일도 예측하고 통제할 수 없는 것이 인생이라서 불안을 없애는 것은 불가능하고 사실 그럴 필요도 없다. 사실 불안은 꽤나 적응적인 감정이기 때문이다. 중요한 것은 불안의 “활용법”을 배우는 것이다. 불안해야 생존한다 모든 감정, 특히 부정적인 정서들에는 고유한 존재 이유와 목적이 있다. 일반적으로 긍정적인 정서는 삶이 그럭저럭 잘 흘러가고 있다는 두루뭉실한 신호인 반면 부정적...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] "이태원 참사 의문 해소 안되면 '슬픔' 지속돼" (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=56971</link>
-            <guid>https://www.dongascience.com/news.php?idx=56971</guid>
-            <pubDate>Sun, 06 Nov 2022 08:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[소중한 사람을 잃는 아픔은 세상이 무너져 내리는 듯한 아픔이다. 내가 살고 있는 세상이 안전하고 내 삶이 의미 있으며 나는 가치 있는 사람이라는 한 인간을 지탱하는 존재론적인 안정감은 소중한 사람들의 존재로 인해 완성된다. 사회적 동물이 느끼는 안정감은 가족 같이 보살핌의 근원이 되는 특별한 사람들과의 애착을 통해 형성되기 때문이다. 때문에 이들 중 누구라도 잃는 경험을 하게 되면 우리는 지금까지 내가 알던 세상이 무너져내린 것만 같은, 더 이상 세상이 안전하지 않은 것 같고 삶에도 의미가 없는 것 같으며 앞으로 어떻게 살아...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
