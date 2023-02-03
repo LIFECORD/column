@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 20:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 21:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="http://ojsfile.ohmynews.com/AT_T_IMG/2022/1007/A0002870539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 사랑에 눈 멀면 안되는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=58338</link>
+            <guid>https://www.dongascience.com/news.php?idx=58338</guid>
+            <pubDate>Sat, 04 Feb 2023 06:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사랑에 빠지면 눈에 콩깍지가 씌인다고들 한다. 밥을 먹는 것도 이뻐 보이고 썰렁한 농담도 재미있게 느껴지는 등 사랑하는 이가 하는 행동이라면 뭐든 좋게 보게 된다는 것이다. 사랑에 빠지면 정말 눈이 멀게 될까. 눈 먼 사랑은 괜찮은 걸까. 눈 먼 사랑의 힘 연구에 의하면 안정적이면서 만족도가 높은 관계를 형성하는 커플들은 그렇지 않은 커플들에 비해 장밋빛 안경을 끼고 서로를 바라보는 경향을 보인다. 예컨대 실제보다 자신의 연인이 매력적이고 능력도 좋고 도덕적이라는 등 다양한 방면에서 연인을 다소 과대평가하는 경향을 보인다. ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 어려운 것부터 해치워야 효율 높아져 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=58221</link>
             <guid>https://www.dongascience.com/news.php?idx=58221</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=57172</guid>
             <pubDate>Sat, 19 Nov 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중요한 과제의 마감일을 앞두고 있노라면 불안감이 엄습해온다. 어떨 때는 마감이 다가오고 있다는 사실을 떠올리기만 해도 숨이 턱턱 막히기도 한다. 이렇게 불안이 차오르면 불안을 씻어내기 위해서라도 빨리 일을 시작할 것 같다. 하지만 안타까운 사실은 꼭 그렇게 되지만은 않는다는 것이다. 일반적으로 사람은 할 수 있을 것 같다는 자신감이 높을수록 일을 시작하고 노력을 기울이곤 하는 경향을 보인다. 이 때 어느 정도의 스트레스는 긴장감을 더해서 추진력을 높이는 등 도움이 되곤 한다. 하지만 긴장감이 불안이 되고 불안이 어느 수준을...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 불안을 느껴야 생존한다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=57072</link>
-            <guid>https://www.dongascience.com/news.php?idx=57072</guid>
-            <pubDate>Sat, 12 Nov 2022 07:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[불안은 기본적으로 “불확실성”에서 온다. 예측할 수 없고 완전히 통제할 수 없는 잠재적인 위험에 대해 반응하는 감정이다. 당장 내일도 예측하고 통제할 수 없는 것이 인생이라서 불안을 없애는 것은 불가능하고 사실 그럴 필요도 없다. 사실 불안은 꽤나 적응적인 감정이기 때문이다. 중요한 것은 불안의 “활용법”을 배우는 것이다. 불안해야 생존한다 모든 감정, 특히 부정적인 정서들에는 고유한 존재 이유와 목적이 있다. 일반적으로 긍정적인 정서는 삶이 그럭저럭 잘 흘러가고 있다는 두루뭉실한 신호인 반면 부정적...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
