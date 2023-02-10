@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-02-10T22:14:17.523Z</updated>
+    <updated>2023-02-10T23:14:50.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 만성통증 극복 운동은 '자주, 꾸준히']]></title>
+        <id>https://www.dongascience.com/news.php?idx=58460</id>
+        <link href="https://www.dongascience.com/news.php?idx=58460"/>
+        <updated>2023-02-11T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[크로스핏을 시작했다. 이제 막 2주차라 잘 모르겠지만, 트레이너 선생님 말에 의하면 크로스핏이란 심박수를 높이는 카디오(cardio) 운동과 근력운동, 웨이트 트레이닝, 민첩성과 순발력을 요구하는 운동 등을 높은 강도로 반복함으로써 단 시간에 큰 효과를 내는 운동이다. 제대로 된 운동이라는 것을 별로 해본 적 없고 평생 주로 앉아있거나 아니면 누워있는 좌식 생활을 해온 탓에 크로스핏 수업 시간마다 내 몸을 있는대로 고문하는 듯한 경험을 한다. 많은 이들이 건강해지기 위해서 운동을 하지만 나는 조금 다른 이유로 운동을 하고 있다. 지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 사랑에 눈 멀면 안되는 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=58338</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=57279"/>
         <updated>2022-11-26T06:00:00.000Z</updated>
         <content type="html"><![CDATA[사랑은 인내하는 것이라고들 한다. 사랑에는 기쁨 못지 않게 다양한 걱정, 불안, 시기, 오해, 갈등들로 가득차있기 때문이다. 사랑하는 사람과의 기억을 떠올려 보면 달콤했던 기억들 못지 않게 서로에게 상처를 줬던 기억, 사랑했던 만큼 더 아파했던 기억들이 같이 떠오를 것이다. 아무리 관계가 좋다고 해도 마찬가지다. 사람은 그 누구도 완벽하지 않다. 오래 지내다 보면 서로의 약점이 드러나기 마련이다. 따라서 오래 성공적인 관계를 이루기 위해서는 결국 서로 참고 이해하는 과정이 필요하다. 강인한 사랑은 버티고 인내하는 마음을 토양으로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 생각없이 해야 실행력 오른다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=57172</id>
-        <link href="https://www.dongascience.com/news.php?idx=57172"/>
-        <updated>2022-11-19T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[중요한 과제의 마감일을 앞두고 있노라면 불안감이 엄습해온다. 어떨 때는 마감이 다가오고 있다는 사실을 떠올리기만 해도 숨이 턱턱 막히기도 한다. 이렇게 불안이 차오르면 불안을 씻어내기 위해서라도 빨리 일을 시작할 것 같다. 하지만 안타까운 사실은 꼭 그렇게 되지만은 않는다는 것이다. 일반적으로 사람은 할 수 있을 것 같다는 자신감이 높을수록 일을 시작하고 노력을 기울이곤 하는 경향을 보인다. 이 때 어느 정도의 스트레스는 긴장감을 더해서 추진력을 높이는 등 도움이 되곤 한다. 하지만 긴장감이 불안이 되고 불안이 어느 수준을...]]></content>
     </entry>
 </feed>
