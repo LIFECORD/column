@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 22:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 23:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1021/A0002874097_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '인생은 고통' 깨달음이 주는 것 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=58584</link>
+            <guid>https://www.dongascience.com/news.php?idx=58584</guid>
+            <pubDate>Sat, 18 Feb 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[몇 년 전부터 부쩍 많이 관심을 갖게 된 주제는 “인생은 고통”이라는 것이다. 사람은 누구나 생노병사와 다양한 아픔과 상실의 고통을 겪고 그것은 나도 예외가 아니라는 사실이 어렸을 때에는 막연히 두렵고 우울하게만 느껴졌다. 하지만 언젠가부터 조금씩 생각이 바뀌기 시작했다. 인생에는 다양한 고통이 존재하기 때문에 인생은 우울하고 의미 없는 것이 아니라, 그렇기 때문에 “지금, 이 순간”이 무엇보다 소중한 것이 아닌지, 고통으로 가득 찬 세상이기 때문에 더더욱 나에게 행복과 따뜻함을 선물해주는 이들의 존...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 만성통증 극복 운동은 '자주, 꾸준히' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=58460</link>
             <guid>https://www.dongascience.com/news.php?idx=58460</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=57391</guid>
             <pubDate>Sat, 03 Dec 2022 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사람들을 만나는 것이 두렵게 느껴졌던 때가 있다. 아마 갓 대학에 입학했을 때가 가장 심했던 것 같다. 다양하고 이상한 사람들 틈 속에서 알아서 잘 살아남으라고 던져진 기분이었다. 상황이 더 나빴던 것은 대학 입학도 하기 전에 사기꾼들을 만났던 탓이 크다. 학교에서 하는 설문조사라고 해서 의심 없이 남긴 개인정보가 엉뚱한 종교 단체에 흘러가 있었다. 학교에서 하는 설문이라는 말은 거짓이었고, 선배라는 사람들이 포교를 위해 같은 학교 신입생을 낚는 형태의 사기였다. 그렇게 뭣 모르는 신입생들의 대학 첫 인간관계를 종교단체에서 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 성숙한 사랑의 토양은 '인내' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=57279</link>
-            <guid>https://www.dongascience.com/news.php?idx=57279</guid>
-            <pubDate>Sat, 26 Nov 2022 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사랑은 인내하는 것이라고들 한다. 사랑에는 기쁨 못지 않게 다양한 걱정, 불안, 시기, 오해, 갈등들로 가득차있기 때문이다. 사랑하는 사람과의 기억을 떠올려 보면 달콤했던 기억들 못지 않게 서로에게 상처를 줬던 기억, 사랑했던 만큼 더 아파했던 기억들이 같이 떠오를 것이다. 아무리 관계가 좋다고 해도 마찬가지다. 사람은 그 누구도 완벽하지 않다. 오래 지내다 보면 서로의 약점이 드러나기 마련이다. 따라서 오래 성공적인 관계를 이루기 위해서는 결국 서로 참고 이해하는 과정이 필요하다. 강인한 사랑은 버티고 인내하는 마음을 토양으로...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
