@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-02-21T20:18:40.298Z</updated>
+    <updated>2023-02-21T21:16:43.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중구난방과 횡설수설을 다시 생각함]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202302220300065</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202302220300065"/>
+        <updated>2023-02-21T21:14:11.783Z</updated>
+        <content type="html"><![CDATA[지구의 역사는 약 45억년. 그중 4억5000만년 전, 따뜻한 바닷속에 오스트러코덤(ostracoderms)이라는 턱과 이빨이 없는 물고기가 살았다. 등뼈를 가진 동물로는 가장 오래된 생물이다. 인간의 귀는 이 원시 어류의 평형기관에서 진화했다. 귀는 남성의 성기와 함께 인간의 인체에서 가장 부드러운 조직이다. 미생물에게 좋은 먹을거리다. 자본주의 출현 이후 최악의 종(種)이 된 인간이 지구에 속죄하는 방식은 단 하나, 미생물의 도움을 받아 흙의 일부가 되는 것이다.  인간...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령의 주적, 국민의 주적]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202301250300065</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202206150300015"/>
         <updated>2022-11-16T19:12:50.832Z</updated>
         <content type="html"><![CDATA[2차 세계대전 이후 한국은 일본과 다르게 1997년 김대중 정권을 시작으로 정권교체를 이루었다. 그 이후로도 분단상황을 이용한 안보 협박 정치에도 불구하고, 노무현과 문재인 대통령을 배출했다. 일본은 여전히 자민당 1당 체제이고, 극우 세력만 투표를 해서 변화의 기미가 없어 보인다. 그러나 나는 최근 몇 년간 더불어민주당과 국민의힘 양당의 ‘누가 더 무능하고 파렴치하고 부패했는가’ 경쟁을 보면서, 차라리 능력 있는 의원들의 1당 체제인 ‘민주주의 독재’가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위스키 온 더 락, 얼음의 법칙을 따르자]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202205180300015</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202205180300015"/>
-        <updated>2022-11-16T19:12:50.840Z</updated>
-        <content type="html"><![CDATA[한국과 일본의 노동시장 연공서열제는 문제이지만, 나는 모든 이들이 나이와 무관하게 하고 싶은 일을 지속할 수 있는 사회를 원한다. 연령은 계급, 젠더와 함께 중요한 사회 구성 요소로, 모든 분야가 노소(老少)에 따른 ‘우선권’을 둘러싼 정치경제학의 전쟁터다. 나이는 다른 사회 구조와 다르게 ‘어려도’ ‘어중간해도’ ‘늙어도’ 맥락에 따라 차별받는다. 이처럼 연령주의는 간단한 주제는 아니지만, 논외는 있다. 사람들이 “그만큼 해(처)먹었으면 됐지”라고 지칭하...]]></content>
     </entry>
 </feed>
