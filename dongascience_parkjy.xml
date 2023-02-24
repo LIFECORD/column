@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-02-24T22:17:05.846Z</updated>
+    <updated>2023-02-24T23:16:27.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] "나는 대단하지 않다"...'작은 자아'의 행복감]]></title>
+        <id>https://www.dongascience.com/news.php?idx=58693</id>
+        <link href="https://www.dongascience.com/news.php?idx=58693"/>
+        <updated>2023-02-25T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[누구나 한 번쯤은 실수를 한다고 하지만 실수를 할 때면 뼈아픈 것이 사실이다. 특히 말도 안 되게 기초적인 부분에서 실수를 할 때면 이제껏 뭐했나 싶고 그간의 시간들이 의미 없게 느껴지곤 한다. 인간관계에서도 마찬가지다. 나이가 들면서 점점 더 다양한 사회적 상황을 만나게 되지만, 여전히 사람의 마음이란 열 길 물 속보다 어려운 탓에 늘 새롭고 여전히 어색한 미소를 흘리게 된다. 시간이 좀 더 지나면 조금 더 익숙해지겠거니 하지만 익숙해지지 않는 과제들이 존재하기 마련이다. 물론 이러한 시련이 닥쳐올 때마다 마음챙김을 기억하고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] '인생은 고통' 깨달음이 주는 것]]></title>
         <id>https://www.dongascience.com/news.php?idx=58584</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=57490"/>
         <updated>2022-12-10T06:00:00.000Z</updated>
         <content type="html"><![CDATA[스쳐지나갔지만 평생 기억에 남는 만남들이 있다. 태국에서 여행할 때 우연히 만나 친해진 친구와 트럭 뒤에 앉아 시골길을 달리며 봤던 파란 하늘, 남편과 사별하고 80세가 되어 처음으로 세계일주를 해야겠다고 마음 먹고 전세계 곳곳을 홀로 누비고 다니던 할머니, 생일이지만 병원에 있었던 나에게 “생일인데 파티를 해야지” 라고 했던, 그래서 파티는 어떻게 하는 거냐는 내 물음에 자신은 매일매일이 파티라며 어떤 순간에도 즐거워할 준비가 되어 있다고 자신있게 답하던 간호사, 12월 7일이 무슨 날(요일)이냐는 물음에 “P...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '사람은 거기서 거기"...나에게 어려운 건 남들도 어렵다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=57391</id>
-        <link href="https://www.dongascience.com/news.php?idx=57391"/>
-        <updated>2022-12-03T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[사람들을 만나는 것이 두렵게 느껴졌던 때가 있다. 아마 갓 대학에 입학했을 때가 가장 심했던 것 같다. 다양하고 이상한 사람들 틈 속에서 알아서 잘 살아남으라고 던져진 기분이었다. 상황이 더 나빴던 것은 대학 입학도 하기 전에 사기꾼들을 만났던 탓이 크다. 학교에서 하는 설문조사라고 해서 의심 없이 남긴 개인정보가 엉뚱한 종교 단체에 흘러가 있었다. 학교에서 하는 설문이라는 말은 거짓이었고, 선배라는 사람들이 포교를 위해 같은 학교 신입생을 낚는 형태의 사기였다. 그렇게 뭣 모르는 신입생들의 대학 첫 인간관계를 종교단체에서 ...]]></content>
     </entry>
 </feed>
