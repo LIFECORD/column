@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[2차 세계대전 이후 한국은 일본과 다르게 1997년 김대중 정권을 시작으로 정권교체를 이루었다. 그 이후로도 분단상황을 이용한 안보 협박 정치에도 불구하고, 노무현과 문재인 대통령을 배출했다. 일본은 여전히 자민당 1당 체제이고, 극우 세력만 투표를 해서 변화의 기미가 없어 보인다. 그러나 나는 최근 몇 년간 더불어민주당과 국민의힘 양당의 ‘누가 더 무능하고 파렴치하고 부패했는가’ 경쟁을 보면서, 차라리 능력 있는 의원들의 1당 체제인 ‘민주주의 독재’가 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어느 순간 내 글이 이상해 보이기 시작했다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</guid>
+            <pubDate>Mon, 27 Feb 2023 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0223/A0002904489_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임보라 목사를 보내는 것이 더욱 가슴 아픈 이유 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</guid>
@@ -358,14 +366,6 @@
             <pubDate>Sat, 25 Feb 2023 20:14:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1104/A0002878108_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['축복'을 이유로 목회자 처벌, 부끄러운 한국 교회 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002874097</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002874097</guid>
-            <pubDate>Sat, 25 Feb 2023 20:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-pr">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1021/A0002874097_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] "나는 대단하지 않다"...'작은 자아'의 행복감 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
