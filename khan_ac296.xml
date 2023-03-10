@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-03-10T10:19:22.993Z</updated>
+    <updated>2023-03-10T11:14:05.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 드라마 ‘더 글로리’ 파트2 시작…영광과 지옥 사이, 종착지는?]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202303101604005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202303101604005"/>
+        <updated>2023-03-10T11:12:21.160Z</updated>
+        <content type="html"><![CDATA[올 초, 드라마 &lt;더 글로리&gt;를 보지 않은 사람들은 꽤나 어리둥절했을 것이다. 여기저기서 “내 꿈은 너야, ○○○”이라거나 “보고 싶어 죽는 줄~”, 박수를 치며 “멋있다, ○○○!”이라고 이름을 연호하는 장면들이 일상적으로 연출되었을 테니까. 2022년 12월30일 파트1이 방영된 넷플릭스 오리지널 드라마 &lt;더 글로리&gt;의 명장면 패러디이다. 김은숙 작가와 송혜교의 출연으로 공개 전부터 화제를 몰았던 &lt;더 글로리&gt;는 시청률과 화제성을 동시에 잡았다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입양 보낸 강아지 만나러 가는 ‘캐나다 체크인’, 그 뒷 이야기]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202212301546005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202209021601005"/>
         <updated>2022-11-16T18:22:11.574Z</updated>
         <content type="html"><![CDATA[“오빠… 최고로 행복하되 가급적 혼자 계셨으면 좋겠어요.” 최근 영화 &lt;헌트&gt;에 출연한 정우성은 팬들의 ‘주접’으로도 유명하다. 행복하되, 혼자 있어달라는 말은 신아영 아나운서가 예능 프로그램 &lt;비디오 스타&gt;에 출연해 정우성에게 남긴 덕담(?)이다. 이 대사는 사랑하는 대상이 행복하길 바라면서도 결혼하지 않기를, 그리하여 모두의 스타로 남아주길 바라는 팬들의 명언으로 등극했다. 관습적으로 해석하면 이 문장은 모순적이고 이중적이어서 웃음을 유발한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과시적 먹방 과잉의 시대에 반기 드는 유튜브 채널 ‘밥맛 없는 언니들’]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202208191607005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202208191607005"/>
-        <updated>2022-11-16T18:22:11.576Z</updated>
-        <content type="html"><![CDATA[최근 유튜브 채널 ‘흥마늘 스튜디오’가 &lt;밥맛 없는 언니들&gt;이라는 신개념 ‘먹방’을 시작했다. 연예계에서 대표적인 소식가로 유명한 산다라 박과 박소현이 출연하는 이 프로그램의 설명은 다음과 같다. “먹방계를 뒤집을 소식좌들의 먹방 도전기.” 먹방은 ‘먹는 방송’의 줄임말이고, 소식좌란 적게 먹는 사람을 일컫는 인터넷 용어이다. 작년에 김숙이 자신의 유튜브 채널에 “최강 소식좌 박소현&amp;산다라 박과 함께한 비디오 스타 먹방모음(4년 치) 대공개” 영...]]></content>
     </entry>
 </feed>
