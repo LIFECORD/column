@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-03-11T04:18:01.068Z</updated>
+    <updated>2023-03-11T05:14:07.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 타인의 시선에서 생각하기 능력의 중요성]]></title>
+        <id>https://www.dongascience.com/news.php?idx=58908</id>
+        <link href="https://www.dongascience.com/news.php?idx=58908"/>
+        <updated>2023-03-11T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[자신은 수없이 반복한 익숙한 내용이기 때문에 해당 지식을 처음 접한 사람이 겪게 되는 당황스러움과 어려움, 궁금증 등을 잘 이해하지 못하는 상황은 의외로 흔한 모양이다. 일례로 어떤 분야에서 경력과 지식이 많은 사람이 사람들을 잘 가르칠 것 같지만, 의외로 그렇지 않다는 연구 결과가 있었다. 처음 접하는 지식에 대해 “이렇게 쉬운 걸 몰라?”라는 무책임한 말을 하는 선생님이나 상사들을 본 적이 있었다면 공감할 수 있는 결과다. 개구리 올챙이 적 모른다는 말이 어느 정도 근거가 있다는 얘기다. 하지만 생각해보면 나의 경...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] "나는 대단하지 않다"...'작은 자아'의 행복감]]></title>
         <id>https://www.dongascience.com/news.php?idx=58693</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=57611"/>
         <updated>2022-12-17T06:00:00.000Z</updated>
         <content type="html"><![CDATA[사람은 약하면서 강하다. 사고로 크게 다치거나 사랑하는 사람을 잃어도, 물론 당시에는 힘들어서 죽을 것 같다는 생각을 하지만 시간이 지나면 많은 이들이 원래의 상태를 회복하곤 한다. 실제로 충격적인 사건과 회복탄력성 간의 관계에 대해 살펴본 연구들을 보면 사람들은 충격적인 사건이 터졌을 때 생각보다 충격에 잘 견디고, 절망과 무기력에 꽤 잘 저항하는 편이고, 설령 슬픔과 절망에 빠지더라도 시간이 지나면 천천히 다시 원래의 상태를 회복하는 편이다. 우리의 정신상태는 어느 정도 고무고무하다고나 할까 꽤나 탄력적이다. ● 당신은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의사회심리학] 새로운 인연 만들기는 '해볼 만한 일']]></title>
-        <id>https://www.dongascience.com/news.php?idx=57490</id>
-        <link href="https://www.dongascience.com/news.php?idx=57490"/>
-        <updated>2022-12-10T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[스쳐지나갔지만 평생 기억에 남는 만남들이 있다. 태국에서 여행할 때 우연히 만나 친해진 친구와 트럭 뒤에 앉아 시골길을 달리며 봤던 파란 하늘, 남편과 사별하고 80세가 되어 처음으로 세계일주를 해야겠다고 마음 먹고 전세계 곳곳을 홀로 누비고 다니던 할머니, 생일이지만 병원에 있었던 나에게 “생일인데 파티를 해야지” 라고 했던, 그래서 파티는 어떻게 하는 거냐는 내 물음에 자신은 매일매일이 파티라며 어떤 순간에도 즐거워할 준비가 되어 있다고 자신있게 답하던 간호사, 12월 7일이 무슨 날(요일)이냐는 물음에 “P...]]></content>
     </entry>
 </feed>
