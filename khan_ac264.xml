@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-03-17T10:17:31.802Z</updated>
+    <updated>2023-03-17T11:14:03.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나는 신이다’ JMS편, 선정성 논란을 넘어 미투 운동 윤리로 다시보기]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202303171604005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202303171604005"/>
+        <updated>2023-03-17T11:10:47.450Z</updated>
+        <content type="html"><![CDATA[넷플릭스 오리지널 다큐멘터리 &lt;나는 신이다: 신이 배신한 사람들&gt; 1~3화인 JMS(기독교복음선교회) 에피소드 방영 후 벌어진 논의는 조지 레이코프의 유명한 책 &lt;코끼리는 생각하지 마&gt;를 비틀어 인용하면 ‘선정성은 생각하지 마’로 요약할 수 있을 듯하다. JMS 총재 정명석의 성범죄 사실을 증언하고 묘사하는 과정에서 그의 음란한 요구나 성폭행 상황 묘사, 여성 신도들의 나체 사진이나 영상 자료가 사용되며 일종의 포르노그래피적인 전시를 한 것이 아니냐...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간잽이 안철수 vs 독불장군 윤석열을 그린 ‘간도리’…현재 대한민국 최고의 개그 만화]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202302171603015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202210281603005"/>
         <updated>2022-11-16T18:21:58.216Z</updated>
         <content type="html"><![CDATA[솔로 앨범 &lt;ERROR&gt;로 활동 중인 이찬혁의 최근 활동은 ‘에러(error)’에 대한 존재론적 실험처럼 보인다. 음악방송에서 보여준 그의 난해한 퍼포먼스를 무례함이나 자의식 과잉이라 공격하는 일부 소비자와 그들의 목소리에 기생한 상당수 연예매체의 주장처럼 이찬혁의 실험이 에러라는 뜻은 아니다. 어떤 존재가 그 자체로 에러일 수는 없다. 단어와 품사의 배열을 결정하는 문법적 규칙 안에 어떤 단어가 얌전히 정렬되지 않고 일종의 비문(非文)을 만들며 돌출될 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 장관이 정말로 만화 공모전 심사위원이었다면?]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202210141559015</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202210141559015"/>
-        <updated>2022-11-16T18:21:58.216Z</updated>
-        <content type="html"><![CDATA[기자 혹은 프리랜서 기고가로서 약 10년 넘게 웹툰에 대한 비평을 쓰거나 작가 인터뷰를 진행하다 보니 종종 만화 심사를 맡게 될 때가 있다. 프로 작가의 연재작 중 수상작을 추천하는 경우도 있고, 연재를 꿈꾸는 예비 작가들의 작품을 평가할 때도 있으며, 공적 기관에서 주관하는 특정 주제에 대한 미성년 학생들의 공모작을 심사해보기도 했다. 다년간 만화 심사 경험에 비춰볼 때, 최근 화제가 된 전국 학생 만화공모전 고등부 카툰 부문 금상 수상작 ‘윤석열차...]]></content>
     </entry>
 </feed>
