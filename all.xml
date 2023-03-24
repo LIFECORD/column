@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 07:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 08:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,6 +480,13 @@
             <content:encoded><![CDATA[[경향신문] 남성혐오 논란이 잦아들 기미가 보이지 않는다. 곳곳에 숨어 있는 남혐 손가락을 적발해내는 것은 ‘놀이’ 수준을 뛰어넘어 연일 언론지상에 오르내릴 정도의 사회적 의제가 되었다. 급기야 한 금메달리스트 여성이 남성혐오 용어를 사용했다는 것까지 시비의 대상이 되고 말았다. 혐오와 차별은 여성, 장애인, 성소수자, 이주자, 소수종교신자 등 소수자 집]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[폭식과 다이어트 굴레에 대항하라 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
+            <link>https://v.daum.net/v/20230324162156313</link>
+            <guid>https://v.daum.net/v/20230324162156313</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난해, 유튜브 콘텐츠 ‘차린 건 쥐뿔도 없지만’에 출연한 걸그룹 있지(ITZY)의 채령이 래퍼 영지와 ‘폭식’에 대해 이야기하는 영상이 화제였다. 서로 ‘얼마나 폭식해봤는지’ 이야기하면서, 채령은 “프링글스 한 통 다 먹어본 적 있어?”라고 묻는다. 프링글스는 짭짤한 맛이 식욕을 자극해 많은 양을 먹도록 유도하는 감자 과자로, 식품공학 전문가들의 역작이다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 드라마 ‘더 글로리’ 파트2 시작…영광과 지옥 사이, 종착지는? (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
             <link>https://v.daum.net/v/20230310161816107</link>
             <guid>https://v.daum.net/v/20230310161816107</guid>
@@ -555,13 +562,6 @@
             <guid>https://v.daum.net/v/20220819161917787</guid>
             <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최근 유튜브 채널 ‘흥마늘 스튜디오’가 &lt;밥맛 없는 언니들&gt;이라는 신개념 ‘먹방’을 시작했다. 연예계에서 대표적인 소식가로 유명한 산다라 박과 박소현이 출연하는 이 프로그램의 설명은 다음과 같다. “먹방계를 뒤집을 소식좌들의 먹방 도전기.” 먹방은 ‘먹는 방송’의 줄임말이고, 소식좌란 적게 먹는 사람을 일컫는 인터넷 용어이다. 작년에 김숙이 자신의 유튜브]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["영리하고 어리석은" 우영우처럼..'장애 전형성' 한계와 차별성 공존 (다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데)]]></title>
-            <link>https://v.daum.net/v/20220722160912652</link>
-            <guid>https://v.daum.net/v/20220722160912652</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;이상한 변호사 우영우&gt;(ENA)의 인기가 뜨겁다. 첫 방송 때는 케이블 방송 평균 수준이었던 시청률(0.9%)이 한 달도 안 돼 10배로 껑충 뛰었다(7월14일 기준 9.6%). 방송 날이면 드라마와 관련한 단어가 온라인 실시간 트렌드에 오르고, 다양한 감상과 해석이 쏟아진다. 이 드라마는 뜨거운 반응만큼이나 드라마를 둘러싼 논의가 활발하다. 이 드라마에]]></content:encoded>
         </item>
     </channel>
 </rss>
