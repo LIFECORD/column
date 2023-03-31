@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 22:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 23:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1202/A0002885443_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 용서와 배신의 '딜레마' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=59208</link>
+            <guid>https://www.dongascience.com/news.php?idx=59208</guid>
+            <pubDate>Sat, 01 Apr 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[용서는 좋은 것이라고들 한다. 사람은 누구나 적어도 한 번쯤 큰 실수를 하기 마련이고 그 때 내가 새로운 기회를 얻을 수 있길 바라는 것처럼 다른 사람들도 그럴 것이기 때문이다. 하지만 안타깝게도 용서가 독이 되는 경우가 존재한다. 플로리다 주립대 연구자 제임스 맥널티(James McNulty)와 동료들은 다음과 같은 실험을 했다. 사람들에게 무슨무슨 테스트 결과 자신의 연인이 잘못을 쉽게 용서하지 않는 사람이라거나 또는 비교적 쉽게 용서하는 편이라는 정보를 주었다. 그리고 나서 죄수의 딜레마 게임(prisoner’s dilemma game)과...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 때로는 자신에게 너그러워야 성장한다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=59106</link>
             <guid>https://www.dongascience.com/news.php?idx=59106</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=58018</guid>
             <pubDate>Sat, 14 Jan 2023 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[핀란드 사람들은 왜 이렇게 행복할까. 핀란드는 벌써 수년 째 여러 문화권에 걸쳐 행복과 관련한 대규모 조사에서 1위를 굳건히 지키고 있다. 그 이유에 대해 여러가지가 제시되고 있지만 몇 가지 주로 이야기 되는 것이 바로 “자신의 행복을 자랑하지 않는 것”, “사회적 비교가 심하지 않은 것”, 또 “사회적(social), 잠재적(potential), 정신적(psychological) 자유도(freedom)가 높은 것”이다. '사이언티픽 어메리컨 마인드(Scientific American Mind)'에 실린 한 기사에 따르면 핀란드 사람들은...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 애써도 세상은 바뀌지 않는다는 이들에게 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=57918</link>
-            <guid>https://www.dongascience.com/news.php?idx=57918</guid>
-            <pubDate>Sat, 07 Jan 2023 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실제로 사람이 변하는지 여부와 상관 없이 (지능이든 성격이든) “변할 수 있다”고 믿는 사람들이 그렇지 않은 사람들에 비해 자신감이 넘치고 더 많은 노력을 하며, 어려움이 닥쳐와도 더 굳건하게 버틸 수 있다는 발견들이 있었다. 예컨대 아이들의 경우 실제로 그런지와 별개로 “지능이 변할 수 있다”고 믿는 아이들은 어려운 문제를 만나도 더 열심히 풀어보려고 노력하지만, 어차피 지능은 변하지 않는다고 믿는 아이들의 경우 문제를 본격적으로 풀어보기도 전에 포기하고 만다는 연구 결과들이 있었다. 무슨 짓을 하든...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
