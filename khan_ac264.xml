@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-03-31T23:15:58.497Z</updated>
+    <updated>2023-04-01T00:56:18.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’와 ‘세치혀’가 ‘집이 없어’에게 배워야 할 것]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202303311604005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202303311604005"/>
+        <updated>2023-04-01T00:51:58.967Z</updated>
+        <content type="html"><![CDATA[여기 가정폭력에 대한 두 가지 풍경이 있다. 하나는 지난 3월10일 파트2를 공개한 넷플릭스 오리지널 시리즈 &lt;더 글로리&gt;. 잘 알려졌듯 학교폭력의 피해자인 주인공 문동은(송혜교)이 성인이 되어 가해자들을 응징하는 이야기이지만, 그가 겪은 폭력의 또 다른 한 축은 어머니에 의한 폭력이다. 동은의 어머니 정미희(박지아)는 딸이 겪은 학교폭력에 대해 함께 분노하고 싸워주기는커녕 가해자 측의 합의금을 받아 부적응이라는 사유로 자퇴서에 서명하고, 그 합의금을 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘나는 신이다’ JMS편, 선정성 논란을 넘어 미투 운동 윤리로 다시보기]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202303171604005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202211111602015"/>
         <updated>2022-11-16T18:21:58.216Z</updated>
         <content type="html"><![CDATA[1995년 삼풍백화점 붕괴 참사 당시, 모든 게 흐릿한 와중에 뜬금없이 뚜렷한 기억 하나가 있다. 방송국에서 종일 참사 관련 뉴스 특보를 내는 중에 MBC에선 특보와 특보 사이 비는 시간에 드라마 &lt;생의 한가운데&gt;를 특별 편성했다. 하희라가 보험설계사로 나왔고, 중년의 경쟁으로 점철된 삶에 후회를 느끼는 자동차 세일즈왕의 의문사를 다룬 이야기로 기억한다(당장 자료가 거의 없어 제목도 겨우 찾았고 1994년 세계 가정의날 특집 3부작 드라마였다는 것도 글을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬혁 ‘에러’ 퍼포먼스를 이해 않으려는 낡은 권위의식, 그게 '에러']]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202210281603005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202210281603005"/>
-        <updated>2022-11-16T18:21:58.216Z</updated>
-        <content type="html"><![CDATA[솔로 앨범 &lt;ERROR&gt;로 활동 중인 이찬혁의 최근 활동은 ‘에러(error)’에 대한 존재론적 실험처럼 보인다. 음악방송에서 보여준 그의 난해한 퍼포먼스를 무례함이나 자의식 과잉이라 공격하는 일부 소비자와 그들의 목소리에 기생한 상당수 연예매체의 주장처럼 이찬혁의 실험이 에러라는 뜻은 아니다. 어떤 존재가 그 자체로 에러일 수는 없다. 단어와 품사의 배열을 결정하는 문법적 규칙 안에 어떤 단어가 얌전히 정렬되지 않고 일종의 비문(非文)을 만들며 돌출될 ...]]></content>
     </entry>
 </feed>
