@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-04-07T22:15:54.354Z</updated>
+    <updated>2023-04-07T23:15:17.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 버리는 물건에도 '자아'가 있다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=59316</id>
+        <link href="https://www.dongascience.com/news.php?idx=59316"/>
+        <updated>2023-04-08T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[정리정돈에서 가장 중요한 부분이라면 단연 “쓸모 없는 물건들 처치하기”이다. 많은 이들이 소비를 (필요 없는 소비까지) 밥 먹듯이 하는 사회에서 물건이란 시간이 지날수록 잔뜩 쌓이기 마련이다. 거주 공간이 어마어마하게 넓다면 문제가 되지 않을 수도 있지만 대부분의 사람들은 한정된 공간에서 삶을 영위한다. 샀지만 한 번도 사용하지 않은 물건, 어딘가에 처박혀 있어서 그 존재조차 잊고 있었던 물건, 낡아서 또는 기한이 지나서 그 쓸모를 잃어버린 물건 등은 높은 확률로 공간만 차지하는 애물단지로 전락한다. 하지만 이상하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 용서와 배신의 '딜레마']]></title>
         <id>https://www.dongascience.com/news.php?idx=59208</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=58221"/>
         <updated>2023-01-28T06:00:00.000Z</updated>
         <content type="html"><![CDATA[시간과 에너지는 한정적이다. 또한 사람은 일만 하면서 살 수는 없다. 우리는 성취하는 것 못지 않게 잘 쉬고 잘 놀아야 삶이 의미있다는 느낌과 행복감을 느끼는 존재다. 때문에 적은 시간 동안 많은 일을 해내는 효율적인 일하기는 행복에도 중요한 역할을 미친다. 특히 조금만 무리하면 컨디션이 급격히 나빠지는 필자의 경우 적은 시간 동안 가급적 많은 일을 마쳐 두는 것이 생존의 문제가 되기도 한다. 심리학자들이 말하는 효율적인 일하기법에는 어떤 것이 있을까. 개구리를 가장 먼저 먹기(eat the frog) 마크 트웨인은 하루를 시작할 때 개...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 행복을 자랑하지 않아야 행복하다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=58018</id>
-        <link href="https://www.dongascience.com/news.php?idx=58018"/>
-        <updated>2023-01-14T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[핀란드 사람들은 왜 이렇게 행복할까. 핀란드는 벌써 수년 째 여러 문화권에 걸쳐 행복과 관련한 대규모 조사에서 1위를 굳건히 지키고 있다. 그 이유에 대해 여러가지가 제시되고 있지만 몇 가지 주로 이야기 되는 것이 바로 “자신의 행복을 자랑하지 않는 것”, “사회적 비교가 심하지 않은 것”, 또 “사회적(social), 잠재적(potential), 정신적(psychological) 자유도(freedom)가 높은 것”이다. '사이언티픽 어메리컨 마인드(Scientific American Mind)'에 실린 한 기사에 따르면 핀란드 사람들은...]]></content>
     </entry>
 </feed>
