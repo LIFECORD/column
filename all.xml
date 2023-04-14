@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 22:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 23:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1216/A0002888647_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '나'만 불안하란 법은 없다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=59411</link>
+            <guid>https://www.dongascience.com/news.php?idx=59411</guid>
+            <pubDate>Sat, 15 Apr 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[심리학을 배우면서 깨닫게 되는 사실 중 하나는 사람들은 서로 많이 다르면서도 그 이상으로 비슷하다는 것이다. 특히 불안 같은 부정적인 감정을 느낄 때면 대부분의 사람들이 두려움과 외로움, 남들은 다 멀쩡한데 나만 잘못된 것 같다는 소외감을 느낀다. 불안도 외로움도 나만 느끼는 것 같고, 내 삶만 어딘가 잘못된 것 같다고 느낀다. 다들 완벽한데 나 혼자만 고장난 로봇처럼 삐끗거리고 있는 것 같아서 최대한 이러한 감정들을 숨기려 애쓴다. 하지만 흥미롭게도 이렇게 가장 외롭고 혼자라고 생각하게 되는 순간일수록 당신은 혼자가 아닐 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 버리는 물건에도 '자아'가 있다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=59316</link>
             <guid>https://www.dongascience.com/news.php?idx=59316</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=58338</guid>
             <pubDate>Sat, 04 Feb 2023 06:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사랑에 빠지면 눈에 콩깍지가 씌인다고들 한다. 밥을 먹는 것도 이뻐 보이고 썰렁한 농담도 재미있게 느껴지는 등 사랑하는 이가 하는 행동이라면 뭐든 좋게 보게 된다는 것이다. 사랑에 빠지면 정말 눈이 멀게 될까. 눈 먼 사랑은 괜찮은 걸까. 눈 먼 사랑의 힘 연구에 의하면 안정적이면서 만족도가 높은 관계를 형성하는 커플들은 그렇지 않은 커플들에 비해 장밋빛 안경을 끼고 서로를 바라보는 경향을 보인다. 예컨대 실제보다 자신의 연인이 매력적이고 능력도 좋고 도덕적이라는 등 다양한 방면에서 연인을 다소 과대평가하는 경향을 보인다. ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 어려운 것부터 해치워야 효율 높아져 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=58221</link>
-            <guid>https://www.dongascience.com/news.php?idx=58221</guid>
-            <pubDate>Sat, 28 Jan 2023 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시간과 에너지는 한정적이다. 또한 사람은 일만 하면서 살 수는 없다. 우리는 성취하는 것 못지 않게 잘 쉬고 잘 놀아야 삶이 의미있다는 느낌과 행복감을 느끼는 존재다. 때문에 적은 시간 동안 많은 일을 해내는 효율적인 일하기는 행복에도 중요한 역할을 미친다. 특히 조금만 무리하면 컨디션이 급격히 나빠지는 필자의 경우 적은 시간 동안 가급적 많은 일을 마쳐 두는 것이 생존의 문제가 되기도 한다. 심리학자들이 말하는 효율적인 일하기법에는 어떤 것이 있을까. 개구리를 가장 먼저 먹기(eat the frog) 마크 트웨인은 하루를 시작할 때 개...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
