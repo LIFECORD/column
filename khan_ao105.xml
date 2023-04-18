@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-04-18T20:15:35.763Z</updated>
+    <updated>2023-04-18T21:14:07.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령이 해야 할 말…“오염수 방류는 지구 침략이다”]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202304190300015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202304190300015"/>
+        <updated>2023-04-18T21:11:45.088Z</updated>
+        <content type="html"><![CDATA[이 글을 마감할 무렵, 18일자 경향신문 1면 보도다. “일본은 7개국(G7) 환경장관 회의에서 후쿠시마 원전 오염수 방류 관련 환영 성명을 내려다 참가국 반대로 실패했다. (중략) 슈테피 렘케 독일 환경장관은 ‘오염수 방류에 관해서는 환영한다고 할 수 없다’고 정면으로 반박했다. 니시무라 일본 경제산업상은 기자회견이 끝난 후 자신의 발언에 실수가 있었다며 정정해야 했다. 한편 독일은 지난 15일 자정을 기점으로 원자력(핵)발전소 가동을 중단했다.” 일본의 거짓말...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계급 세습권으로서 학교폭력]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202303220300065</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202208100300015"/>
         <updated>2022-11-16T19:12:50.826Z</updated>
         <content type="html"><![CDATA[나는 박찬욱 감독의 작품 중 해외 연출작 외에는 모두 보았다. &lt;복수는 나의 것&gt;(2002)과 &lt;헤어질 결심&gt;을 가장 좋아한다. &lt;복수는 나의 것&gt;은 보기 힘들어서 두 번 보지 못했지만 꿈에 나타났으므로 ‘여러 번 봤다’고 할 수 있다. 그의 가장 뛰어난 걸작이라고 생각한다. &lt;헤어질 결심&gt;은 세 번 보았다. 주·조연은 말할 것도 없고 독립영화 &lt;들꽃&gt; 시리즈의 스타 정하담 배우까지 멋진 배우들의 기막힌 연기, 언어의 차이가 작품의 깊...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오래 날고 싶다면? 대학생의 노동자 고소를 보면서]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202207130300005</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202207130300005"/>
-        <updated>2022-11-16T19:12:50.827Z</updated>
-        <content type="html"><![CDATA[최근 출간된 소설가 정찬의 열 번째 장편소설 &lt;발 없는 새&gt;의 배경 중 하나는 첸 카이거 감독의 &lt;패왕별희&gt;다. 제목 &lt;발 없는 새&gt;는 &lt;패왕별희&gt;의 주인공 장뤄룽(張國榮)의 &lt;아비정전&gt;의 대사에서 나왔다. “세상에 발 없는 새가 있다더군. 이 새는 나는 것 외에는 알지 못해. 날다가 지치면 바람 속에서 쉰대. 딱 한 번 땅에 내려앉는데 그건 바로 죽는 때지.” 세상에는 ‘발 없는 새’도 있지만 ‘발 디딜 곳 없는 새’도 있다. 운...]]></content>
     </entry>
 </feed>
