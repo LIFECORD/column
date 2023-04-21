@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 22:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 23:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2022/1230/A0002891805_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 안좋은 일 곱씹기보다 주위에 감사하기 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=59510</link>
+            <guid>https://www.dongascience.com/news.php?idx=59510</guid>
+            <pubDate>Sat, 22 Apr 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[좋지 않은 일이 있었을 때, 그 일을 통해서 느낀 기분을 계속해서 떠올리면서 끊임없이 재생 버튼을 눌렀던 적이 있다면 이런 곱씹기(rumination)가 가진 부작용을 경험해 보았을 것이다. 우선 나쁜 일이 지나가도 계속해서 기분이 나쁘다. 또한 생각하면 할수록 원래보다 기분이 더 나빠지기도 한다. 계속해서 감정을 붙잡고 곱씹다 보면 기분이 나쁜 이유와 그것의 의미, 이런 기분을 느끼는 나 자신은 어떤 사람인지, 내 삶에 얼마나 부정적인 요소들이 많은지 등 계속해서 부정적인 생각들을 늘려가기 때문이다. 이렇게 한 번 부정적인 생각에 갇...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '나'만 불안하란 법은 없다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=59411</link>
             <guid>https://www.dongascience.com/news.php?idx=59411</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=58460</guid>
             <pubDate>Sat, 11 Feb 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[크로스핏을 시작했다. 이제 막 2주차라 잘 모르겠지만, 트레이너 선생님 말에 의하면 크로스핏이란 심박수를 높이는 카디오(cardio) 운동과 근력운동, 웨이트 트레이닝, 민첩성과 순발력을 요구하는 운동 등을 높은 강도로 반복함으로써 단 시간에 큰 효과를 내는 운동이다. 제대로 된 운동이라는 것을 별로 해본 적 없고 평생 주로 앉아있거나 아니면 누워있는 좌식 생활을 해온 탓에 크로스핏 수업 시간마다 내 몸을 있는대로 고문하는 듯한 경험을 한다. 많은 이들이 건강해지기 위해서 운동을 하지만 나는 조금 다른 이유로 운동을 하고 있다. 지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 사랑에 눈 멀면 안되는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=58338</link>
-            <guid>https://www.dongascience.com/news.php?idx=58338</guid>
-            <pubDate>Sat, 04 Feb 2023 06:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사랑에 빠지면 눈에 콩깍지가 씌인다고들 한다. 밥을 먹는 것도 이뻐 보이고 썰렁한 농담도 재미있게 느껴지는 등 사랑하는 이가 하는 행동이라면 뭐든 좋게 보게 된다는 것이다. 사랑에 빠지면 정말 눈이 멀게 될까. 눈 먼 사랑은 괜찮은 걸까. 눈 먼 사랑의 힘 연구에 의하면 안정적이면서 만족도가 높은 관계를 형성하는 커플들은 그렇지 않은 커플들에 비해 장밋빛 안경을 끼고 서로를 바라보는 경향을 보인다. 예컨대 실제보다 자신의 연인이 매력적이고 능력도 좋고 도덕적이라는 등 다양한 방면에서 연인을 다소 과대평가하는 경향을 보인다. ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
