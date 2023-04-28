@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-04-28T10:17:39.504Z</updated>
+    <updated>2023-04-28T11:13:32.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JTBC ‘최강야구’가 주는 몇가지 불편함]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202304281603005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202304281603005"/>
+        <updated>2023-04-28T11:10:07.386Z</updated>
+        <content type="html"><![CDATA[한 편의 부조리극을 보는 기분이었다. 지난 4월10일 방영된 JTBC &lt;최강야구&gt; 2023시즌 첫 회차에는 기아 타이거즈에서 데뷔하고 삼성 라이온즈에서 은퇴한 왕년의 국가대표 투수 한기주가 은퇴한 프로야구 레전드 중심으로 구성된 최강 몬스터즈 합류를 위한 트라이아웃에 참가했다. 방송 내내 자막으로 강조했듯 그는 고등학교 시절 시속 158㎞ 강속구를 던지기도 했던 당대의 파이어볼러였다. 최강 몬스터즈 합류 여부와는 별개로 마지막으로 마운드에 오르고 싶었다는...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리바운드’ 이전에 ‘가비지타임’이 있었다]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202304141612005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202212091608005"/>
         <updated>2022-12-09T08:14:17.982Z</updated>
         <content type="html"><![CDATA[최근 세종시 한 고등학교에서 학생 일부가 교원평가를 하며 여성 교사를 향한 성희롱성 답변을 써 논란이 일어났다. 익명성에 기댄 성희롱인 만큼 가해 학생을 찾아내기도 쉽지 않으며, 교사로서는 가해자일지도 모르는 학생 앞에 서서 수업을 진행해야 하는 상황에 정신적 고통을 호소했다. 전교조 세종지부는 성명서를 통해 “익명으로 진행되는 현재의 교원평가는 교사에 대한 악플을 방조하고 있어 어떠한 교육적 효과도 기대할 수 없다”며 교원평가 폐지를 요청하기도 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부마민주항쟁 기념식 공연에 이랑과 늑대의 ‘하울링’이 필요한 이유]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202211251605005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202211251605005"/>
-        <updated>2022-11-25T11:11:27.963Z</updated>
-        <content type="html"><![CDATA[늑대가 나타났다! 양치기 소년은 외쳤다. 하지만 늑대는 오지 않았다. 이솝우화 중에서도 잘 알려진 양치기 소년 이야기다. 흔히 이 우화는 거짓말과 그 대가에 대한 것으로 받아들여진다. 하지만 또 다른 해석도 해볼 수 있다. 지금이든 나중이든 언젠가 늑대는 나타나며, 소년의 외침은 언제나 불길한 예언일 수밖에 없다는 것. 마을 사람들이 예언을 무시하고 마음 편히 잠을 청한 바로 그 순간 늑대가 나타난 것은 아닐까.그리고 여기 또 하나의 늑대에 대한 불길한...]]></content>
     </entry>
 </feed>
