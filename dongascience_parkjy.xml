@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-05-04T23:15:08.770Z</updated>
+    <updated>2023-05-05T00:49:27.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] "경찰이 잡아간다"...아이에게 거짓말 하면 일어나는 일]]></title>
+        <id>https://www.dongascience.com/news.php?idx=59699</id>
+        <link href="https://www.dongascience.com/news.php?idx=59699"/>
+        <updated>2023-05-05T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[어렸을 때 “안 따라오면 버리고 간다”거나 “너 저기 다리 밑에서 주워 왔어” 같은 말을 여러 번 들었던 기억이 난다. 한 번은 엄마가 고집부리는 동생을 버리고 간다고 해서 내가 울면서 동생을 끌고 왔다고 한다. 이밖에 "경찰 아저씨가 잡아간다”라거나 (내 동생은 한동안 경찰차만 보면 무서워서 숨었다) “돈 없어서 못 사줘” 등 아이들의 행동과 감정상태를 바꾸기 위해 양육자들은 크고 작은 거짓말 또는 속임수를 사용한다. 보통 잠깐의 곤란한 상황을 모면하기 위한 행동들이지만 이런 거짓말...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 안좋은 일 곱씹기보다 주위에 감사하기]]></title>
         <id>https://www.dongascience.com/news.php?idx=59510</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=58584"/>
         <updated>2023-02-18T08:00:00.000Z</updated>
         <content type="html"><![CDATA[몇 년 전부터 부쩍 많이 관심을 갖게 된 주제는 “인생은 고통”이라는 것이다. 사람은 누구나 생노병사와 다양한 아픔과 상실의 고통을 겪고 그것은 나도 예외가 아니라는 사실이 어렸을 때에는 막연히 두렵고 우울하게만 느껴졌다. 하지만 언젠가부터 조금씩 생각이 바뀌기 시작했다. 인생에는 다양한 고통이 존재하기 때문에 인생은 우울하고 의미 없는 것이 아니라, 그렇기 때문에 “지금, 이 순간”이 무엇보다 소중한 것이 아닌지, 고통으로 가득 찬 세상이기 때문에 더더욱 나에게 행복과 따뜻함을 선물해주는 이들의 존...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 만성통증 극복 운동은 '자주, 꾸준히']]></title>
-        <id>https://www.dongascience.com/news.php?idx=58460</id>
-        <link href="https://www.dongascience.com/news.php?idx=58460"/>
-        <updated>2023-02-11T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스핏을 시작했다. 이제 막 2주차라 잘 모르겠지만, 트레이너 선생님 말에 의하면 크로스핏이란 심박수를 높이는 카디오(cardio) 운동과 근력운동, 웨이트 트레이닝, 민첩성과 순발력을 요구하는 운동 등을 높은 강도로 반복함으로써 단 시간에 큰 효과를 내는 운동이다. 제대로 된 운동이라는 것을 별로 해본 적 없고 평생 주로 앉아있거나 아니면 누워있는 좌식 생활을 해온 탓에 크로스핏 수업 시간마다 내 몸을 있는대로 고문하는 듯한 경험을 한다. 많은 이들이 건강해지기 위해서 운동을 하지만 나는 조금 다른 이유로 운동을 하고 있다. 지...]]></content>
     </entry>
 </feed>
