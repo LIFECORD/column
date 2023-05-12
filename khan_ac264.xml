@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-05-12T09:16:33.771Z</updated>
+    <updated>2023-05-12T10:15:45.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘촉법소년’ 혐오에 기생하는 사이다 서사는 어떻게 웹툰의 대세가 되었나]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202305121621015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202305121621015"/>
+        <updated>2023-05-12T10:11:00.617Z</updated>
+        <content type="html"><![CDATA[공개 직후  네이버 신작 랭킹 1위학교폭력의 피해자인 주인공 윤성가해자가 ‘촉법소년’이란 이유로법으로는 느슨한 처벌을 받게되자직접 응징…‘사적 보복’에 나선다성공하는 웹툰에 대한 작법서를 쓴다면 첫 문장은 다음과 같을 것이다. 혐오의 대상을 골라라. 두 번째 법칙, 대상을 정당하게 미워할 수 있는 부도덕한 흠결을 덧씌워라. 셋째, 문명의 제약 때문에 정당한 응징을 못하는 것 같은 답답한 상황을 만들어라. 넷째, 어떤 방식이든 그 제약을 넘어설 권력과 힘...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JTBC ‘최강야구’가 주는 몇가지 불편함]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202304281603005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/tv/article/202212231607005"/>
         <updated>2022-12-23T08:13:53.148Z</updated>
         <content type="html"><![CDATA[이럴 줄 정말 몰랐나. 지난 12월19일 방영 에피소드에 대한 아동 성추행 논란과 함께 다시보기 서비스에서 특정 장면을 삭제하는 데 이른 MBC &lt;오은영 리포트-결혼 지옥&gt;(이하 &lt;결혼 지옥&gt;)에 대한 이야기다. 아이를 데리고 재혼한 아내와 새아빠 역할을 맡게 된 남편의 사연을 다룬 이 방송은 놀랍게도 아내가 남편을 아동학대로 신고했다는 고백과 함께 시작한다. 그들에겐 무슨 일이 있었는가. 관찰 카메라에서 아이는 “삼촌(새아빠에 대한 아이의 호칭)은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교원평가 성희롱으로 더 명백해진 네이버 웹툰 ‘참교육’의 무책임한 대안사실]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202212091608005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202212091608005"/>
-        <updated>2022-12-09T08:14:17.982Z</updated>
-        <content type="html"><![CDATA[최근 세종시 한 고등학교에서 학생 일부가 교원평가를 하며 여성 교사를 향한 성희롱성 답변을 써 논란이 일어났다. 익명성에 기댄 성희롱인 만큼 가해 학생을 찾아내기도 쉽지 않으며, 교사로서는 가해자일지도 모르는 학생 앞에 서서 수업을 진행해야 하는 상황에 정신적 고통을 호소했다. 전교조 세종지부는 성명서를 통해 “익명으로 진행되는 현재의 교원평가는 교사에 대한 악플을 방조하고 있어 어떠한 교육적 효과도 기대할 수 없다”며 교원평가 폐지를 요청하기도 ...]]></content>
     </entry>
 </feed>
