@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-05-12T22:15:28.610Z</updated>
+    <updated>2023-05-12T23:13:56.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 우기지 않는 '지적 겸손'의 중요성]]></title>
+        <id>https://www.dongascience.com/news.php?idx=59790</id>
+        <link href="https://www.dongascience.com/news.php?idx=59790"/>
+        <updated>2023-05-13T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[모르는 것을 모른다고 인정하지 않고 안다고 우기는 사람만큼 대하기 힘든 사람이 없다. 각종 거짓 정보, 가짜 뉴스, 일상적인 지식에 있어서도 그렇지만 특히 “건강”과 관련된 정보에 있어서 자신이 뭘 잘 모를 가능성을 인정하지 않는 태도는 공중 보건상의 문제를 가져오기도 한다. 최근 듀크대의 심리학자 릭 호일 연구팀에 의하면 팬데믹 기간 중, 자신이 무엇을 잘 모를 가능성을 인정하는 태도인 지적 겸손도가 높은 사람들이 그렇지 않은 사람들에 비해 전문가들의 권고를 더 잘 경청하고 손을 씻고 마스크를 착용하는 등 안전 수...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] "경찰이 잡아간다"...아이에게 거짓말 하면 일어나는 일]]></title>
         <id>https://www.dongascience.com/news.php?idx=59699</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=58693"/>
         <updated>2023-02-25T08:00:00.000Z</updated>
         <content type="html"><![CDATA[누구나 한 번쯤은 실수를 한다고 하지만 실수를 할 때면 뼈아픈 것이 사실이다. 특히 말도 안 되게 기초적인 부분에서 실수를 할 때면 이제껏 뭐했나 싶고 그간의 시간들이 의미 없게 느껴지곤 한다. 인간관계에서도 마찬가지다. 나이가 들면서 점점 더 다양한 사회적 상황을 만나게 되지만, 여전히 사람의 마음이란 열 길 물 속보다 어려운 탓에 늘 새롭고 여전히 어색한 미소를 흘리게 된다. 시간이 좀 더 지나면 조금 더 익숙해지겠거니 하지만 익숙해지지 않는 과제들이 존재하기 마련이다. 물론 이러한 시련이 닥쳐올 때마다 마음챙김을 기억하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '인생은 고통' 깨달음이 주는 것]]></title>
-        <id>https://www.dongascience.com/news.php?idx=58584</id>
-        <link href="https://www.dongascience.com/news.php?idx=58584"/>
-        <updated>2023-02-18T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[몇 년 전부터 부쩍 많이 관심을 갖게 된 주제는 “인생은 고통”이라는 것이다. 사람은 누구나 생노병사와 다양한 아픔과 상실의 고통을 겪고 그것은 나도 예외가 아니라는 사실이 어렸을 때에는 막연히 두렵고 우울하게만 느껴졌다. 하지만 언젠가부터 조금씩 생각이 바뀌기 시작했다. 인생에는 다양한 고통이 존재하기 때문에 인생은 우울하고 의미 없는 것이 아니라, 그렇기 때문에 “지금, 이 순간”이 무엇보다 소중한 것이 아닌지, 고통으로 가득 찬 세상이기 때문에 더더욱 나에게 행복과 따뜻함을 선물해주는 이들의 존...]]></content>
     </entry>
 </feed>
