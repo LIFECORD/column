@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-05-19T12:23:46.943Z</updated>
+    <updated>2023-05-19T13:17:14.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘뿅뿅 지구오릭실 시즌2’에서 펼쳐진 웃픈 ‘한반도 대통합’]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202305191603015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202305191603015"/>
+        <updated>2023-05-19T13:14:34.031Z</updated>
+        <content type="html"><![CDATA[지난주 예능계의 ‘핫클립’을 꼽자면 단연 미미의 ‘한반도 대통합’ 장면이다. tvN의 오리지널 예능 &lt;뿅뿅 지구오락실 시즌2&gt;(이하 지락실)의 첫 방송에서 미미는 ‘당’자로 끝나는 단어 3가지를 대야 하는 게임에서, 시간에 쫓겨 어쩔 줄 몰라 하다가 ‘민주당’을 외친다. 전설의 시작이다. 웅성거리는 반응을 뒤로하고, 두 번째로 미미는 ‘새누리당’을 외친다. 완벽한 빌드업이다. 마지막 하나를 남기고 코너에 몰린 미미는 극적인 결승골을 터뜨린다. “공산당!”...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그룹 아스트로의 멤버 문빈의 안타까운 죽음으로 본 K팝 산업의 현실]]></title>
         <id>https://www.khan.co.kr/culture/popular_music/article/202305051648005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202210211635015"/>
         <updated>2022-11-16T18:22:11.574Z</updated>
         <content type="html"><![CDATA[드라마 &lt;작은 아씨들&gt;(tvN, 2022)이 끝났다. &lt;작은 아씨들&gt;은 방송 전부터 화려한 캐스팅과 제작진의 라인업으로 화제를 뿌리고 기대감을 불러일으켰다. &lt;친절한 금자씨&gt;부터 &lt;헤어질 결심&gt;까지 각본을 쓴 정서경 작가의 두 번째 드라마이자, &lt;왕이 된 남자&gt; &lt;빈센조&gt;를 연출한 김희원 감독은 물론 &lt;아가씨&gt; &lt;헤어질 결심&gt;을 만들어낸 류성희 미술감독까지, 일명 ‘어벤져스’였다. 캐스팅은 또 어떤가. 제목이 의미하는 ‘작은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[졸지에 범죄자의 팬이 되어버린 이야기를 다룬 영화 ‘성덕’…과연 ‘실패한 덕후’일까]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202210071600005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202210071600005"/>
-        <updated>2022-11-16T18:22:11.574Z</updated>
-        <content type="html"><![CDATA[누군가를 열렬히 사랑하는 팬들끼리, ‘최애’(가장 좋아하는 대상)가 누구인지 불문하고 주고받는 덕담이 있다. “모쪼록 여러분의 최애가 사회면 데뷔하지 않고… 법원 프리뷰 뜰 일 없기를….” 그만큼 남자 유명인이 범죄를 저질러 사회면에 보도되고, 법원에 출두하는 일이 잦다는 뜻이다. 최지은 기자의 책 &lt;이런 얘기 하지 말까?&gt;(콜라주, 2021)에는 이런 문장이 나온다. “최애거나 최애였던 ‘오빠’들의 음주운전, 성 매수, 성폭력 사실이 밝혀질 때마다 내가 ...]]></content>
     </entry>
 </feed>
