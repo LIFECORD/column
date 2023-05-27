@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-05-26T23:16:54.302Z</updated>
+    <updated>2023-05-27T00:58:17.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 지나친 완벽주의자는 우울하고 외롭다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=59981</id>
+        <link href="https://www.dongascience.com/news.php?idx=59981"/>
+        <updated>2023-05-27T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[인정 받고 싶다고, 더 쓸모 있는 사람이 되고 싶다고 자신을 채찍질하며 열심히 사는 지인이 있다. 채찍질하는 것은 그러려니 하지만 자기 자신에 대한 비난과 삶에 대한 회의가 심하다는 것이 문제다. 하지만 지인을 아끼는 주변 사람들을 보면 이 사람이 단지 유능하기 때문이라기보다 상냥하고 다정해서, 자기만의 가치관을 가지고 있어서 등 객관적 쓸모와는 거리가 먼 이유로 지인을 아낀다. 하지만 어째서인지 지인은 늘 더 잘 해야 한다는 강박에 사로잡혀 있다. 완벽주의란 일반적으로 완벽에 대한 걱정과 강박(실수에 대한 지나친 걱정, 높은...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 우연적이고 느슨한 관계 '친구'가 필요한 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=59865</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=59005"/>
         <updated>2023-03-18T08:00:00.000Z</updated>
         <content type="html"><![CDATA[“미루기(procrastination)”도 문제지만 의외로 찬찬히 처리해도 되는 일을 지나치게 빨리 처리해버리는 경향(procrastination) 때문에 피곤하게 사는 사람들도 적지 않다. 한 지인은 이메일이 오면 밤이든 낮이든 주말이든 무조건 답장을 해야 마음이 편하다는 이유로 쉬는 시간 조차 자유롭지 못하게 메일에 얽매여 산다. 또 다른 지인은 일이 갑자기 밀려올 경우 기한을 조정해서 적정 근로 시간을 유지하기보다 자신이 무리해서라도 모두 빨리 끝내버리는 것을 선호한다. 그러다 보니 안타깝게도 계속해서 초과 근무를 하는 상황에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 타인의 시선에서 생각하기 능력의 중요성]]></title>
-        <id>https://www.dongascience.com/news.php?idx=58908</id>
-        <link href="https://www.dongascience.com/news.php?idx=58908"/>
-        <updated>2023-03-11T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[자신은 수없이 반복한 익숙한 내용이기 때문에 해당 지식을 처음 접한 사람이 겪게 되는 당황스러움과 어려움, 궁금증 등을 잘 이해하지 못하는 상황은 의외로 흔한 모양이다. 일례로 어떤 분야에서 경력과 지식이 많은 사람이 사람들을 잘 가르칠 것 같지만, 의외로 그렇지 않다는 연구 결과가 있었다. 처음 접하는 지식에 대해 “이렇게 쉬운 걸 몰라?”라는 무책임한 말을 하는 선생님이나 상사들을 본 적이 있었다면 공감할 수 있는 결과다. 개구리 올챙이 적 모른다는 말이 어느 정도 근거가 있다는 얘기다. 하지만 생각해보면 나의 경...]]></content>
     </entry>
 </feed>
