@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-06-02T22:15:00.245Z</updated>
+    <updated>2023-06-02T23:17:22.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 마음에도 굳은살이 생긴다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=60098</id>
+        <link href="https://www.dongascience.com/news.php?idx=60098"/>
+        <updated>2023-06-03T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[이제 좀 힘든 일이 지나가나 싶었는데 또 다른 힘든 일이 찾아오고 새로운 골칫거리가 생기는 등 삶은 힘든 일의 연속이다. 생각해 보면 걱정거리가 단 하나도 없었던 순간은 없었던 것 같다. 그런데 이렇게 계속해서 파도 후에 또 다른 파도를 맞을 뿐이라면 계속해서 버티는 것에 의미가 있나 싶기도 하다. 한 가지 위안이 되는 사실이라면 마음에도 굳은 살이 생겨서 처음처럼 무방비하지만은 않게 된다는 것이다. 힘든 일을 겪은 후 인간은 과연 성장하게 되는가에 대한 응답은 생각보다 단순하지 않다. 더 성장하는 사람도 있고 반대로 자신을 갉...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 지나친 완벽주의자는 우울하고 외롭다]]></title>
         <id>https://www.dongascience.com/news.php?idx=59981</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=59106"/>
         <updated>2023-03-25T08:00:00.000Z</updated>
         <content type="html"><![CDATA[원래 뭘 모를 때보다 조금씩 알기 시작했을 때 자신감이 흔들리기 시작한다(더닝-크루거 효과). 무엇이든지 초반에는 실력이 느는 것이 보여서 즐거움을 느끼다가 기초를 넘어 심화 과정으로 넘어가게 되면 이전에 비해 실력이 느는 속도가 줄어들고 조금씩 어려움을 겪게 된다. 전문성을 갖추기 위한 관문에 서면 보다 더 난이도가 높은 과제들이 어서 오라고 손을 흔든다. 이러다 보니 실력이 늘어나는 과정은 다양한 어려움과 패배, 벽을 마주하는 과정이기도 하다. 이전과 달리 쉽게 허물어지지 않는 벽을 마주하고 있다면 어쩌면 나는 성장 중인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 일 '미루기' 만큼 좋지 않은 '서두르기']]></title>
-        <id>https://www.dongascience.com/news.php?idx=59005</id>
-        <link href="https://www.dongascience.com/news.php?idx=59005"/>
-        <updated>2023-03-18T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[“미루기(procrastination)”도 문제지만 의외로 찬찬히 처리해도 되는 일을 지나치게 빨리 처리해버리는 경향(procrastination) 때문에 피곤하게 사는 사람들도 적지 않다. 한 지인은 이메일이 오면 밤이든 낮이든 주말이든 무조건 답장을 해야 마음이 편하다는 이유로 쉬는 시간 조차 자유롭지 못하게 메일에 얽매여 산다. 또 다른 지인은 일이 갑자기 밀려올 경우 기한을 조정해서 적정 근로 시간을 유지하기보다 자신이 무리해서라도 모두 빨리 끝내버리는 것을 선호한다. 그러다 보니 안타깝게도 계속해서 초과 근무를 하는 상황에...]]></content>
     </entry>
 </feed>
