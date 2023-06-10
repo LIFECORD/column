@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-06-09T23:17:22.516Z</updated>
+    <updated>2023-06-10T01:00:03.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 낯선 칭찬의 소중함]]></title>
+        <id>https://www.dongascience.com/news.php?idx=60179</id>
+        <link href="https://www.dongascience.com/news.php?idx=60179"/>
+        <updated>2023-06-10T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[행복한 삶이란 어떤 것일까 많이들 진지하게 고민하곤 하지만, 의외로 작은 칭찬이나 응원 한 마디에 기분이 하늘을 날 것처럼 두둥실 떠오를 때가 있다. 알고 보면 행복 참 별거 아니라는 생각이 드는 순간들이다. 내가 사는 곳에서는 사람들이 지나가다가 “신발 참 이쁘네”, “네 셔츠가 참 마음에 든다” 같이 낯선 이에게도 칭찬을 툭툭 던지고 지나가는 일이 자주 발생한다. 처음에는 뭐지 싶었지만 점점 익숙해져서 진심으로 기뻐하며 고맙다고 이야기하는 나를 발견한다. 다들 자기 살기에도 바쁘고 갈 길도 바쁠텐데, ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 마음에도 굳은살이 생긴다]]></title>
         <id>https://www.dongascience.com/news.php?idx=60098</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=59208"/>
         <updated>2023-04-01T08:00:00.000Z</updated>
         <content type="html"><![CDATA[용서는 좋은 것이라고들 한다. 사람은 누구나 적어도 한 번쯤 큰 실수를 하기 마련이고 그 때 내가 새로운 기회를 얻을 수 있길 바라는 것처럼 다른 사람들도 그럴 것이기 때문이다. 하지만 안타깝게도 용서가 독이 되는 경우가 존재한다. 플로리다 주립대 연구자 제임스 맥널티(James McNulty)와 동료들은 다음과 같은 실험을 했다. 사람들에게 무슨무슨 테스트 결과 자신의 연인이 잘못을 쉽게 용서하지 않는 사람이라거나 또는 비교적 쉽게 용서하는 편이라는 정보를 주었다. 그리고 나서 죄수의 딜레마 게임(prisoner’s dilemma game)과...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 때로는 자신에게 너그러워야 성장한다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=59106</id>
-        <link href="https://www.dongascience.com/news.php?idx=59106"/>
-        <updated>2023-03-25T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[원래 뭘 모를 때보다 조금씩 알기 시작했을 때 자신감이 흔들리기 시작한다(더닝-크루거 효과). 무엇이든지 초반에는 실력이 느는 것이 보여서 즐거움을 느끼다가 기초를 넘어 심화 과정으로 넘어가게 되면 이전에 비해 실력이 느는 속도가 줄어들고 조금씩 어려움을 겪게 된다. 전문성을 갖추기 위한 관문에 서면 보다 더 난이도가 높은 과제들이 어서 오라고 손을 흔든다. 이러다 보니 실력이 늘어나는 과정은 다양한 어려움과 패배, 벽을 마주하는 과정이기도 하다. 이전과 달리 쉽게 허물어지지 않는 벽을 마주하고 있다면 어쩌면 나는 성장 중인...]]></content>
     </entry>
 </feed>
