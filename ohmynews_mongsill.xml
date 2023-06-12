@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/news_list.aspx?MEM_CD=00701855</id>
-    <title>오마이뉴스 ─ 신필규 시민기자</title>
-    <updated>2023-06-12T05:17:28.189Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://star.ohmynews.com/NWS_Web/Mobile/i_Room/articles/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오마이뉴스 ─ 신필규 시민기자</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 12 Jun 2023 06:19:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인어공주'의 피부색은 정말로 중요한가... 간과한 진실]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002932945</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002932945</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0602/A0002932945_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 수영 선수는 정말 부당하게 1등을 했나]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002929435</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002929435</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0522/A0002929435_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍준표, 하태경 두 정치인이 보인 문제적 태도]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002927289</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002927289</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0514/A0002927289_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상상하던 세상이 눈앞에... 서울시 방해하지 말아요]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002925606</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002925606</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0508/A0002925606_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕, 문빈... 가수 해줘서 고마웠어요]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002920885</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002920885</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0420/A0002920885_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 세상에 동성애가 무슨 대수라고]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002916874</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002916874</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0407/A0002916874_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시대전환 조정훈 의원은 왜 엉뚱한 법 발의했나]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002912917</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002912917</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0324/A0002912917_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 정치인의 죽음 전하려다 고민에 빠진 이유]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002908872</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002908872</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0310/A0002908872_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 순간 내 글이 이상해 보이기 시작했다]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002904489</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0223/A0002904489_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임보라 목사를 보내는 것이 더욱 가슴 아픈 이유]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002901313</guid>
+            <pubDate>Mon, 12 Jun 2023 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0210/A0002901313_T.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
