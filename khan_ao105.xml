@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-06-14T10:16:25.481Z</updated>
+    <updated>2023-06-14T11:14:34.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안전 여부가 오염수 방류 기준이 되면 안 되는 이유]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202306140300015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202306140300015"/>
+        <updated>2023-06-14T11:12:11.945Z</updated>
+        <content type="html"><![CDATA[지난 12일부터 도쿄전력은 후쿠시마 제1원전에 보관 중인 방사성물질 오염수의 바다 방류를 위해 2주간 시운전을 시작했다. 이날자 경향신문 1면 머리기사 제목은 ‘“오염수 방류, 사형 선고” 어민들 피눈물’이었다. 어부 일은 끝났다는 제주 어민들, 소금값이 한 달 동안 30% 넘게 오른 전남 신안, 수산물 소비절벽을 확신한다며 사형수 심정이라는 부산 자갈치시장 상인들의 소식이 이어졌다. 원고 마감 중 틈틈이 살펴본 인터넷 포털사이트 뉴스에는 오염수 소식이 거...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 동맹의 풍경, 한·미 동맹을 다시 생각한다]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202305170300015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202210050300065"/>
         <updated>2022-11-16T19:12:50.813Z</updated>
         <content type="html"><![CDATA[표절은 맥락이 필요한 문제다. 서로 모르는 사람이 비슷한 생각을 하고 있었는데 한 사람이 먼저 발표했다면, 타인의 아이디어를 훔친 것일까? 어떤 지식도 사회의 자장 안에서 자유롭지 않다. 페미니즘도 마르크스주의도 시작은 자유주의였다. 하늘 아래 새로운 것은 없다. 인간은 사회적 존재, 언어로 연결된 문명 공동체이기 때문이다. 2015년, 신경숙의 표절 논란 즈음 나는 관련 글을 썼다가 장정일로부터 비판받은 바 있다(한겨레, 2015년 9월3일자 인터넷판). 그는 “...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1997년 7월30일 경향신문, 9월6일 한겨레, 7일 연합통신]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202209070300005</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202209070300005"/>
-        <updated>2022-11-16T19:12:50.824Z</updated>
-        <content type="html"><![CDATA[이 글의 목적은 어떤 사실관계를 명확히 하기 위해서이다. 20년 전 나는 처음 일본을 방문했다. 동아시아 지역 제노사이드 주제의 학술대회 일정이었다. 가장 크게 놀란 장면은 교토 거리 곳곳에 붙은 공산당 선전 포스터였다. 共産黨. 박정희 시대에 초등학교를 다닌 내게, 세 글자는 충격이었지만 곧바로 이성을 찾았다. 일본 좌파는 천황제를 의식, 대중노선을 채택하고 국가사회주의를 주도했다. 국가는 소수자 배제를 통해 자랑스럽게 대표되어야 하므로 일본 공산당이 ...]]></content>
     </entry>
 </feed>
