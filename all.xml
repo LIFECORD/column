@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 22:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 23:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0210/A0002901313_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 생각에 대해 '생각'해야 안 우울하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=60277</link>
+            <guid>https://www.dongascience.com/news.php?idx=60277</guid>
+            <pubDate>Sat, 17 Jun 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사람 마음의 신기한 점이라면 우리는 자신의 생각에 대해 생각할 수 있다는 것이다. 예컨대 우울하고 슬프고 나는 하등 쓸모 없는 존재라는 생각이 들었을 때 이것을 있는 그대로의 현실인 양 곧이곧대로 받아들이고 절망에 빠져들 수도 있지만 “정말 그럴까. 내 생각이 과연 맞을까” 하고 의심해 보는 것도 가능하다. 내가 쓸모 없는 존재인 것이 아니라 요즘 친구들을 만난지 오래 되어서 외로운 것은 아닌지, 스트레스가 많아서 잔뜩 지쳐있는 것은 아닌지, 주변 환경이 유난히 혹독한 것은 아닌지 원래 비교하기 좋아하는 인간의 본성...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 낯선 칭찬의 소중함 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=60179</link>
             <guid>https://www.dongascience.com/news.php?idx=60179</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=59316</guid>
             <pubDate>Sat, 08 Apr 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정리정돈에서 가장 중요한 부분이라면 단연 “쓸모 없는 물건들 처치하기”이다. 많은 이들이 소비를 (필요 없는 소비까지) 밥 먹듯이 하는 사회에서 물건이란 시간이 지날수록 잔뜩 쌓이기 마련이다. 거주 공간이 어마어마하게 넓다면 문제가 되지 않을 수도 있지만 대부분의 사람들은 한정된 공간에서 삶을 영위한다. 샀지만 한 번도 사용하지 않은 물건, 어딘가에 처박혀 있어서 그 존재조차 잊고 있었던 물건, 낡아서 또는 기한이 지나서 그 쓸모를 잃어버린 물건 등은 높은 확률로 공간만 차지하는 애물단지로 전락한다. 하지만 이상하...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 용서와 배신의 '딜레마' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=59208</link>
-            <guid>https://www.dongascience.com/news.php?idx=59208</guid>
-            <pubDate>Sat, 01 Apr 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[용서는 좋은 것이라고들 한다. 사람은 누구나 적어도 한 번쯤 큰 실수를 하기 마련이고 그 때 내가 새로운 기회를 얻을 수 있길 바라는 것처럼 다른 사람들도 그럴 것이기 때문이다. 하지만 안타깝게도 용서가 독이 되는 경우가 존재한다. 플로리다 주립대 연구자 제임스 맥널티(James McNulty)와 동료들은 다음과 같은 실험을 했다. 사람들에게 무슨무슨 테스트 결과 자신의 연인이 잘못을 쉽게 용서하지 않는 사람이라거나 또는 비교적 쉽게 용서하는 편이라는 정보를 주었다. 그리고 나서 죄수의 딜레마 게임(prisoner’s dilemma game)과...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
