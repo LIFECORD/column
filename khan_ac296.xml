@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-06-17T18:19:49.249Z</updated>
+    <updated>2023-06-17T19:13:09.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘강함’은 남성의 전유물이 아니며, 여성에게 은폐의 대상도 아니다]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202306161608015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202306161608015"/>
+        <updated>2023-06-17T19:10:36.151Z</updated>
+        <content type="html"><![CDATA[2021년 온라인을 휩쓸고 지금까지 회자되는 문장이 있다. “강함은 아름다움에 뒤처지지 않는 가치이다.” “호랑이가 고양이가 되려고 노력하지 마라.” 이것은 디시인사이드 유도 갤러리에 올라온 글로, 체격이 큰 여성들에게 유도를 ‘영업’한다. 작성자는 유도에서 체급은 농구에서 신장만큼 중요하다며, 큰 체격의 여성은 곧 “호랑이로 태어난” 것이니 고양이가 되려고 애쓰지 말라고 주장한다. 여성의 몸과 운동 담론, 2020 도쿄 올림픽에서 활약한 여성 운동선수들의 인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드라마 <나쁜엄마>를 관통하는 핵심 메시지 “이건, 하늘이 주신 기회야”]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202306021607005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202211181603005"/>
         <updated>2022-11-18T14:13:54.138Z</updated>
         <content type="html"><![CDATA[&lt;환승연애2&gt;가 끝났다. OTT 플랫폼 티빙(TIVING)에서 매주 방영된 연애 리얼리티쇼인 &lt;환승연애&gt;는 헤어진 연인들이 다시 만나 한집에서 함께 생활하며, 재결합 혹은 새로운 인연을 찾는다는 포맷으로 시즌1 공개 전부터 화제였다. 연애에서의 ‘환승’이란 대개 1 대 1 독점 관계에서 기존의 연애 관계가 끝나기 전에 새로운 상대에게 호감을 느껴, 말 그대로 ‘갈아탄다’라는 뜻으로 쓰인다. 이별 형태 중 최악으로 꼽히기도 하는 이 ‘연애의 환승’을 미...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금발의 바비인형을 ‘연기’하는…(여자)아이들의 ‘Nxde’]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202211041602005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202211041602005"/>
-        <updated>2022-11-16T18:22:11.573Z</updated>
-        <content type="html"><![CDATA[매릴린 먼로·물랑루즈·마돈나… ‘그런’ 옷을 입은 여자는 신뢰할 수 없다고?낡은 편견, 예상 못 한 거 아냐그냥 갖고 놀아 버리지 뭐‘걸그룹 전성시대’다. ‘소녀’만을 요구하던 시절을 지나 다양한 콘셉트와 캐릭터의 걸그룹이 등장하며, 이들의 성과는 대중적으로나 음악적 완성도 측면에서 두루 괄목할 만하다. 그중 신곡 ‘Nxde’(누드)로 또 한 번의 돌풍을 일으키고 있는 걸그룹 (여자)아이들, (G)I-DLE(이하 아이들)은 소위 ‘난’ 그룹이다. 2018년 데뷔한 아이들...]]></content>
     </entry>
 </feed>
