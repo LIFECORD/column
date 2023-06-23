@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-06-23T22:18:19.977Z</updated>
+    <updated>2023-06-23T23:16:39.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] '내가 틀릴 수 있다' 인정 못하는 이유]]></title>
+        <id>https://www.dongascience.com/news.php?idx=60352</id>
+        <link href="https://www.dongascience.com/news.php?idx=60352"/>
+        <updated>2023-06-24T07:48:05.000Z</updated>
+        <content type="html"><![CDATA[많은 사람들이 자신의 생각이나 의견이 옳을 거라는 과도한 확신을 갖는다. 다른 사람들은 뭘 잘 모르고 종종 틀린 말을 하지만 어째서인지 자신은 뭘 모르거나 틀렸을 리 없다고 생각한다. 하지만 여기에도 개인차가 존재해서 무조건 자기 생각이 맞다고 우기는 사람들이 있는 반면 자신의 생각과 다른 의견, 증거들에도 귀를 기울이고 자신이 틀렸을 가능성도 어느 정도 염두에 두는 사람들이 있다. 이렇게 자신의 생각과 의견이 틀릴 가능성을 염두에 두는 특성을 '지적 겸손(intellectual humility)'이라고 한다. 연구들에 의하면 지적 겸...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 생각에 대해 '생각'해야 안 우울하다]]></title>
         <id>https://www.dongascience.com/news.php?idx=60277</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=59411"/>
         <updated>2023-04-15T08:00:00.000Z</updated>
         <content type="html"><![CDATA[심리학을 배우면서 깨닫게 되는 사실 중 하나는 사람들은 서로 많이 다르면서도 그 이상으로 비슷하다는 것이다. 특히 불안 같은 부정적인 감정을 느낄 때면 대부분의 사람들이 두려움과 외로움, 남들은 다 멀쩡한데 나만 잘못된 것 같다는 소외감을 느낀다. 불안도 외로움도 나만 느끼는 것 같고, 내 삶만 어딘가 잘못된 것 같다고 느낀다. 다들 완벽한데 나 혼자만 고장난 로봇처럼 삐끗거리고 있는 것 같아서 최대한 이러한 감정들을 숨기려 애쓴다. 하지만 흥미롭게도 이렇게 가장 외롭고 혼자라고 생각하게 되는 순간일수록 당신은 혼자가 아닐 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 버리는 물건에도 '자아'가 있다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=59316</id>
-        <link href="https://www.dongascience.com/news.php?idx=59316"/>
-        <updated>2023-04-08T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[정리정돈에서 가장 중요한 부분이라면 단연 “쓸모 없는 물건들 처치하기”이다. 많은 이들이 소비를 (필요 없는 소비까지) 밥 먹듯이 하는 사회에서 물건이란 시간이 지날수록 잔뜩 쌓이기 마련이다. 거주 공간이 어마어마하게 넓다면 문제가 되지 않을 수도 있지만 대부분의 사람들은 한정된 공간에서 삶을 영위한다. 샀지만 한 번도 사용하지 않은 물건, 어딘가에 처박혀 있어서 그 존재조차 잊고 있었던 물건, 낡아서 또는 기한이 지나서 그 쓸모를 잃어버린 물건 등은 높은 확률로 공간만 차지하는 애물단지로 전락한다. 하지만 이상하...]]></content>
     </entry>
 </feed>
