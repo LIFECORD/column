@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-07-01T04:18:00.897Z</updated>
+    <updated>2023-07-01T05:15:34.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언제 결혼한거야, 말도 안 하고…근데 사실 우리 모르는 사이잖아]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202306301612015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202306301612015"/>
+        <updated>2023-07-01T05:12:15.233Z</updated>
+        <content type="html"><![CDATA[&lt;대학일기&gt;는 포털 사이트 네이버에 연재되었던 웹툰으로, 대학생의 일상을 다룬 ‘일상툰’이다. 여느 일상툰처럼 주인공은 만화의 작가를 캐릭터로 조형한 ‘자까’이다. 2013년부터 누구나 자유롭게 만화를 올릴 수 있는 베스트 도전 만화(‘베도’)에 연재를 시작, 2016년부터 정식으로 연재되었다. 단순한 그림체로도 입체적으로 살려낸 표정이나 유머 감각, 재치 있는 대사가 강점인 &lt;대학일기&gt;는 인터넷 환경에 최적화된 ‘짤’을 대량 생산하기도 했다. &lt;대...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘강함’은 남성의 전유물이 아니며, 여성에게 은폐의 대상도 아니다]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202306161608015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202212021602005"/>
         <updated>2023-06-22T17:12:11.837Z</updated>
         <content type="html"><![CDATA[2022라는 숫자가 어색하다고 야단법석을 떨었는데, 어느덧 연말이다. 2년간 팬데믹으로 각종 모임이 축소되거나 없어졌다가, 최근 들어 조금씩 재개되는 추세이니 올해는 모처럼 흥겨운 연말 분위기가 날지도 모르겠다. 법적 성인들의 연말 모임에는 으레 술이 함께하기 마련이다. 참고로 나는 ‘알코올 쓰레기’라는 뜻의 ‘알쓰’인데 이 말은 술을 거의 마시지 못하는 사람을 일컫는다. 알쓰의 몸은 세 갈래의 상충하는 마음을 품고 있다. 술 권하는 사회에서 당하는 구조적...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만적 사랑’의 환상이 깨진 시대의 ‘연애 리얼리티쇼’]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202211181603005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202211181603005"/>
-        <updated>2023-06-22T17:12:11.839Z</updated>
-        <content type="html"><![CDATA[&lt;환승연애2&gt;가 끝났다. OTT 플랫폼 티빙(TIVING)에서 매주 방영된 연애 리얼리티쇼인 &lt;환승연애&gt;는 헤어진 연인들이 다시 만나 한집에서 함께 생활하며, 재결합 혹은 새로운 인연을 찾는다는 포맷으로 시즌1 공개 전부터 화제였다. 연애에서의 ‘환승’이란 대개 1 대 1 독점 관계에서 기존의 연애 관계가 끝나기 전에 새로운 상대에게 호감을 느껴, 말 그대로 ‘갈아탄다’라는 뜻으로 쓰인다. 이별 형태 중 최악으로 꼽히기도 하는 이 ‘연애의 환승’을 미...]]></content>
     </entry>
 </feed>
