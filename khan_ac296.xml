@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-07-14T07:17:21.593Z</updated>
+    <updated>2023-07-14T08:19:49.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“너의 행복을 위해서야”…마음을 옭아맨 교묘한 굴레]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202307141606015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202307141606015"/>
+        <updated>2023-07-14T08:16:32.028Z</updated>
+        <content type="html"><![CDATA[며칠 전 영화를 보고 나와 일행과 부지런히 식당으로 향했다. 서로 다른 원소들의 불가능한 사랑을 다룬 영화를 본 감동에 젖은 채 먹으러 간 것은 바로 ‘남편 사망 정식’. 남편 사망 정식은 드라마 &lt;마당이 있는 집&gt;에서 가정폭력에 시달리던 추상은(임지연 분)이 남편이 사망한 후 혼자서 짜장면과 탕수육, 군만두, 그리고 콜라까지 한 캔 곁들여 먹는 장면이 화제가 되면서 유명해진 ‘밈’이다. 상은은 남편 김윤범(최재림 분)이 살아 있을 때는 임신을 해도...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언제 결혼한거야, 말도 안 하고…근데 사실 우리 모르는 사이잖아]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202306301612015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/popular_music/article/202212161610005"/>
         <updated>2023-06-22T17:12:11.833Z</updated>
         <content type="html"><![CDATA[2009년 전후의 K팝 전성기를 추억하십니까? 알록달록한 컬러 스키니진을 옷장에 들인 적 있으십니까? 멜빵 바지만 보면 냅다 엉덩이를 흔들고 싶으십니까? ‘다시 만난 세계’의 전주를 들으면 눈물이 고이십니까? 일이 잘 안 될 때마다, “괜히 그랬겠어? 그랬겠어?!” 하고 발을 구르고 싶어지십니까? 그렇다면 2022년이 그 어느 때보다 특별하게 여겨질 것이다. 올해 데뷔 15주년을 맞은 소녀시대와 카라가 각각 컴백하며 걸그룹 역사에 한 획을 그었기 때문이다.2022년 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인의 ‘봉인 해제’된 모습 보여주는 ‘술방’]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202212021602005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202212021602005"/>
-        <updated>2023-06-22T17:12:11.837Z</updated>
-        <content type="html"><![CDATA[2022라는 숫자가 어색하다고 야단법석을 떨었는데, 어느덧 연말이다. 2년간 팬데믹으로 각종 모임이 축소되거나 없어졌다가, 최근 들어 조금씩 재개되는 추세이니 올해는 모처럼 흥겨운 연말 분위기가 날지도 모르겠다. 법적 성인들의 연말 모임에는 으레 술이 함께하기 마련이다. 참고로 나는 ‘알코올 쓰레기’라는 뜻의 ‘알쓰’인데 이 말은 술을 거의 마시지 못하는 사람을 일컫는다. 알쓰의 몸은 세 갈래의 상충하는 마음을 품고 있다. 술 권하는 사회에서 당하는 구조적...]]></content>
     </entry>
 </feed>
