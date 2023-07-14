@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 22:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 23:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0310/A0002908872_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 감정과 생각 평가하지 않아야 마음이 쉰다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=60708</link>
+            <guid>https://www.dongascience.com/news.php?idx=60708</guid>
+            <pubDate>Sat, 15 Jul 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행복하고 싶다면 과거도 미래도 아닌 ‘현재‘를 살라고들 한다. 실제로 다년 간의 심리학 연구에 의하면 이미 지나간 일을 되돌아보며 계속해서 괴로워하는 ‘곱씹기(rumination)’나 높은 확률로 일어나지도 않을 미래의 일에 대해 이러면 어쩌지, 저러면 어쩌지 고민하는 행위 모두 슬픔과 불안 등의 부정적 정서와 스트레스 수준을 높이며 불면증을 불러오는 등 행복과 정신건강에 치명적인 영향을 미친다. 하지만 어제에 대한 후회와 내일에 대한 걱정이 가득한 현실 속에서 지금 이 순간에 머무른다는 것은 결코 쉬운 일...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '아랫사람' 착취가 당연한 사회의 '그늘' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=60592</link>
             <guid>https://www.dongascience.com/news.php?idx=60592</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=59699</guid>
             <pubDate>Fri, 05 May 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어렸을 때 “안 따라오면 버리고 간다”거나 “너 저기 다리 밑에서 주워 왔어” 같은 말을 여러 번 들었던 기억이 난다. 한 번은 엄마가 고집부리는 동생을 버리고 간다고 해서 내가 울면서 동생을 끌고 왔다고 한다. 이밖에 "경찰 아저씨가 잡아간다”라거나 (내 동생은 한동안 경찰차만 보면 무서워서 숨었다) “돈 없어서 못 사줘” 등 아이들의 행동과 감정상태를 바꾸기 위해 양육자들은 크고 작은 거짓말 또는 속임수를 사용한다. 보통 잠깐의 곤란한 상황을 모면하기 위한 행동들이지만 이런 거짓말...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 안좋은 일 곱씹기보다 주위에 감사하기 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=59510</link>
-            <guid>https://www.dongascience.com/news.php?idx=59510</guid>
-            <pubDate>Sat, 22 Apr 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋지 않은 일이 있었을 때, 그 일을 통해서 느낀 기분을 계속해서 떠올리면서 끊임없이 재생 버튼을 눌렀던 적이 있다면 이런 곱씹기(rumination)가 가진 부작용을 경험해 보았을 것이다. 우선 나쁜 일이 지나가도 계속해서 기분이 나쁘다. 또한 생각하면 할수록 원래보다 기분이 더 나빠지기도 한다. 계속해서 감정을 붙잡고 곱씹다 보면 기분이 나쁜 이유와 그것의 의미, 이런 기분을 느끼는 나 자신은 어떤 사람인지, 내 삶에 얼마나 부정적인 요소들이 많은지 등 계속해서 부정적인 생각들을 늘려가기 때문이다. 이렇게 한 번 부정적인 생각에 갇...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
