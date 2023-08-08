@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-08-08T16:19:16.851Z</updated>
+    <updated>2023-08-08T17:14:57.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북극곰과 나의 공통점, ‘지구를 구할 수 없다’]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202308082028005</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202308082028005"/>
+        <updated>2023-08-08T17:13:35.847Z</updated>
+        <content type="html"><![CDATA[류준열 배우가 전하는 ‘그린피스’의 목소리다. “나는 북극곰입니다. 나는 기후 변화가 신경 쓰이지 않습니다. 뽀얀 털을 갖고 있어서, 귀여운 까만 코를 갖고 있어서, 당신은 나를 걱정하고 안타까워 하지만 당신이 걱정해야 하는 건 내가 아닙니다. 이미 당신에게 계절은 의미가 없어졌고, 이상기온은 더 이상 이상하지 않습니다. 이것은 나의 문제가 아니라 당신의 문제입니다. 하지만 지금, 여러분은 할 수 있는 일이 있습니다. 그리고 나, 북극곰은 할 수 있는 일이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘극단적 선택’, 극단도 선택도 아니다]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202307120300005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202211300300065"/>
         <updated>2023-07-07T03:27:04.771Z</updated>
         <content type="html"><![CDATA[현실주의 국제정치학의 고전으로 간주되는 &lt;현대국제정치론&gt;(1987·법문사판)의 저자 한스 모겐소는 자신의 주장을 뒷받침하기 위해 나폴레옹의 모자 에피소드를 예로 든다. 러시아 원정에 실패한 나폴레옹은 1813년, 오스트리아의 외상 메테르니히와 9시간 동안 만났다. 전쟁의 양상이 프랑스 대(對) 러시아·프로이센·영국·스웨덴 동맹군으로 변화하자, 나폴레옹은 오스트리아에 반(反)프랑스 동맹에 참가하지 말라고 요구했다. 하지만 메테르니히는 나폴레옹을 무시했고, 여전히 유...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상을 가능케 하는 권력을 생각함]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202211020300075</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202211020300075"/>
-        <updated>2023-07-07T03:27:04.777Z</updated>
-        <content type="html"><![CDATA[윤석열 정부를 상징하는 구호 중 하나는 “구조적인 성차별은 없다”이다. 이 말은 용감했지만, 저잣거리에 넘쳐나는 남성문화의 일부이자 30년이 넘은 신자유주의 통치 패러다임일 뿐이다. 물론 ‘구조도 구조적 문제도 없다’는 비현실이다. 우주에서 혼자 사는 것도 증류수 같은 현실도 불가능하지만, 보다 근본적으로는, 이러한 사고방식 자체가 사회 구조적 문제다. 구조와 구조주의는 다르다. 구조는 사회의 물리적, 정치경제적, 심리적 관계들을 의미하고 이런 상황으로부터...]]></content>
     </entry>
 </feed>
