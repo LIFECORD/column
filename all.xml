@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 00:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0508/A0002925606_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 할 수 있는 '작은 성취'로 자신감 키우기 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=61241</link>
+            <guid>https://www.dongascience.com/news.php?idx=61241</guid>
+            <pubDate>Sat, 19 Aug 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유난히 지치고 하는 일마다 잘 안 되는 것 같고 의욕도 없을 때 다시 자신감을 키울 수 있는 가장 손쉬운 방법이라면 “할 수 있는 작은 성취”를 해내는 것이다. 예컨대 빵을 구워보거나 뜨개질을 하거나 화분을 키워보거나 혹은 하루치 운동량을 설정하고 달성해 보는 등 보상이 비교적 가시적이고 즉각적인 일들이 여기에 해당된다. 자아실현 멋있는 삶을 살기 같은 큰 목표들은 가는 길도 복잡하고 수십년은 내다봐야 겨우 성취도를 확인할 수 있는 등 노력과 그 결실 사이의 간극이 매우 긴 편이다. 보상이 즉각적이지 않다는 얘기다....]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 금연·다이어트, 의지력만으로 안되는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=61161</link>
             <guid>https://www.dongascience.com/news.php?idx=61161</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=60179</guid>
             <pubDate>Sat, 10 Jun 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행복한 삶이란 어떤 것일까 많이들 진지하게 고민하곤 하지만, 의외로 작은 칭찬이나 응원 한 마디에 기분이 하늘을 날 것처럼 두둥실 떠오를 때가 있다. 알고 보면 행복 참 별거 아니라는 생각이 드는 순간들이다. 내가 사는 곳에서는 사람들이 지나가다가 “신발 참 이쁘네”, “네 셔츠가 참 마음에 든다” 같이 낯선 이에게도 칭찬을 툭툭 던지고 지나가는 일이 자주 발생한다. 처음에는 뭐지 싶었지만 점점 익숙해져서 진심으로 기뻐하며 고맙다고 이야기하는 나를 발견한다. 다들 자기 살기에도 바쁘고 갈 길도 바쁠텐데, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 마음에도 굳은살이 생긴다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=60098</link>
-            <guid>https://www.dongascience.com/news.php?idx=60098</guid>
-            <pubDate>Sat, 03 Jun 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제 좀 힘든 일이 지나가나 싶었는데 또 다른 힘든 일이 찾아오고 새로운 골칫거리가 생기는 등 삶은 힘든 일의 연속이다. 생각해 보면 걱정거리가 단 하나도 없었던 순간은 없었던 것 같다. 그런데 이렇게 계속해서 파도 후에 또 다른 파도를 맞을 뿐이라면 계속해서 버티는 것에 의미가 있나 싶기도 하다. 한 가지 위안이 되는 사실이라면 마음에도 굳은 살이 생겨서 처음처럼 무방비하지만은 않게 된다는 것이다. 힘든 일을 겪은 후 인간은 과연 성장하게 되는가에 대한 응답은 생각보다 단순하지 않다. 더 성장하는 사람도 있고 반대로 자신을 갉...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
