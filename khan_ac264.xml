@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-09-03T01:51:20.567Z</updated>
+    <updated>2023-09-03T02:23:25.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스위첸 광고 ‘문명의 충돌 시즌2’속 공감가는 일상, 작은 위화감이 든다면]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202309011634015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202309011634015"/>
+        <updated>2023-09-03T02:18:03.353Z</updated>
+        <content type="html"><![CDATA[사십 대 초반 구간을 지나며 편해진 게 하나 있다. 이젠 웬만해선 ‘아직도 아이 생각은 없어?’라는 질문을 듣지 않는다는 것. 당장 나에게 생각이 있다고 출아법으로 방광 즈음에 아이를 스스로 임신해 출산할 수 있는 게 아니거니와 둘만의 삶에 충분히 만족하고 있음에도, 결혼하고 아이 없는 상황을 언젠가 번복할 결심이나 미뤄두는 숙제처럼 생각하는 이들을 납득시키기란 어렵다. 무자녀 부부가 자신들의 결정을 납득시키는 방법은 얼른 늙어 남들을 포기시키는 것...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘콘크리트 유토피아’ 속 정치의 부재, 그래서 대안은 어디 있나]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202308181604025</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202303311604005"/>
         <updated>2023-06-22T15:13:18.050Z</updated>
         <content type="html"><![CDATA[여기 가정폭력에 대한 두 가지 풍경이 있다. 하나는 지난 3월10일 파트2를 공개한 넷플릭스 오리지널 시리즈 &lt;더 글로리&gt;. 잘 알려졌듯 학교폭력의 피해자인 주인공 문동은(송혜교)이 성인이 되어 가해자들을 응징하는 이야기이지만, 그가 겪은 폭력의 또 다른 한 축은 어머니에 의한 폭력이다. 동은의 어머니 정미희(박지아)는 딸이 겪은 학교폭력에 대해 함께 분노하고 싸워주기는커녕 가해자 측의 합의금을 받아 부적응이라는 사유로 자퇴서에 서명하고, 그 합의금을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나는 신이다’ JMS편, 선정성 논란을 넘어 미투 운동 윤리로 다시보기]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202303171604005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202303171604005"/>
-        <updated>2023-06-22T15:13:18.051Z</updated>
-        <content type="html"><![CDATA[넷플릭스 오리지널 다큐멘터리 &lt;나는 신이다: 신이 배신한 사람들&gt; 1~3화인 JMS(기독교복음선교회) 에피소드 방영 후 벌어진 논의는 조지 레이코프의 유명한 책 &lt;코끼리는 생각하지 마&gt;를 비틀어 인용하면 ‘선정성은 생각하지 마’로 요약할 수 있을 듯하다. JMS 총재 정명석의 성범죄 사실을 증언하고 묘사하는 과정에서 그의 음란한 요구나 성폭행 상황 묘사, 여성 신도들의 나체 사진이나 영상 자료가 사용되며 일종의 포르노그래피적인 전시를 한 것이 아니냐...]]></content>
     </entry>
 </feed>
