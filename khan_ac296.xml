@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-09-08T11:15:09.034Z</updated>
+    <updated>2023-09-08T12:22:15.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[욕하면서 자꾸 보게 되는 ‘나는 솔로’…예능 넘어 ‘문화인류학 도감’]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202309081615015</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202309081615015"/>
+        <updated>2023-09-08T12:19:36.075Z</updated>
+        <content type="html"><![CDATA[한 북토크 자리에서 어떤 참가자가 ‘수줍게’ 물었다. “혹시… &lt;나는 솔로&gt; 보시나요?” 나도 ‘부끄러워하며’ 대답했다. “저 사실… 매 기수 챙겨 봅니다.” 질문을 한 사람이나 대답하는 사람이나 어쩔 줄 몰라 했다. 취향이 곧 ‘나’를 의미하는 시대. 출연자에게 ‘영숙’이니 ‘영철’이니 하는 이름을 주고, 출연자가 방귀 뀌는 장면을 그대로 내보내는 주제에 결혼을 권장한다고 주장하는 프로그램을 보는 것은 어쩐지 자존심 상하는 일이었기 때문이다. 아...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미모만 집착하는 삐뚤어진 세상, 모미에게 ‘욕망의 탈’ 씌웠다]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202308251604015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/popular_music/article/202305051648005"/>
         <updated>2023-06-22T17:12:11.820Z</updated>
         <content type="html"><![CDATA[얼마 전 그룹 아스트로의 멤버 문빈이 세상을 떠났다. 어린 시절부터 연예계 활동을 했던 문빈은 꼭 아스트로 팬이 아니더라도 아이돌을 좋아한다면 누구나 아는 ‘레전드 직캠’ 시리즈가 있을 만큼 돋보이는 가수였다. 많은 이들의 사랑을 받으며 활발한 활동을 이어가던 사람에게 닥친 죽음은 처음이 아니다. 그래서 추모와 애도는 연쇄 고리를 만들며 같은 직업군에 있는 다른 아이돌들에 대한 우려와 걱정으로 확장되기도 했다. 문빈의 사인은 확언할 수 없다. 다만 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 ‘이런’ 사람이라 단정 짓지 마, 난 그저 나일뿐이니까]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202304211621005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202304211621005"/>
-        <updated>2023-06-22T17:12:11.822Z</updated>
-        <content type="html"><![CDATA[지난 13일, OTT 채널 TVING의 오리지널 프로그램 &lt;MBTI vs 사주&gt; 1화가 공개되었다. 방영 전부터 입소문을 타며 흥미를 끌었던 프로그램은 주간 유료가입기여자수 3위를 기록했다. 그만큼 기획이 흥미로운 콘텐츠라는 뜻이다. 온라인상에서는 감동적인 영상을 보고 눈물을 흘리는 참가자 집단과, 그런 참가자를 보며 웃는 참가자 집단의 모습이 대조되는 ‘짤’이 퍼지기도 했다. 사주가 꾸준한 역사와 전통을 자랑했다면 MBTI는 그야말로 괴물 신인이다. 검사 자체...]]></content>
     </entry>
 </feed>
