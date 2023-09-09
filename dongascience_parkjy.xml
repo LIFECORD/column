@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-09-08T23:16:36.590Z</updated>
+    <updated>2023-09-09T00:45:39.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 둘러보면 '소중한 존재'가 있다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=61551</id>
+        <link href="https://www.dongascience.com/news.php?idx=61551"/>
+        <updated>2023-09-09T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[요즘 피로에 지쳐서 아무 것도 하지 못하고 있는 나를 붙들고 나보다 더 내 일을 열심히 챙겨 주는 친구가 있다. 만사가 다 귀찮지만 덕분에 조금씩 힘을 내보고 있다. 문득 위기의 순간마다 항상 내 곁에 나보다 더 열심히 나를 지켜준 친구들이 있었음을 상기해 보았다. 이들 덕분에 많은 우여곡절을 넘겨온 것 같다. 아무래도 나는 과분한 복을 누리고 있다는 생각이 들었고 친구에게 너를 만난 것이 내 삶에 있어 가장 큰 행운이라는 이야기를 했다. 어떻게 이렇게 좋은 사람들이 나타나서 내 삶을 풍요롭게 채워주고 있는지, 내 삶은 사실 기적으...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 성매매 합법화하면 성폭력 줄어들까]]></title>
         <id>https://www.dongascience.com/news.php?idx=61441</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=60352"/>
         <updated>2023-06-24T07:48:05.000Z</updated>
         <content type="html"><![CDATA[많은 사람들이 자신의 생각이나 의견이 옳을 거라는 과도한 확신을 갖는다. 다른 사람들은 뭘 잘 모르고 종종 틀린 말을 하지만 어째서인지 자신은 뭘 모르거나 틀렸을 리 없다고 생각한다. 하지만 여기에도 개인차가 존재해서 무조건 자기 생각이 맞다고 우기는 사람들이 있는 반면 자신의 생각과 다른 의견, 증거들에도 귀를 기울이고 자신이 틀렸을 가능성도 어느 정도 염두에 두는 사람들이 있다. 이렇게 자신의 생각과 의견이 틀릴 가능성을 염두에 두는 특성을 '지적 겸손(intellectual humility)'이라고 한다. 연구들에 의하면 지적 겸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 생각에 대해 '생각'해야 안 우울하다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=60277</id>
-        <link href="https://www.dongascience.com/news.php?idx=60277"/>
-        <updated>2023-06-17T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[사람 마음의 신기한 점이라면 우리는 자신의 생각에 대해 생각할 수 있다는 것이다. 예컨대 우울하고 슬프고 나는 하등 쓸모 없는 존재라는 생각이 들었을 때 이것을 있는 그대로의 현실인 양 곧이곧대로 받아들이고 절망에 빠져들 수도 있지만 “정말 그럴까. 내 생각이 과연 맞을까” 하고 의심해 보는 것도 가능하다. 내가 쓸모 없는 존재인 것이 아니라 요즘 친구들을 만난지 오래 되어서 외로운 것은 아닌지, 스트레스가 많아서 잔뜩 지쳐있는 것은 아닌지, 주변 환경이 유난히 혹독한 것은 아닌지 원래 비교하기 좋아하는 인간의 본성...]]></content>
     </entry>
 </feed>
