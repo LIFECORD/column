@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-09-15T22:15:48.774Z</updated>
+    <updated>2023-09-15T23:16:19.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 오랜 이론 무색한 '기후 위기' 우려]]></title>
+        <id>https://www.dongascience.com/news.php?idx=61662</id>
+        <link href="https://www.dongascience.com/news.php?idx=61662"/>
+        <updated>2023-09-16T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[이번 여름 전 세계가 기록적인 폭염과 폭우, 더 높은 빈도로 더 강하게 등장하는 태풍 등 기후위기로 몸살을 앓았다. 하지만 아직도 영화 '돈 룩업(Don’t look up)'에 등장하는 재앙의 존재를 무시하려고 애쓰는 사람들의 모습처럼 기후위기의 존재를 부정하거나 어떻게든 잘 될 거라는 안일함을 보이는 사람들이 적지 않다. 또 어떤 사람들은 이미 할 수 있는 것이 없다는 체념과 절망, 기성세대의 무책임함으로 인해 지구가 이렇게나 망가졌다는 분노를 보이기도 한다. 분명히 다가오고 있는 재앙에 대해 우리는 어떤 태도를 가져야 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 둘러보면 '소중한 존재'가 있다]]></title>
         <id>https://www.dongascience.com/news.php?idx=61551</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=60592"/>
         <updated>2023-07-08T08:00:00.000Z</updated>
         <content type="html"><![CDATA[너그럽고 친절한 사람으로 살고 싶지만 그게 생각보다 쉽지 않은 것이 현실이다. 괜히 착취당하고 인생이 피곤해지기만 하는 것은 아닐까 하는 우려가 있기 때문이다. 특히 일적으로 만난 전문적인 관계에서는 부탁을 쉽게 들어주거나 양보하거나 또는 지나치게 성실한 모습을 보였을 때 되려 더 많은 부탁과 참을성과 더 많은 업무가 밀려오는 상황이 생기기도 한다. 듀크대의 연구자 매튜 스탠리와 동료들은 직장에서 상사들을 대상으로 부하직원이 얼마나 부탁을 잘 들어주고 너그러운 편인지에 대해 묻고 직원들에게 착취적인 요구를 하겠는지 물...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '내가 틀릴 수 있다' 인정 못하는 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=60352</id>
-        <link href="https://www.dongascience.com/news.php?idx=60352"/>
-        <updated>2023-06-24T07:48:05.000Z</updated>
-        <content type="html"><![CDATA[많은 사람들이 자신의 생각이나 의견이 옳을 거라는 과도한 확신을 갖는다. 다른 사람들은 뭘 잘 모르고 종종 틀린 말을 하지만 어째서인지 자신은 뭘 모르거나 틀렸을 리 없다고 생각한다. 하지만 여기에도 개인차가 존재해서 무조건 자기 생각이 맞다고 우기는 사람들이 있는 반면 자신의 생각과 다른 의견, 증거들에도 귀를 기울이고 자신이 틀렸을 가능성도 어느 정도 염두에 두는 사람들이 있다. 이렇게 자신의 생각과 의견이 틀릴 가능성을 염두에 두는 특성을 '지적 겸손(intellectual humility)'이라고 한다. 연구들에 의하면 지적 겸...]]></content>
     </entry>
 </feed>
