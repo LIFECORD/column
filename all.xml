@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 22:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 23:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0522/A0002929435_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 실천 없는 '무지성' 믿음은 해롭다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=61751</link>
+            <guid>https://www.dongascience.com/news.php?idx=61751</guid>
+            <pubDate>Sat, 23 Sep 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[간절히 원하면 온 우주가 도와준다거나 잘 될 거라고 생각해야 실제로 잘 된다는 등 많은 대중서와 자기계발 연사들이 긍저적 사고의 중요성에 대해 이야기해왔다. 이렇게 나의 내적 사고방식이 외부 세계로 전달되어 어떤 실체가 있는 효과를 일으킬 것이라는 믿음은 생각보다 흔히 나타난다. 예컨대 내가 경기를 보면 꼭 지니까 안 보겠다고 하는 것이나 행운의 색깔 등에 대한 믿음, 어떤 우주적 ‘기운’에 대한 믿음과 내가 그 흐름을 바꿀 수 있다고 하는 믿음 등 많은 이들이 ‘마음’에 어떤 초자연적인 효과가 생각하는...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 오랜 이론 무색한 '기후 위기' 우려 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=61662</link>
             <guid>https://www.dongascience.com/news.php?idx=61662</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=60708</guid>
             <pubDate>Sat, 15 Jul 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행복하고 싶다면 과거도 미래도 아닌 ‘현재‘를 살라고들 한다. 실제로 다년 간의 심리학 연구에 의하면 이미 지나간 일을 되돌아보며 계속해서 괴로워하는 ‘곱씹기(rumination)’나 높은 확률로 일어나지도 않을 미래의 일에 대해 이러면 어쩌지, 저러면 어쩌지 고민하는 행위 모두 슬픔과 불안 등의 부정적 정서와 스트레스 수준을 높이며 불면증을 불러오는 등 행복과 정신건강에 치명적인 영향을 미친다. 하지만 어제에 대한 후회와 내일에 대한 걱정이 가득한 현실 속에서 지금 이 순간에 머무른다는 것은 결코 쉬운 일...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] '아랫사람' 착취가 당연한 사회의 '그늘' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=60592</link>
-            <guid>https://www.dongascience.com/news.php?idx=60592</guid>
-            <pubDate>Sat, 08 Jul 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[너그럽고 친절한 사람으로 살고 싶지만 그게 생각보다 쉽지 않은 것이 현실이다. 괜히 착취당하고 인생이 피곤해지기만 하는 것은 아닐까 하는 우려가 있기 때문이다. 특히 일적으로 만난 전문적인 관계에서는 부탁을 쉽게 들어주거나 양보하거나 또는 지나치게 성실한 모습을 보였을 때 되려 더 많은 부탁과 참을성과 더 많은 업무가 밀려오는 상황이 생기기도 한다. 듀크대의 연구자 매튜 스탠리와 동료들은 직장에서 상사들을 대상으로 부하직원이 얼마나 부탁을 잘 들어주고 너그러운 편인지에 대해 묻고 직원들에게 착취적인 요구를 하겠는지 물...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
