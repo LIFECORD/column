@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-09-29T21:16:48.361Z</updated>
+    <updated>2023-09-29T22:14:42.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 자신의 잘못 인정할 줄 알아야 '진짜어른']]></title>
+        <id>https://www.dongascience.com/news.php?idx=61818</id>
+        <link href="https://www.dongascience.com/news.php?idx=61818"/>
+        <updated>2023-09-30T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[나이가 들수록 아무나 붙잡고 묻지도 않은 조언을 하거나 꼰대질을 하는 이유 중 하나는 연장자로서 경험과 지혜가 많아 보여야 한다는 모종의 압박을 느끼기 때문일 것이다. 어린 사람들 앞에서 어른으로서의 권위를 보여야 한다며 모르는 것도 아는 척 하고 틀려도 절대 굽히거나 사과하지 않는 모습에도 일면 자신의 사회적 이미지 또는 체면을 생각하는 마음이 숨어 있다. 꼰대질은 나이를 헛되게 먹은 것이 아니며 그간 많은 내공을 쌓았다는 과시와 자기 확인이 이루어지는 통로인 것이다. 하지만 이와 반대로 사람들은 기본적으로 오만한 사람...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 실천 없는 '무지성' 믿음은 해롭다]]></title>
         <id>https://www.dongascience.com/news.php?idx=61751</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=60824"/>
         <updated>2023-07-22T08:00:00.000Z</updated>
         <content type="html"><![CDATA[우리는 왜 이렇게 이기적인 어른이 되었을까. 안타깝게도 나이가 성장을 보장하는 것은 아니다. ‘어른’이 되면 보다 성숙한 지적 능력과 감정, 행동 조절능력을 기반으로 더 나은 사람이 될 것 같지만 어른들 사이에서도 타인을 괴롭히는 행동들이 나타난다. 오히려 어른들이 저지르는 괴롭힘은 아이들이 하는 것보다 한 층 더 교묘하고 악랄한 양상을 띈다. 우선 성인이 성인을 괴롭히는 행동은 겉으로 봐서는 잘 티가 나지 않는다. 아이들 사이에서 일어나는 괴롭힘은 거친 언어와 신체적인 폭력을 동반하는 등 힌트를 얻을 구석들이 있...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 감정과 생각 평가하지 않아야 마음이 쉰다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=60708</id>
-        <link href="https://www.dongascience.com/news.php?idx=60708"/>
-        <updated>2023-07-15T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[행복하고 싶다면 과거도 미래도 아닌 ‘현재‘를 살라고들 한다. 실제로 다년 간의 심리학 연구에 의하면 이미 지나간 일을 되돌아보며 계속해서 괴로워하는 ‘곱씹기(rumination)’나 높은 확률로 일어나지도 않을 미래의 일에 대해 이러면 어쩌지, 저러면 어쩌지 고민하는 행위 모두 슬픔과 불안 등의 부정적 정서와 스트레스 수준을 높이며 불면증을 불러오는 등 행복과 정신건강에 치명적인 영향을 미친다. 하지만 어제에 대한 후회와 내일에 대한 걱정이 가득한 현실 속에서 지금 이 순간에 머무른다는 것은 결코 쉬운 일...]]></content>
     </entry>
 </feed>
