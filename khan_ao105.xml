@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-10-04T03:16:39.208Z</updated>
+    <updated>2023-10-04T04:17:51.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘희망’은 무엇을 하는가]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202310032025015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202310032025015"/>
+        <updated>2023-10-04T04:16:05.154Z</updated>
+        <content type="html"><![CDATA[“정치인과 지식인 모두가 기후위기를 심각하다고 부르짖지만, 뒤돌아서는 평소대로 먹고, 마시고, 여행하고, 소비한다. 로이 스크랜턴은 우리가 기후위기를 해결하고 문명과 인류를 이어갈 확률이 희박하다는 사실을 냉정하게 드러낸다. 혁신이 이어지고 경제가 성장해도 미래는 암울하다. 아니, 더 암울한데, 우리가 피부로 느끼는 전 지구적 기후위기는 바로 이런 자본주의적 혁신과 성장에서 오기 때문이다. 기술 발전이 이산화탄소를 흡수해서 문제를 해결해줄 것이라는 전망도...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 밖에서 터지는 손흥민의 해트트릭]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202309052022005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202301250300065"/>
         <updated>2023-09-20T16:15:41.384Z</updated>
         <content type="html"><![CDATA[올 명절에도 정치인들은 전통시장을 찾았다. 시장마다 정세(政勢)가 달라서, 누가 어디를 가는가에 따라 ‘완전(?) 환영, 반만 환영, 계란 세례’까지 반응이 다양할 것이다. 이재명 더불어민주당 대표의 서울 마포구 망원 시장 방문은 지지자는 좋아하고 상인에게는 영업 방해였다. 그럭저럭 평균점이지만 그렇다면 안 가는 게 낫지 않았을까. “여성 민방위 훈련”을 발의한 김기현 국민의힘 의원이 여성 모임에 갔다면 환영받지 못했을 것이다. 여성은 민방위 훈련을 안 받...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 사랑이 사회악의 동력이 된다면?]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202212280300065</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202212280300065"/>
-        <updated>2023-09-20T16:15:41.387Z</updated>
-        <content type="html"><![CDATA[2018년 서울 강남구에 있는 클럽 버닝썬에서 발생한 버닝썬 게이트는 젠더폭력의 종합세트였다. 이 글에서는 마약 유통, 정치인 개입, 경찰과 소방 공무원 간 유착, 재벌가 자녀의 누적 범죄는 논외로 한다. 당시 MBC &lt;뉴스데스크&gt;에 따르면, 성폭력 피해자 동영상을 단톡방에서 공유하고 유포한 이들은  가수 승리, 정준영 등이다. 마약 유통 및 성폭력 혐의로 수차례 피소된 박유천까지, 이들을 잊어서는 안 된다. 죄질이 ‘독특하기에’ 이들은 이후 공적인 생활...]]></content>
     </entry>
 </feed>
