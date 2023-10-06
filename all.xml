@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 22:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 23:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0615/A0002936929_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '뒷담화'의 사회적 순기능 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=61904</link>
+            <guid>https://www.dongascience.com/news.php?idx=61904</guid>
+            <pubDate>Sat, 07 Oct 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[직장 상사에 대한 욕을 하거나 자신에게 상처를 준 사람에 대해 그 사람을 알고 있는 제 3자에게 이야기 하는 행위를 흔히 ‘가십(gossip)’ 또는 뒷담화라고 한다. 가십과 관련된 흥미로운 발견은 인류 역사를 통틀어 어떤 사회에서든 가십은 사람들이 가장 즐기는 사회적 스포츠 중 하나였다는 사실이다. 학자들은 이러한 가십이 사실 매우 중요한 사회적 기능을 한다고 본다. 우선 한 가지는 평판을 수정하고 처벌하는 효과다. 많은 사람들이 자신에게 어떤 영향력을 휘두를 수 있어서 잘 보여야 하는 사람들 앞에서는 간도 쓸개도 빼줄...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 자신의 잘못 인정할 줄 알아야 '진짜어른' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=61818</link>
             <guid>https://www.dongascience.com/news.php?idx=61818</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=60952</guid>
             <pubDate>Sat, 29 Jul 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 사람이 길을 걸어가다가 지나가는 사람에게 맞았다고 하자. 다른 맥락 없이 사람들에게 왜 이런 일이 일어났을지 물으면 많은 사람들이 맞은 사람이 뭔가 맞을 짓을 한 것은 아닌지 의문을 갖는다. 이 정도는 충분히 가질만한 의문이라고 여길 수 있다. 하지만 문제는 이러한 종류의 생각이 나아가 각종 폭력-학교 폭력, 직장 내 괴롭힘, 성폭력의 피해자들에 대해 “피해자도 뭔가 잘못했을 것”이라고 보는 피해자 비난하기(victim blaming)와 연관되어 있다는 사실이다. 가해자가 아닌 피해자를 비난하는 이상한 현상은 왜 나타나...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 자신이 소중한만큼 남도 소중하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=60824</link>
-            <guid>https://www.dongascience.com/news.php?idx=60824</guid>
-            <pubDate>Sat, 22 Jul 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 왜 이렇게 이기적인 어른이 되었을까. 안타깝게도 나이가 성장을 보장하는 것은 아니다. ‘어른’이 되면 보다 성숙한 지적 능력과 감정, 행동 조절능력을 기반으로 더 나은 사람이 될 것 같지만 어른들 사이에서도 타인을 괴롭히는 행동들이 나타난다. 오히려 어른들이 저지르는 괴롭힘은 아이들이 하는 것보다 한 층 더 교묘하고 악랄한 양상을 띈다. 우선 성인이 성인을 괴롭히는 행동은 겉으로 봐서는 잘 티가 나지 않는다. 아이들 사이에서 일어나는 괴롭힘은 거친 언어와 신체적인 폭력을 동반하는 등 힌트를 얻을 구석들이 있...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
