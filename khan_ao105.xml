@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2023-10-31T16:20:01.139Z</updated>
+    <updated>2023-10-31T17:16:01.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스는 빨라야 할까]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202310312023015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202310312023015"/>
+        <updated>2023-10-31T17:14:06.626Z</updated>
+        <content type="html"><![CDATA[신문(新聞)에 대한 오랜 개념 중 하나는 ‘새로운 소식을 신속, 정확하게 널리 알리는’ 정기 간행물이다. 신문은 이미 아는 이야기, 즉 구문(舊聞)과 대비되는 속도의 매체라는 것이다. 지금은 사라진 호외(號外)도 그 연장선상에 있었다. “윤전기를 세웠다”는 표현이 긴급한 뉴스를 대신하던 시절 역시 비슷한 시기의 일이다. 이런 맥락 때문에 종이 신문과 인터넷 신문은 경쟁이 안 되고, 종이 신문은 사양 산업이라는 통념이 생겼다.정말, 신문 산업의 미래는 신속성의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘희망’은 무엇을 하는가]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202310032025015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202302220300065"/>
         <updated>2023-09-20T16:15:41.383Z</updated>
         <content type="html"><![CDATA[지구의 역사는 약 45억년. 그중 4억5000만년 전, 따뜻한 바닷속에 오스트러코덤(ostracoderms)이라는 턱과 이빨이 없는 물고기가 살았다. 등뼈를 가진 동물로는 가장 오래된 생물이다. 인간의 귀는 이 원시 어류의 평형기관에서 진화했다. 귀는 남성의 성기와 함께 인간의 인체에서 가장 부드러운 조직이다. 미생물에게 좋은 먹을거리다. 자본주의 출현 이후 최악의 종(種)이 된 인간이 지구에 속죄하는 방식은 단 하나, 미생물의 도움을 받아 흙의 일부가 되는 것이다.  인간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령의 주적, 국민의 주적]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202301250300065</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202301250300065"/>
-        <updated>2023-09-20T16:15:41.384Z</updated>
-        <content type="html"><![CDATA[올 명절에도 정치인들은 전통시장을 찾았다. 시장마다 정세(政勢)가 달라서, 누가 어디를 가는가에 따라 ‘완전(?) 환영, 반만 환영, 계란 세례’까지 반응이 다양할 것이다. 이재명 더불어민주당 대표의 서울 마포구 망원 시장 방문은 지지자는 좋아하고 상인에게는 영업 방해였다. 그럭저럭 평균점이지만 그렇다면 안 가는 게 낫지 않았을까. “여성 민방위 훈련”을 발의한 김기현 국민의힘 의원이 여성 모임에 갔다면 환영받지 못했을 것이다. 여성은 민방위 훈련을 안 받...]]></content>
     </entry>
 </feed>
