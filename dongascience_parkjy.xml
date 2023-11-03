@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-11-03T22:16:28.471Z</updated>
+    <updated>2023-11-03T23:15:21.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 상대 행동에 '악의적 해석'하는 사람들]]></title>
+        <id>https://www.dongascience.com/news.php?idx=62289</id>
+        <link href="https://www.dongascience.com/news.php?idx=62289"/>
+        <updated>2023-11-04T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[연인관계는 물론 인간관계 전반에 있어 다른 사람들에 비해 더 많은 갈등을 겪고 양질의 관계를 영위하지 못하는 사람들의 특징 중 다음과 같은 것들이 있다(Jensen-Campbell et al., 2009). ● 사람을 부정적으로 바라본다 대체로 사람들을 부정적으로 바라보는 편이다(Erez &amp; Judge, 2001). 누군가를 만나면 저 사람은 얼마나 좋은 사람일까’라고 생각하기보다 ‘저 사람은 또 얼마나 이상한 사람일까’라고 생각하게 되는 편이다. 사람들의 별다른 의미 없는 행동에도 색안경을 끼고 저 행동은 분명 나를 무시해서/싫어해서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 이·팔 전쟁 해법은...'집단적 감정'은 어떻게 움직일까]]></title>
         <id>https://www.dongascience.com/news.php?idx=62193</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=61241"/>
         <updated>2023-08-19T08:00:00.000Z</updated>
         <content type="html"><![CDATA[유난히 지치고 하는 일마다 잘 안 되는 것 같고 의욕도 없을 때 다시 자신감을 키울 수 있는 가장 손쉬운 방법이라면 “할 수 있는 작은 성취”를 해내는 것이다. 예컨대 빵을 구워보거나 뜨개질을 하거나 화분을 키워보거나 혹은 하루치 운동량을 설정하고 달성해 보는 등 보상이 비교적 가시적이고 즉각적인 일들이 여기에 해당된다. 자아실현 멋있는 삶을 살기 같은 큰 목표들은 가는 길도 복잡하고 수십년은 내다봐야 겨우 성취도를 확인할 수 있는 등 노력과 그 결실 사이의 간극이 매우 긴 편이다. 보상이 즉각적이지 않다는 얘기다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 금연·다이어트, 의지력만으로 안되는 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=61161</id>
-        <link href="https://www.dongascience.com/news.php?idx=61161"/>
-        <updated>2023-08-12T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[“결국엔 다 의지력이야.” 수년 째 다이어트 실패를 반복하고 있는 지인이 자주 하는 이야기다. 자신이 실패하는 이유는 다름 아닌 의지력 부족 때문이라고 한다. 하지만 옆에서 지켜보는 입장에서는 의구심이 든다. 이 사람은 외향적인 성격 특성상 각종 모임에 자주 참석하고 나가기만 하면 음식과 술, 안주 등 다이어트의 적이라고 할 만한 것들은 모두 거나하게 즐기고 온다. 이런 모임을 반으로 줄이기만 해도 많은 것이 개선될 것 같은데 거대한 문제 요소를 놔두고 애꿎은 의지력 탓만 하는 것은 아닌가 싶기도 하다. 의지력만 탓하...]]></content>
     </entry>
 </feed>
