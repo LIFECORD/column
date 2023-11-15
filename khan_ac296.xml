@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-11-15T08:19:24.769Z</updated>
+    <updated>2023-11-15T09:15:11.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘비보’ 김숙의 ‘노담’ 캐릭터와 넷플릭스 드라마 ‘이두나!’ 속 수지의 흡연 연기]]></title>
+        <id>https://www.khan.co.kr/national/national-general/article/202311101604005</id>
+        <link href="https://www.khan.co.kr/national/national-general/article/202311101604005"/>
+        <updated>2023-11-15T09:13:22.083Z</updated>
+        <content type="html"><![CDATA[&lt;송은이 김숙의 비밀보장&gt;(이하 ‘비보’)은 2015년 시작하여 지금까지 인기리에 방송 중인 팟캐스트이다. 청취자들로부터 다양한 고민 사연을 받아서 송은이나 김숙이 해결해주거나, 인맥을 활용해 전문가와 연결해주는 콘셉트는 ‘사고무고’(사소한 고민부터 무거운 고민까지 속 시원하게 풀어드리는 비밀보장 상담소)라는 홍보 문구에서부터 드러난다. 비보에는 몇가지 웃음 포인트와 확고한 캐릭터의 매력이 있다. 그중 하나가 김숙의 ‘노담’ 캐릭터다. 금연 혹은 아예 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시대가 원하는 남성성의 변화…‘대세’ 방송인 덱스에 열광하는 이유]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202310271603015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202306161608015"/>
         <updated>2023-09-20T16:15:21.771Z</updated>
         <content type="html"><![CDATA[2021년 온라인을 휩쓸고 지금까지 회자되는 문장이 있다. “강함은 아름다움에 뒤처지지 않는 가치이다.” “호랑이가 고양이가 되려고 노력하지 마라.” 이것은 디시인사이드 유도 갤러리에 올라온 글로, 체격이 큰 여성들에게 유도를 ‘영업’한다. 작성자는 유도에서 체급은 농구에서 신장만큼 중요하다며, 큰 체격의 여성은 곧 “호랑이로 태어난” 것이니 고양이가 되려고 애쓰지 말라고 주장한다. 여성의 몸과 운동 담론, 2020 도쿄 올림픽에서 활약한 여성 운동선수들의 인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 <나쁜엄마>를 관통하는 핵심 메시지 “이건, 하늘이 주신 기회야”]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202306021607005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202306021607005"/>
-        <updated>2023-09-20T16:15:21.772Z</updated>
-        <content type="html"><![CDATA[“이건, 하늘이 주신 기회야.” &lt;나쁜 엄마&gt;(JTBC)에서 영순(라미란 분)은 사고로 지능이 7세 때로 돌아간 아들 강호(이도현 분)에게 말한다. 사람들은 누구나 과거를 돌이키고 싶어 하는데, 그동안의 기억을 모두 잊고 ‘일곱 살부터’ 시작해야 하는 강호는 그런 기회를 잡았다는 의미이다. 35세의 남성이 하루아침에 7세의 지능을 가지게 되자 ‘바보’라는 소리를 듣는데, 아들이 상처받을까봐 영순이 내뱉은 임기응변이다. 이 말은 그러나 작품 전체를 관통하는 중요...]]></content>
     </entry>
 </feed>
