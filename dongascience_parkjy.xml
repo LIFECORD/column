@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-11-17T22:15:10.980Z</updated>
+    <updated>2023-11-17T23:15:58.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 배웠다는 '착각']]></title>
+        <id>https://www.dongascience.com/news.php?idx=62499</id>
+        <link href="https://www.dongascience.com/news.php?idx=62499"/>
+        <updated>2023-11-18T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[우리는 모두가 자신은 적어도 ‘평균’은 한다고 생각하고 같은 주사위도 내가 던지면 더 원하는 숫자가 잘 나올거라고 생각하는 등 다소 오만하고 착각이 심한 경향이 있다. 이런 착각은 무언가를 배웠다는 느낌에서도 심하게 나타난다고 한다. 특히 어떤 정보가 다소 쉬운 형태로 전달이 되면 뭔가 배운 것 같다는 착각을 크게 한다. 같은 정보를 좀 더 명료한 폰트에 큰 글자 사이즈, 다양한 색상, 다양한 사진과 이미지 등을 이용해서 전달하면 그러지 않았을 때에 비해 사람들은 자신이 더 많은 정보를 얻었고 따라서 더 많이 배웠다고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 비판받으며 자란 아이, 자기 비난 키운다]]></title>
         <id>https://www.dongascience.com/news.php?idx=62395</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=61551"/>
         <updated>2023-09-09T08:00:00.000Z</updated>
         <content type="html"><![CDATA[요즘 피로에 지쳐서 아무 것도 하지 못하고 있는 나를 붙들고 나보다 더 내 일을 열심히 챙겨 주는 친구가 있다. 만사가 다 귀찮지만 덕분에 조금씩 힘을 내보고 있다. 문득 위기의 순간마다 항상 내 곁에 나보다 더 열심히 나를 지켜준 친구들이 있었음을 상기해 보았다. 이들 덕분에 많은 우여곡절을 넘겨온 것 같다. 아무래도 나는 과분한 복을 누리고 있다는 생각이 들었고 친구에게 너를 만난 것이 내 삶에 있어 가장 큰 행운이라는 이야기를 했다. 어떻게 이렇게 좋은 사람들이 나타나서 내 삶을 풍요롭게 채워주고 있는지, 내 삶은 사실 기적으...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 성매매 합법화하면 성폭력 줄어들까]]></title>
-        <id>https://www.dongascience.com/news.php?idx=61441</id>
-        <link href="https://www.dongascience.com/news.php?idx=61441"/>
-        <updated>2023-09-02T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[하루가 멀다 하고 벌어지는 남성의 여성에 대한 성폭력 사건들에 대해 결국 남성의 통제할 수 없는 성욕이 문제이므로 성매매를 합법화해야 한다는 등의 주장을 어렵지 않게 들을 수 있다. 우선 정말로 남성의 성욕이 문제인 것이라면 성욕을 통제할 수 있게 교육하거나 통제가 안 되는 경우에는 사회에서 격리하는 등의 보다 근본적인 해결법이 있을텐데 왜 다른 해결방법을 찾는지 의문이지만 이를 차치하고서도 성범죄를 저지르는 남성과 그렇지 않은 남성들의 차이점은 욕구가 아닌 다른 곳에 있다. 우선 성범죄를 저지르는 남성들은 그렇지 않은...]]></content>
     </entry>
 </feed>
