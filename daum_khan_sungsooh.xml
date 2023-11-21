@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5190096</id>
     <title>다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무</title>
-    <updated>2023-11-21T17:17:02.203Z</updated>
+    <updated>2023-11-21T18:18:33.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
     <entry>
@@ -25,12 +25,5 @@
         <link href="https://v.daum.net/v/20211220030008740"/>
         <updated>2021-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[[경향신문] 지난주 주목할 만한 조사가 있었다. 한국인권학회에서는 회원들을 대상으로 문재인 정부의 인권정책을 평가해달라고 했고, 인권단체들의 연대체인 ‘인권운동더하기’에서는 인권활동가들에게 문재인 정부의 인권 현실을 물었다. 인권학회 조사에서는 정부의 인권정책 성과가 미흡하다는 응답이 63.1%, 정부의 인권정책 전문성이 미흡하다는 응답이 58.4%로 나타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치인만 모르는 '차별의 빨간불']]></title>
-        <id>https://v.daum.net/v/20211122030111084</id>
-        <link href="https://v.daum.net/v/20211122030111084"/>
-        <updated>2021-11-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[경향신문] 차별금지법·평등법안이 발의되었고 국회 국민동의청원도 성공했지만 국회는 묵묵부답이다. ‘차별에는 반대하지만 차별금지법 제정에는 사회적 합의가 필요하다’는 지겨운 얘기만 반복되고 있다. 유력 대선 주자인 이재명 후보와 윤석열 후보 역시 마찬가지다. 단언컨대, 이런 입장은 차별에 반대하는 것이 아니다. 진심으로 차별에 반대한다면 차별을 금지할 수 있]]></content>
     </entry>
 </feed>
