@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 22:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0728/A0002948397_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '힘든 경험'이 자신 전부를 설명하지 않는다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=62608</link>
+            <guid>https://www.dongascience.com/news.php?idx=62608</guid>
+            <pubDate>Sat, 25 Nov 2023 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 뉴욕타임즈에서 흥미로운 기사를 봤다. 기관이나 온라인 등에서 쉽게 접할 수 있는 ‘간편’ 심리 상담 또는 정신 질환에 관한 정보들이 사람들을 더 우울하고 불안하게 만드는 현상이 관찰된다는 내용이었다. 사람들을 보다 쉽게 돕기 위해 만들어진 장치들이 되려 역효과를 내고 있다는 것이었다. 이러한 현상에 대해 서던캘리포니아대의 심리학자인 다비 삭스베는 특히 요즘 십대들 사이에서 정신질환과 관련 없는 일상적인 우울감이나 불안감, 스트레스 등을 정신 질환인 것처럼 성급하게 판단하는 일이 늘어나고 있음을 지적했다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 배웠다는 '착각' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=62499</link>
             <guid>https://www.dongascience.com/news.php?idx=62499</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=61662</guid>
             <pubDate>Sat, 16 Sep 2023 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이번 여름 전 세계가 기록적인 폭염과 폭우, 더 높은 빈도로 더 강하게 등장하는 태풍 등 기후위기로 몸살을 앓았다. 하지만 아직도 영화 '돈 룩업(Don’t look up)'에 등장하는 재앙의 존재를 무시하려고 애쓰는 사람들의 모습처럼 기후위기의 존재를 부정하거나 어떻게든 잘 될 거라는 안일함을 보이는 사람들이 적지 않다. 또 어떤 사람들은 이미 할 수 있는 것이 없다는 체념과 절망, 기성세대의 무책임함으로 인해 지구가 이렇게나 망가졌다는 분노를 보이기도 한다. 분명히 다가오고 있는 재앙에 대해 우리는 어떤 태도를 가져야 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 둘러보면 '소중한 존재'가 있다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=61551</link>
-            <guid>https://www.dongascience.com/news.php?idx=61551</guid>
-            <pubDate>Sat, 09 Sep 2023 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 피로에 지쳐서 아무 것도 하지 못하고 있는 나를 붙들고 나보다 더 내 일을 열심히 챙겨 주는 친구가 있다. 만사가 다 귀찮지만 덕분에 조금씩 힘을 내보고 있다. 문득 위기의 순간마다 항상 내 곁에 나보다 더 열심히 나를 지켜준 친구들이 있었음을 상기해 보았다. 이들 덕분에 많은 우여곡절을 넘겨온 것 같다. 아무래도 나는 과분한 복을 누리고 있다는 생각이 들었고 친구에게 너를 만난 것이 내 삶에 있어 가장 큰 행운이라는 이야기를 했다. 어떻게 이렇게 좋은 사람들이 나타나서 내 삶을 풍요롭게 채워주고 있는지, 내 삶은 사실 기적으...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구조적 차별을 부정한다면 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
