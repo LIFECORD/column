@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-11-24T09:14:45.949Z</updated>
+    <updated>2023-11-24T10:16:13.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JTBC ‘싱어게인 : 무명가수전 시즌3’ - 이름을 찾고 싶은 이들을 위해]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202311241656005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202311241656005"/>
+        <updated>2023-11-24T10:13:51.156Z</updated>
+        <content type="html"><![CDATA[&lt;싱어게인 : 무명가수전&gt;(JTBC) 시즌3이 시작했다. “나는 응원을 부르는 가수다”라고 자신을 소개한 74호 가수는 15년 만에 무대에 선 참이다. 전주가 흐르자 심사위원과 시청자의 몸이 먼저 반응하고, 잔뜩 긴장한 듯하던 74호 가수가 시원하게 내지른다. “한 번 더 나에게, 질풍 같은 용기를.” 이럴 수가, ‘질풍가도’잖아! 질풍가도는 투니버스에서 방영했던 애니메이션 &lt;쾌걸 근육맨 2세&gt;(2004)의 OST로, 각종 스포츠와 축제의 응원가, 선거송으로 쓰이면서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비보’ 김숙의 ‘노담’ 캐릭터와 넷플릭스 드라마 ‘이두나!’ 속 수지의 흡연 연기]]></title>
         <id>https://www.khan.co.kr/national/national-general/article/202311101604005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202306301612015"/>
         <updated>2023-09-20T16:15:21.765Z</updated>
         <content type="html"><![CDATA[&lt;대학일기&gt;는 포털 사이트 네이버에 연재되었던 웹툰으로, 대학생의 일상을 다룬 ‘일상툰’이다. 여느 일상툰처럼 주인공은 만화의 작가를 캐릭터로 조형한 ‘자까’이다. 2013년부터 누구나 자유롭게 만화를 올릴 수 있는 베스트 도전 만화(‘베도’)에 연재를 시작, 2016년부터 정식으로 연재되었다. 단순한 그림체로도 입체적으로 살려낸 표정이나 유머 감각, 재치 있는 대사가 강점인 &lt;대학일기&gt;는 인터넷 환경에 최적화된 ‘짤’을 대량 생산하기도 했다. &lt;대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘강함’은 남성의 전유물이 아니며, 여성에게 은폐의 대상도 아니다]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202306161608015</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202306161608015"/>
-        <updated>2023-09-20T16:15:21.771Z</updated>
-        <content type="html"><![CDATA[2021년 온라인을 휩쓸고 지금까지 회자되는 문장이 있다. “강함은 아름다움에 뒤처지지 않는 가치이다.” “호랑이가 고양이가 되려고 노력하지 마라.” 이것은 디시인사이드 유도 갤러리에 올라온 글로, 체격이 큰 여성들에게 유도를 ‘영업’한다. 작성자는 유도에서 체급은 농구에서 신장만큼 중요하다며, 큰 체격의 여성은 곧 “호랑이로 태어난” 것이니 고양이가 되려고 애쓰지 말라고 주장한다. 여성의 몸과 운동 담론, 2020 도쿄 올림픽에서 활약한 여성 운동선수들의 인...]]></content>
     </entry>
 </feed>
