@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2023-12-01T22:13:07.436Z</updated>
+    <updated>2023-12-01T23:14:58.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 사적인 영역, 선 넘지 않기의 중요성]]></title>
+        <id>https://www.dongascience.com/news.php?idx=62722</id>
+        <link href="https://www.dongascience.com/news.php?idx=62722"/>
+        <updated>2023-12-02T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[해외에서 지내면서 한 가지 편하다고 느끼는 것은 내가 원하는 바에 따라 ‘거리’를 조절할 수 있는 다양한 관계들이 있다는 것이다. 예를 들어 벌써 함께 5년 이상 매주 회의를 하며 함께 일하고 있는 선생님의 사적인 정보(나이, 가족 구성, 집안 사정, 재산 상태, 최근의 고민 거리 등)에 대해 아는 게 하나도 없다. 함께 다양한 프로젝트에 참여하고 일에 대해서라면 작은 고민도 서슴없이 상담할 수 있지만 일 외의 것에 대해서는 아무 것도 입이나 귀에 담지 않아도 되는 프로페셔널한 관계다. 물론 일터에서 만났지만 사적으로 친해...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] '힘든 경험'이 자신 전부를 설명하지 않는다]]></title>
         <id>https://www.dongascience.com/news.php?idx=62608</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=61751"/>
         <updated>2023-09-23T08:00:00.000Z</updated>
         <content type="html"><![CDATA[간절히 원하면 온 우주가 도와준다거나 잘 될 거라고 생각해야 실제로 잘 된다는 등 많은 대중서와 자기계발 연사들이 긍저적 사고의 중요성에 대해 이야기해왔다. 이렇게 나의 내적 사고방식이 외부 세계로 전달되어 어떤 실체가 있는 효과를 일으킬 것이라는 믿음은 생각보다 흔히 나타난다. 예컨대 내가 경기를 보면 꼭 지니까 안 보겠다고 하는 것이나 행운의 색깔 등에 대한 믿음, 어떤 우주적 ‘기운’에 대한 믿음과 내가 그 흐름을 바꿀 수 있다고 하는 믿음 등 많은 이들이 ‘마음’에 어떤 초자연적인 효과가 생각하는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 오랜 이론 무색한 '기후 위기' 우려]]></title>
-        <id>https://www.dongascience.com/news.php?idx=61662</id>
-        <link href="https://www.dongascience.com/news.php?idx=61662"/>
-        <updated>2023-09-16T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[이번 여름 전 세계가 기록적인 폭염과 폭우, 더 높은 빈도로 더 강하게 등장하는 태풍 등 기후위기로 몸살을 앓았다. 하지만 아직도 영화 '돈 룩업(Don’t look up)'에 등장하는 재앙의 존재를 무시하려고 애쓰는 사람들의 모습처럼 기후위기의 존재를 부정하거나 어떻게든 잘 될 거라는 안일함을 보이는 사람들이 적지 않다. 또 어떤 사람들은 이미 할 수 있는 것이 없다는 체념과 절망, 기성세대의 무책임함으로 인해 지구가 이렇게나 망가졌다는 분노를 보이기도 한다. 분명히 다가오고 있는 재앙에 대해 우리는 어떤 태도를 가져야 ...]]></content>
     </entry>
 </feed>
