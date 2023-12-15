@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-12-15T07:15:42.696Z</updated>
+    <updated>2023-12-15T08:17:40.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 코미디를 고민한다는 ‘코미디로얄’의 의도가 공허한 이유]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202312151600005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202312151600005"/>
+        <updated>2023-12-15T08:14:50.817Z</updated>
+        <content type="html"><![CDATA[모두가 사랑하는 코미디는 없지만 모두가 외면하는 코미디는 있을 수 있다. 넷플릭스 오리지널 신작 &lt;코미디 로얄&gt;의 2번째 에피소드 제목 ‘모두가 사랑하는 코미디는 없다’를 보며 든 생각이다. 총 3라운드 서바이벌 형식으로 진행된 &lt;코미디 로얄&gt;에선 TV와 유튜브를 통틀어 현재 코미디계에서 인상적인 활약을 펼치고 있는 ‘영건’ 15명과 5명의 마스터가 팀을 짜 라운드마다 각기 다른 과제로 코미디 대결을 벌여 탈락 팀을 정하는데, 해당 회차에서 1라...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예능계 권력이 된 ‘찐친 케미’…그 배경에 도사린 ‘남성 카르텔’]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202310201607015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202306091630015"/>
         <updated>2023-11-04T00:44:13.448Z</updated>
         <content type="html"><![CDATA[예술가는 자기 작품이 저열하게 소비되는 것에 어느 정도의 책임을 져야 할까. 이번주 공개된(무료분 기준) 네이버 웹툰 &lt;앵무살수&gt;에선 주인공 노소하가 의뢰인이자 독을 이용한 무공으로 독인(毒人)이 된 장미려와 재회하는 장면에 대해 다음과 같은 베스트 댓글이 달렸다. ‘장미려, 독공주머니가 아주 묵직하구나.’ 약 2000명의 추천을 받은 이 댓글에는 ‘입으로 독을 빼주어야겠구려’ ‘정말이지 독은 다 유방에 담아둔 듯하네요’ 따위의 성희롱적인 대댓글이 뒤이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘촉법소년’ 혐오에 기생하는 사이다 서사는 어떻게 웹툰의 대세가 되었나]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202305121621015</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202305121621015"/>
-        <updated>2023-11-04T00:44:13.451Z</updated>
-        <content type="html"><![CDATA[공개 직후  네이버 신작 랭킹 1위학교폭력의 피해자인 주인공 윤성가해자가 ‘촉법소년’이란 이유로법으로는 느슨한 처벌을 받게되자직접 응징…‘사적 보복’에 나선다성공하는 웹툰에 대한 작법서를 쓴다면 첫 문장은 다음과 같을 것이다. 혐오의 대상을 골라라. 두 번째 법칙, 대상을 정당하게 미워할 수 있는 부도덕한 흠결을 덧씌워라. 셋째, 문명의 제약 때문에 정당한 응징을 못하는 것 같은 답답한 상황을 만들어라. 넷째, 어떤 방식이든 그 제약을 넘어설 권력과 힘...]]></content>
     </entry>
 </feed>
