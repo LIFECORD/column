@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-12-25T11:14:50.484Z</updated>
+    <updated>2023-12-25T12:23:01.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘군, 성탄 전야에 가자 난민촌 폭격···최소 78명 사망]]></title>
+        <id>https://www.khan.co.kr/world/mideast-africa/article/202312251357001</id>
+        <link href="https://www.khan.co.kr/world/mideast-africa/article/202312251357001"/>
+        <updated>2023-12-25T12:20:35.973Z</updated>
+        <content type="html"><![CDATA[성탄절 전야에도 이스라엘의 미사일은 멈추지 않았다. 이스라엘군이 24일(현지시간) 피란민이 밀집한 팔레스타인 가자지구 난민촌에 대대적인 공격을 가하면서 민간인 피해가 속출했다.가자지구 보건부에 따르면 이날 밤 이스라엘군의 공습으로 중부 알마가지 난민촌에서 어린이 7명을 포함해 최소 70명이 사망했다. 최근 이스라엘군이 공세를 강화하고 있는 남부 도시 칸유니스에서도 8명이 사망했다.이날 AP통신 등이 촬영한 영상에는 중상을 입은 이들이 인근 알아크사 병원으로...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 ‘청약 당첨’ 합격선 평균 53점…1년 새 12점 올라]]></title>
         <id>https://www.khan.co.kr/economy/real_estate/article/202312242140005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/national/education/article/202312242049005"/>
         <updated>2023-12-24T15:10:34.998Z</updated>
         <content type="html"><![CDATA[지난해 9월 출범한 국가교육위원회(국교위)가 지난 22일 2028학년도 대입개편안 시안에 대한 권고안 의결을 마쳤다. 국교위는 지난해에 이어 올해도 ‘교육부가 안을 만들면 원안을 대부분 추인’했다. 사회적 합의에 기반해 교육정책의 중장기 방향을 수립한다는 국교위 본연의 역할을 하지 못하고 있다는 지적이 나온다.24일 국교위 회의록 등을 보면 국교위는 지난 1년3개월간 총 13건의 안건을 의결했다. 이 중 교육정책에 실제로 영향을 끼치는 안건은 지난해 12월 2022 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈의 국민의힘, 유승민 끌어안을까]]></title>
-        <id>https://www.khan.co.kr/politics/assembly/article/202312242047015</id>
-        <link href="https://www.khan.co.kr/politics/assembly/article/202312242047015"/>
-        <updated>2023-12-24T15:10:34.999Z</updated>
-        <content type="html"><![CDATA[‘한동훈 비상대책위원회’를 결정한 국민의힘이 유승민 전 의원의 거취에 주목하고 있다. 비윤석열계 인사와의 적극 연대가 직전 지도부인 김기현 대표 체제와 가장 큰 차별화라는 진단에서다. 탈당 후 신당 창당을 선언한 이준석 전 대표 입장에서도 유 전 의원의 합류 여부는 무게감 있는 주제다.24일 국민의힘은 비상대책위원장에 지명된 한동훈 전 법무부 장관이 유 전 의원 ‘끌어안기’에 나설 것인지 여부를 두고 판단이 갈리는 분위기였다.하태경 의원은 지난 22일 ...]]></content>
     </entry>
 </feed>
