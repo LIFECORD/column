@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2023-12-27T05:15:43.171Z</updated>
+    <updated>2023-12-27T06:17:54.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라, 러와 일진일퇴···EU, 헝가리 ‘어깃장’에 우크라 우회 지원 검토]]></title>
+        <id>https://www.khan.co.kr/world/europe-russia/article/202312271454001</id>
+        <link href="https://www.khan.co.kr/world/europe-russia/article/202312271454001"/>
+        <updated>2023-12-27T06:16:08.946Z</updated>
+        <content type="html"><![CDATA[우크라이나와 러시아가 주요 전선에서 일진일퇴하며 세밑 전투가 치열해지는 양상이다.우크라이나군은 26일(현지시간) 새벽 러시아가 점령 중인 크름반도 동남부 항구도시 페오도시야를 순항미사일로 타격, 러시아 해군의 대형 상륙함인 노보체르카스크를 격파했다.러시아가 임명한 크름 자치공화국 당국은 이 공격으로 1명이 사망하고 2명이 다쳤다고 밝혔다. 우크라이나군은 이 상륙함에 우크라이나 전장에서 사용할 이란제 샤헤드 드론이 실려 있었다고 주장했다.2014년 크름반도를 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 인근 주민 48% “우리도 건강 걱정돼 내고장 식품 기피”]]></title>
+        <id>https://www.khan.co.kr/world/japan/article/202312271318011</id>
+        <link href="https://www.khan.co.kr/world/japan/article/202312271318011"/>
+        <updated>2023-12-27T06:16:08.948Z</updated>
+        <content type="html"><![CDATA[후쿠시마 제1원자력발전소 오염수의 해양 방류와 관련해 인근 지역 2곳을 대상으로 진행된 설문조사 결과가 최근 국제학술지에 게재됐다. 조사 대상 주민들의 48%는 건강 우려로 인해 자기 고장의 식품 섭취를 기피한다는 응답을 보였다.27일 국제학술지 ‘BMC 공중보건’에 따르면 일본 나가사키대 원폭 후 장애 의료 연구소 연구팀은 최근 후쿠시마 제1원자력발전소 주변 지역인 오쿠마와 도미오카에 적을 둔 1만 가구를 대상으로 오염수 해양 방류에 따른 주민 인식과 정...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노동부, 잇단 SPC 계열사 끼임 사망사고 예방대책 입법예고]]></title>
+        <id>https://www.khan.co.kr/national/labor/article/202312271255001</id>
+        <link href="https://www.khan.co.kr/national/labor/article/202312271255001"/>
+        <updated>2023-12-27T06:16:08.951Z</updated>
+        <content type="html"><![CDATA[SPC그룹 계열사 SPL·샤니 공장에서 잇따라 발생한 끼임 사망사고와 같은 재해를 예방하기 위해 혼합기·파쇄기가 안전검사 대상에 포함된다.고용노동부는 식품제조업체의 반복적인 사망사고에 대한 안전기준을 마련하는 내용 등을 담은 산업안전보건법 하위법령 개정안을 27일 입법예고했다.개정안은 우선 식품 혼합기 끼임사고 예방을 위해 혼합기, 파쇄기 또는 분쇄기는 사용단계에서 안전성 확보가 가능하도록 안전검사 대상에 포함했다. 불가피하게 덮개를 열고 작업할 때는 추...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 “왜 검사 사칭한 분 절대존엄 모시나”···연일 민주당 때리기]]></title>
+        <id>https://www.khan.co.kr/politics/assembly/article/202312271115021</id>
+        <link href="https://www.khan.co.kr/politics/assembly/article/202312271115021"/>
+        <updated>2023-12-27T06:16:08.952Z</updated>
+        <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장이 27일 “(더불어)민주당은 검사를 그렇게 싫어하면서 왜 검사도 아니고 검사 사칭한 분을 절대존엄으로 모시는 건지 묻고 싶다”고 말했다.한 위원장은 이날 국회 출근길에 기자들에게 “그동안 난 일방적으로 민주당에 질문만 받아왔다. 오늘은 하나 물어보겠다”며 이같이 밝혔다. 이재명 민주당 대표가 변호사 시절 검사 사칭 방조죄로 처벌받았던 전과를 들어 자신을 비판하는 민주당에 반박한 것이다. 전날 “이재명 대표의 더불어민주당이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, ‘50인 미만’ 중대재해법 유예 대책 발표…노동계 “재탕·삼탕”]]></title>
         <id>https://www.khan.co.kr/national/labor/article/202312271000001</id>
@@ -46,33 +74,5 @@
         <link href="https://www.khan.co.kr/economy/economy-general/article/202312262143005"/>
         <updated>2023-12-26T18:14:35.276Z</updated>
         <content type="html"><![CDATA[구인 일자리와 구직 일자리의 수요와 공급이 다른 노동시장 수급 불균형이 코로나19 사태 이전보다 더 심화한 것으로 분석됐다. 30~40대에서 제조 현장직 일자리를 기피하고, 고령화가 급속히 진행되면서 돌봄 서비스 분야의 구인이 폭발적으로 늘어난 것이 주요 원인인 것으로 나타났다.한국은행 제주본부 송상윤 과장·김동준 조사역, 한은 조사국 배한이 과장이 26일 발표한 ‘지역 노동시장 수급 상황 평가’ 보고서를 보면 코로나19 발생 이전인 2019년 3분기와 올해 3분...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해물질 계속 나오는데…일 “오염수 삼중수소 분석 횟수 축소”]]></title>
-        <id>https://www.khan.co.kr/world/japan/article/202312262137035</id>
-        <link href="https://www.khan.co.kr/world/japan/article/202312262137035"/>
-        <updated>2023-12-26T18:14:35.278Z</updated>
-        <content type="html"><![CDATA[일본 도쿄전력이 후쿠시마 제1원자력발전소 오염수의 삼중수소(트리튬) 농도 측정 횟수를 줄이기로 했다고 26일 도쿄신문이 보도했다. 보도에 따르면 후쿠시마 제1원전을 운영하는 도쿄전력은 이날부터 오염수를 방류하지 않을 때는 해수 분석 빈도를 줄이겠다고 전날 발표했다.도쿄전력 측은 오염수에 섞여 있는 삼중수소가 생태계에 영향을 미칠 가능성이 제기되자, 오염수 방류를 시작한 지난 8월24일부터 원전 기준으로 반경 3㎞ 이내 지점 10곳에서 매일 해수를 채취해 방사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘, 시리아 공습…‘솔레이마니 측근’ 사망]]></title>
-        <id>https://www.khan.co.kr/world/mideast-africa/article/202312262137025</id>
-        <link href="https://www.khan.co.kr/world/mideast-africa/article/202312262137025"/>
-        <updated>2023-12-26T18:14:35.279Z</updated>
-        <content type="html"><![CDATA[이스라엘과 하마스 간 전쟁 발발 이후 중동 지역의 긴장이 고조되고 있는 가운데 25일(현지시간) 이스라엘군의 공습으로 시리아에서 이란 혁명수비대 고위 장성이 사망했다. 이란 국영 IRNA 통신은 이날 “시리아 내 혁명수비대의 가장 경험 많은 선임 고문 중 하나인 라지 무사비(사진)가 수도 다마스쿠스 외곽 자이나비야 지역에서 몇시간 전 시오니스트 정권(이스라엘)의 공격을 받아 사망했다”고 보도했다. 에브라힘 라이시 이란 대통령은 성명을 내고 “이스라엘이 이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이집트 ‘3단계 휴전안’에 네타냐후 “끝은 멀었다”]]></title>
-        <id>https://www.khan.co.kr/world/mideast-africa/article/202312262137015</id>
-        <link href="https://www.khan.co.kr/world/mideast-africa/article/202312262137015"/>
-        <updated>2023-12-26T18:14:35.281Z</updated>
-        <content type="html"><![CDATA[이스라엘의 가자지구 공격이 이어지는 가운데 이집트가 이스라엘과 하마스에 ‘단계적 휴전안’을 제안했지만 양측 모두 냉랭한 반응을 보이고 있다.25일(현지시간) 로이터통신·CNN에 따르면, 이집트는 전날 이스라엘과 하마스에 3단계로 구성된 단계적 휴전안을 제안했다. 중재안에 따르면 1단계에서는 1~2주 동안 군사작전을 중단하고 이스라엘 인질 40명과 팔레스타인 수감자 120명을 교환한다. 2~3단계에서는 이집트와 카타르의 중재하에 요르단강 서안지구와 가자지구에 하마스와...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[묵비권 송영길 “이제 소환 불응”]]></title>
-        <id>https://www.khan.co.kr/national/court-law/article/202312262116025</id>
-        <link href="https://www.khan.co.kr/national/court-law/article/202312262116025"/>
-        <updated>2023-12-26T18:14:35.282Z</updated>
-        <content type="html"><![CDATA[송영길 전 더불어민주당 대표(사진)가 민주당 전당대회 돈봉투 사건으로 구속된 뒤 처음으로 26일 검찰에 출석했다.    송 전 대표는 자필 입장문을 통해 “증거가 차고 넘치는 김건희 여사 주가조작 범죄 혐의에 대해 소환조사는커녕 서면조사도 못하는 비겁한 검찰이 2년 전 전당대회 사건을 갖고 100번 넘는 압수수색과 별건수사를 하는 것은 공정을 잃은 처사”라며 진술을 거부하겠다고 밝혔다.송 전 대표는 이날 오후 2시 서울중앙지검 반부패수사2부(부장검사 최재훈...]]></content>
     </entry>
 </feed>
