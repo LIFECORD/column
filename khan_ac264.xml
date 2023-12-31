@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2023-12-31T10:15:01.436Z</updated>
+    <updated>2023-12-31T11:12:04.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘홀로코스트 재발 방지’ 국제협약 75년 만에···‘제노사이드 혐의’ 피소된 이스라엘]]></title>
+        <id>https://www.khan.co.kr/world/mideast-africa/article/202312311617001</id>
+        <link href="https://www.khan.co.kr/world/mideast-africa/article/202312311617001"/>
+        <updated>2023-12-31T11:08:45.034Z</updated>
+        <content type="html"><![CDATA[이스라엘이 팔레스타인에 대한 제노사이드(집단 학살) 혐의로 유엔 최고 법정인 국제사법재판소(ICJ)에 피소됐다. 유엔 ‘제노사이드 협약’은 2차 세계대전 당시 나치의 유대인 학살과 같은 제노사이드 범죄의 재발을 막기 위해 탄생한 것이다. 제노사이드 피해국이었던 이스라엘이 75년만에 ‘가해국’으로 피소된 것이다. 이스라엘은 “비열한 명예훼손”이라며 크게 반발했다.30일(현지시간) 로이터통신에 따르면 남아프리카공화국은 전날 “이스라엘은 가자지구에 있는 팔레스타인인들...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러 ‘최대 규모 공습’에 우크라 ‘러 본토’ 타격···세밑 전쟁 격화]]></title>
         <id>https://www.khan.co.kr/world/europe-russia/article/202312311344001</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/economy/economy-general/article/202312292042015"/>
         <updated>2023-12-29T13:12:58.660Z</updated>
         <content type="html"><![CDATA[국제학술지 네이처(Nature)는 올해 세계 과학계의 중요 ‘인물’ 중 하나로 생성형 인공지능(AI) 챗봇 챗GPT를 선정했다. 해마다 큰 화제를 불러일으킨 10명의 과학자를 선정하는 ‘네이처 10’을 꼽으면서다. 네이처 역사상 ‘비인간’이 선정된 것은 이번이 처음이다. 네이처는 “챗GPT의 영향력이 과학과 사회 전반에 미치고 있다”고 이유를 밝혔다.챗GPT는 지금 인류의 운명을 상징하는 존재가 됐다. 지난달 챗GPT의 아버지로 불리는 샘 올트먼 오픈AI 최고경영자(CEO) ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명·이낙연 30일 만난다···막판 타결인가, 명분 전쟁인가]]></title>
-        <id>https://www.khan.co.kr/politics/politics-general/article/202312291930001</id>
-        <link href="https://www.khan.co.kr/politics/politics-general/article/202312291930001"/>
-        <updated>2023-12-29T13:12:58.661Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대표와 이낙연 전 대표가 오는 30일 만난다. 이 전 대표가 내년 초 신당 창당을 예고해 분당 초읽기에 들어간 일촉즉발의 상황이다. 두 사람의 만남이 막판 타협을 도출해 낼지 주목된다. 하지만 협상 가능성이 높지 않고 각자 분당을 막기 위해 최선을 다했다는 명분을 쌓기 위한 ‘포토타임’에 불과하다는 해석도 나온다.이 대표는 29일 국회에서 퇴근하며 기자들과 만나 “조금 전에 (이 전 대표와) 연락이 돼서 내일 아침에 만나게 될 것 같다...]]></content>
     </entry>
 </feed>
