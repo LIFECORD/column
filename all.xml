@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[이 글을 마감할 무렵, 18일자 경향신문 1면 보도다. “일본은 7개국(G7) 환경장관 회의에서 후쿠시마 원전 오염수 방류 관련 환영 성명을 내려다 참가국 반대로 실패했다. (중략) 슈테피 렘케 독일 환경장관은 ‘오염수 방류에 관해서는 환영한다고 할 수 없다’고 정면으로 반박했다. 니시무라 일본 경제산업상은 기자회견이 끝난 후 자신의 발언에 실수가 있었다며 정정해야 했다. 한편 독일은 지난 15일 자정을 기점으로 원자력(핵)발전소 가동을 중단했다.” 일본의 거짓말...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[여러 번의 부고를 겪고 나니 알게 된 게 있다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002989769</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002989769</guid>
+            <pubDate>Tue, 02 Jan 2024 08:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1229/A0002989769_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[교회에서 쫓겨난 목사... 정작 '문제적' 목사들은 잘 산다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002986446</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002986446</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 11 Sep 2023 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0908/A0002959969_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계적 수영 선수의 뉴스위크 기고글이 던진 파장 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002955785</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002955785</guid>
-            <pubDate>Mon, 28 Aug 2023 02:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0825/A0002955785_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 10번 고맙다가 딱 1번 서운한 일만 기억하는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
