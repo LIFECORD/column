@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2024-01-04T23:17:40.828Z</updated>
+    <updated>2024-01-05T00:50:59.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세사기 피해자 총 1944명…688명 추가 인정]]></title>
+        <id>https://www.khan.co.kr/economy/real_estate/article/202401050817001</id>
+        <link href="https://www.khan.co.kr/economy/real_estate/article/202401050817001"/>
+        <updated>2024-01-05T00:47:44.682Z</updated>
+        <content type="html"><![CDATA[전세사기 피해지원 특별법에 따라 지원을 받을 수 있는 피해자가 688명이 추가됐다.국토교통부 전세사기피해지원위원회는 지난 4일 제18차 전체회의를 열고 피해자 결정 신청 847건 중 688건을 가결했다고 5일 밝혔다.특별법상 피해자 요건에 부합하지 않은 74건은 부결됐다. 전세금 반환 보증보험에 가입했거나 최우선변제금을 받아 보증금을 전액 돌려받을 수 있는 61건은 피해 인정 대상에서 빠졌다.55명은 지난 심의에서 피해자로 인정받지 못해 이의신청을 냈는데 이중 31명...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경제성장률 전망치 0.2%P 하향…올해도 쉽지 않은 반등]]></title>
         <id>https://www.khan.co.kr/economy/economy-general/article/202401042114015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/world/world-general/article/202401041411001"/>
         <updated>2024-01-04T16:15:05.495Z</updated>
         <content type="html"><![CDATA[유엔 국제사법재판소(ICJ)가 이스라엘의 ‘가자지구 제노사이드(집단 학살)’ 혐의와 관련해 내주 청문회를 개최한다. 남아프리카공화국이 최근 이스라엘을 ICJ에 제소하며 집단 학살을 막기 위해 군사작전을 즉시 중지하는 긴급 명령을 내려달라고 요청한 데 따른 것이다.3일(현지시간) ICJ는 남아공의 제소에 따라 오는 11~12일 네덜란드 헤이그에서 청문회를 개최한다고 밝혔다. ICJ는 이틀간 진행되는 청문회에서 11일엔 남아공 측, 12일에는 이스라엘 측의 변론을 각각 청취할 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교사 ‘보직·담임수당’ 월 20만원·15만원으로 인상…교권 보호 계속 추진]]></title>
-        <id>https://www.khan.co.kr/national/education/article/202401041108001</id>
-        <link href="https://www.khan.co.kr/national/education/article/202401041108001"/>
-        <updated>2024-01-04T04:15:18.938Z</updated>
-        <content type="html"><![CDATA[지난 20년간 동결됐던 교사의 보직 수당이 2배 이상으로 오른다. 담임교사도 이전보다 50% 인상된 수당을 받는다.4일 교육부는 올해부터 교원 수당을 이같이 인상해 지급한다고 밝혔다.인사혁신처가 개정한 공무원 수당 등에 관한 규정에 따르면 교사 보직 수당은 7만원에서 15만원으로 오른다. 지난해까지 7년간 13만원으로 동결됐던 담임수당도 20만원으로 인상한다. 교육부는 담임·보직 기피 현상이 해소되고 교원의 처우가 개선될 것으로 기대한다고 밝혔다.장애 정도가 심한...]]></content>
     </entry>
 </feed>
