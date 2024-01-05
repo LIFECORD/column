@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2024-01-05T04:17:20.445Z</updated>
+    <updated>2024-01-05T05:13:58.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이재명 피습’ 피의자 신상공개 검토]]></title>
+        <id>https://www.khan.co.kr/national/incident/article/202401051344001</id>
+        <link href="https://www.khan.co.kr/national/incident/article/202401051344001"/>
+        <updated>2024-01-05T05:11:16.103Z</updated>
+        <content type="html"><![CDATA[경찰이 더불어민주당 이재명 대표에게 흉기를 휘두른 혐의(살인미수)로 지난 4일 구속된 김모씨(67)의 신상 공개를 검토하고 있다. 경찰은 김씨의 범행 계획성과 동기, 조력자 여부 등에 수사력을 집중하고 있다.부산경찰청은 5일 수사 브리핑을 통해 “지난 4일 구속된 김씨의 얼굴 등 신상 공개를 신중하게 검토하고 있다”고 밝혔다.경찰은 살인미수범도 사회적으로 중대한 범죄에 해당하면 신상 공개를 검토할 수 있어서 다음 주 중 신상정보공개심의위원회 개최 여부를 확정...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전세사기 피해자 688명 추가 인정…지원 대상 총 1만944명]]></title>
         <id>https://www.khan.co.kr/economy/real_estate/article/202401050817001</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/politics/politics-general/article/202401041556001"/>
         <updated>2024-01-04T08:14:15.019Z</updated>
         <content type="html"><![CDATA[60대 남성에게 피습당한 이재명 더불어민주당 대표 수술과 치료를 맡은 서울대병원이 4일 이 대표 치료 경과를 언론에 밝혔다. 이 대표 수술은 목 부위 자상 특성상 어려운 수술이었고, 이 대표는 현재 순조롭게 회복 중이라고 한다. 병원 측은 이 대표가 부산대병원에서 서울대병원으로 이송된 것에 대해 “부산대병원의 전원 요청을 받아들인 것”이라고 설명했다.이 대표 수술을 집도한 민승기 이식혈관외과 교수는 이날 오전 서울 종로구 서울대병원 의생명연구원 의학연...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가자지구·홍해·레바논 그리고 이란까지 치솟은 불길…확전 중대기로 놓인 중동]]></title>
-        <id>https://www.khan.co.kr/world/mideast-africa/article/202401041414001</id>
-        <link href="https://www.khan.co.kr/world/mideast-africa/article/202401041414001"/>
-        <updated>2024-01-04T08:14:15.020Z</updated>
-        <content type="html"><![CDATA[이란의 케르만시 순교자 묘역에서 3일(현지시간) 가셈 솔레이마니 이란 혁명수비대 쿠드스군 사령관 4주기 추모식 도중 발생한 폭발 사고로 최소 103명이 사망한 가운데 이란 정부는 미국과 이스라엘을 배후로 지목하고 강력한 응징을 예고했다.팔레스타인 가자지구에서 시작된 갈등의 불씨가 홍해와 시리아·이라크·레바논을 거쳐 ‘시아파 벨트’ 중심축인 이란 본토까지 번지는 모습이다. 이스라엘·하마스 전쟁이 중동 전체로 확산할 수 있다는 우려의 목소리가 나온다.로이터통신...]]></content>
     </entry>
 </feed>
