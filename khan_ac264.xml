@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac264</id>
     <title>경향신문 ─ 위근우의 리플레이</title>
-    <updated>2024-01-10T22:16:12.289Z</updated>
+    <updated>2024-01-10T23:14:35.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS2 ‘고려거란전쟁’ 양규의 최후는 왜 시청자의 마음을 울렸는가]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202401110600005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202401110600005"/>
+        <updated>2024-01-10T23:11:08.227Z</updated>
+        <content type="html"><![CDATA[세 걸음, 단 세 걸음이 부족했다. 지난 7일 방영한 KBS2 &lt;고려거란전쟁&gt; 16화에서 도순검사 양규(지승현)는 거란군의 수장 야율융서(김혁)를 활로 맞힐 수 있는 사정거리로부터 단 열 걸음이 부족한 상황에서 상대 군사의 화살을 온몸으로 맞아가며 한 걸음씩 좁혀갔다. 몸에 꽂히는 화살 하나하나가 목숨을 위협하는 치명상을 입히지만, 피칠갑 된 양규의 얼굴을 클로즈업한 카메라는 그 각각의 화살이 아닌 그동안 또한 여전히 그가 짊어지고 있는 책임과 피로의 무...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서열·커플놀음 없이 가능한 웃음의 ‘난장’…물려받을 자 누구인가]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202312291556005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/culture-general/article/202307211605015"/>
         <updated>2024-01-09T09:11:33.206Z</updated>
         <content type="html"><![CDATA[프리랜서 칼럼니스트라는 직업의 다른 이름은 반백수인데, 덕분에 낮에 집에서 TV를 보는 시간이 많다. 칼럼 소재를 위해 최근 드라마를 보기도 하지만, 채널을 돌리다가 김수현 작가의 예전 작품 재방송을 하면 봤던 작품, 봤던 장면이라 해도 또 본다. 요즘 자주 마주치는 건 1996년 KBS에서 방영했던 &lt;목욕탕집 남자들&gt;인데 이 작품을 보다 보면 새삼 자막 없이도 드라마를 편히 볼 수 있다는 사실에 놀라곤 한다. 현재도 대배우로 꼽히는 이순재뿐 아니라, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘유느님’이 보우하사?…슈퍼맨 같은 ‘국민 MC’ 시대는 끝났나]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202307071602005</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202307071602005"/>
-        <updated>2024-01-09T09:11:33.207Z</updated>
-        <content type="html"><![CDATA[유재석 위기. 너무 어울리지 않아 위태로워 보이는 단어들이지만 또한 아주 낯설지만도 않은 조합이다. 지난 6월13일 디즈니+ 오리지널 예능 &lt;더존2: 버텨야 산다&gt; 제작보고회에 참석한 유재석은 시청률이 떨어진 MBC &lt;놀면 뭐하니?&gt; 폐지 가능성을 비롯해 본인의 커리어에 대한 위기설에 대해 “나에게 위기라는 단어는 매해 따르는 단어”라고 솔직하면서도 너무 연연해하지 않는 반응을 보였다. 이후 그와 함께 작업해온 예능 PD들 역시 위기설에 대해 단호...]]></content>
     </entry>
 </feed>
