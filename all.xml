@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 08:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 09:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[이 글을 마감할 무렵, 18일자 경향신문 1면 보도다. “일본은 7개국(G7) 환경장관 회의에서 후쿠시마 원전 오염수 방류 관련 환영 성명을 내려다 참가국 반대로 실패했다. (중략) 슈테피 렘케 독일 환경장관은 ‘오염수 방류에 관해서는 환영한다고 할 수 없다’고 정면으로 반박했다. 니시무라 일본 경제산업상은 기자회견이 끝난 후 자신의 발언에 실수가 있었다며 정정해야 했다. 한편 독일은 지난 15일 자정을 기점으로 원자력(핵)발전소 가동을 중단했다.” 일본의 거짓말...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넷플릭스를 많이 본 죄? 저는 이렇게 됐습니다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002993053</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002993053</guid>
+            <pubDate>Mon, 15 Jan 2024 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0112/A0002993053_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여러 번의 부고를 겪고 나니 알게 된 게 있다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002989769</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002989769</guid>
@@ -358,14 +366,6 @@
             <pubDate>Mon, 25 Sep 2023 00:47:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0922/A0002964079_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 보스턴의 놀라운 혼인신고서... 우리는 왜 못하나 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002959969</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002959969</guid>
-            <pubDate>Mon, 11 Sep 2023 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/0908/A0002959969_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 나이 들수록 '행복감' 느끼는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
