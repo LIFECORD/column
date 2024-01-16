@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 17:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 18:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -443,13 +443,6 @@
             <guid>https://v.daum.net/v/20220221030404708</guid>
             <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[경향신문] 대선에서 차별금지법이 쟁점이 된 것은 다행이다. 어쨌거나 유력 후보들은 자신의 입장을 밝혔다. 입법을 적극적으로 지지하는 후보, 입법은 필요하나 사회적 합의를 거쳐야 한다는 후보, 반대하는 후보가 있다. 누구에게 표를 던질 것인지, 판단기준이 하나 생겼다. 그런데 차별금지법이 전부는 아니다. 차별에 대해 어떤 현실 인식과 어떤 비전을 가지고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단문 메시지 정치의 명암 (다음 뉴스 ─ 경향신문 ─ 홍성수의 물구나무)]]></title>
-            <link>https://v.daum.net/v/20220117030206706</link>
-            <guid>https://v.daum.net/v/20220117030206706</guid>
-            <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] “여성가족부 폐지.” 윤석열 국민의힘 대선 후보가 올린 이 단문 메시지가 정치판을 뒤흔들어 놓고 있다. 실제로 이 단문 메시지가 올라온 이후 추락했던 지지율이 반등했고, 이준석 대표는 역시 두 단어로 논평했다. “(지지율이 반등하는 데) 이틀 걸렸군.” 짧은 메시지로 지지자를 결집시키는 정치기술은 새로운 것이 아니다. 가깝게는 트럼프 전 미]]></content:encoded>
         </item>
     </channel>
 </rss>
