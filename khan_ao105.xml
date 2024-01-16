@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2024-01-16T22:14:35.398Z</updated>
+    <updated>2024-01-16T23:15:15.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비상대책위원회]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202401162006015</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202401162006015"/>
+        <updated>2024-01-16T23:13:42.494Z</updated>
+        <content type="html"><![CDATA[한동훈 전 법무부 장관은 지난해 12월21일 국민의힘 비상대책위원장직을 수락하며 국민의힘에 입당, 상임전국위원회의 의결을 통해 12월26일부터 비대위원장으로서 임기를 시작했다. 한국 정치는 언제나 비상(非常)이다. 그래서 정치권에서 아무리 위기라고 해도 국민의 입장에서는 ‘비상대책위원회’가 낯설지 않고 비상사태라는 느낌도 별로 없다. ‘비대위’가 상시적으로 필요하다면, 비상 상태는 상례(常例)가 된다.문제는 어떤 상황이 비상 상태이고, 누구에게 무슨 문제가 위기인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간의 조건, 국민의 조건]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202312262010015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202305170300015"/>
         <updated>2024-01-13T19:11:22.541Z</updated>
         <content type="html"><![CDATA[올해는 한·미 동맹 70주년. 1953년에 조인, 1954년 11월8일부터 발효된 이 ‘동맹’의 정식 이름은 ‘한·미 상호방위조약’이다. 구한말부터 한반도는 외세와의 상호 방위(mutual defense)가 무엇인지에 골몰해왔다. 그만큼 한·미 동맹의 전후 맥락은, 우리 근현대사를 상징한다. 1866년 제너럴셔먼호(號)사건과 1871년 신미양요(辛未洋擾)를 모두 물리친 조선은, 이후 “일정 때보다 더한 미군정”을 거쳐 지금은 미국과 “글로벌 파트너”가 되었다(고 한다). 물론 이 파트너십은 유...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령이 해야 할 말…“오염수 방류는 지구 침략이다”]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202304190300015</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202304190300015"/>
-        <updated>2024-01-13T19:11:22.542Z</updated>
-        <content type="html"><![CDATA[이 글을 마감할 무렵, 18일자 경향신문 1면 보도다. “일본은 7개국(G7) 환경장관 회의에서 후쿠시마 원전 오염수 방류 관련 환영 성명을 내려다 참가국 반대로 실패했다. (중략) 슈테피 렘케 독일 환경장관은 ‘오염수 방류에 관해서는 환영한다고 할 수 없다’고 정면으로 반박했다. 니시무라 일본 경제산업상은 기자회견이 끝난 후 자신의 발언에 실수가 있었다며 정정해야 했다. 한편 독일은 지난 15일 자정을 기점으로 원자력(핵)발전소 가동을 중단했다.” 일본의 거짓말...]]></content>
     </entry>
 </feed>
