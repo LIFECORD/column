@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ac296</id>
     <title>경향신문 ─ 이진송의 아니 근데</title>
-    <updated>2024-01-18T22:15:08.917Z</updated>
+    <updated>2024-01-18T23:15:55.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대중이 ‘아나운서계의 신인류’ 김대호에 열광하는 이유]]></title>
+        <id>https://www.khan.co.kr/culture/culture-general/article/202401190600005</id>
+        <link href="https://www.khan.co.kr/culture/culture-general/article/202401190600005"/>
+        <updated>2024-01-18T23:13:28.385Z</updated>
+        <content type="html"><![CDATA[MBC 아나운서 김대호는 가장 뜨거운 예능계 유망주이다. 2023년 초 MBC 유튜브 채널인 ‘뉴스안하니’에서 공개한 일상이 화제가 되면서 &lt;나 혼자 산다&gt;(MBC, 이하 나혼산)에 진출한 김대호는 자유분방한 생활양식과 기상천외한 캐릭터로 ‘아나운서계 신인류’라는 평을 받았다. 김대호는 과도한 PPL, 대중이 위화감을 느끼는 연예인의 화려한 삶, ‘짜고 치는’ 방송용 연출이라는 매너리즘에 빠진 &lt;나혼산&gt;에 혜성과 같이 등장한 구원투수이다. 번거로움을 무릅...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 누구인지 중요한가? 나는 그저 모든 과정에서 나일뿐]]></title>
         <id>https://www.khan.co.kr/culture/culture-general/article/202401040600005</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/culture/tv/article/202308111637005"/>
         <updated>2024-01-09T09:11:57.284Z</updated>
         <content type="html"><![CDATA[‘엄마와 딸’은 대체 무엇일까? 사람마다 정의는 다르겠지만, 영화평처럼 한 줄로 굳이 표현해야 한다면 나는 ‘마르지 않는 샘’이라고 칭하련다. 엄마와 딸의 관계성은 수많은 문학, 영화, 드라마와 같은 콘텐츠에서 보란 듯이 왕좌를 차지하는 재능꾼이자, 친구들과의 대화에서도 타율 좋은 소재다. “나 우리 엄마 때문에 미치겠어.” 누구 한 명이 물꼬를 트면 그때부터 그곳이 비공식 집단 상담 모임이다. 화목하고 사이좋은 모녀라도 들춰보면 말 못할 감정과 사연이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플루언서를 둘러싼 빛과 그림자…넷플릭스 ‘셀러브리티’와 ENA ‘행복배틀’]]></title>
-        <id>https://www.khan.co.kr/culture/culture-general/article/202307281625015</id>
-        <link href="https://www.khan.co.kr/culture/culture-general/article/202307281625015"/>
-        <updated>2024-01-09T09:11:57.285Z</updated>
-        <content type="html"><![CDATA[최근 사회관계망서비스(SNS)상의 인플루언서를 소재로 한 드라마 두 편이 비슷한 시기에 방영되었다. &lt;셀러브리티&gt;(넷플릭스)는 평범한 일상을 살아가던 주인공 서아리(박규영)가 하루아침에 인스타그램의 ‘셀러브리티’가 되면서 벌어지는 이야기를 다룬 작품이며, &lt;행복배틀&gt;(ENA)은 국내 최고급 아파트에 사는 엄마들이 SNS상에서 행복을 전시하는 것으로 ‘배틀’을 벌이는 이야기이다. 인플루언서란 새 시대의 직업으로, 말 그대로 ‘온라인에서 유명한 것이 직업’...]]></content>
     </entry>
 </feed>
