@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-01-26T22:15:07.520Z</updated>
+    <updated>2024-01-26T23:15:36.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 일은 진전 안되고 피곤하다면]]></title>
+        <id>https://www.dongascience.com/news.php?idx=63535</id>
+        <link href="https://www.dongascience.com/news.php?idx=63535"/>
+        <updated>2024-01-27T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[하루 종일 뭔가를 하긴 했는데 어째서인지 아무 것도 이룬 게 없는 것 같은 불안감과 공허함이 찾아올 때가 있다. 주로 뚜렷한 계획을 세우지 않았거나 아니면 소위 딴 짓을 많이 하며 주의력을 허비했을 때 이런 느낌을 받곤 한다. 분명 시간은 시간대로 쓰고 몸도 마음도 지쳤는데 일은 진전이 없는 듯한 소모적인 상태를 어떻게 하면 막을 수 있을까. 흔히 자신이 일을 하는 과정을 들여다보면 진짜 집중해서 필요한 것들을 해내는 시간은 생각보다 길지 않음을 알 수 있다. 우선 일을 ‘시작’하기에 앞서 귀찮은 마음과 일이 복잡하고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 계획대로 일이 되지 않는 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=63437</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=62289"/>
         <updated>2023-11-04T08:00:00.000Z</updated>
         <content type="html"><![CDATA[연인관계는 물론 인간관계 전반에 있어 다른 사람들에 비해 더 많은 갈등을 겪고 양질의 관계를 영위하지 못하는 사람들의 특징 중 다음과 같은 것들이 있다(Jensen-Campbell et al., 2009). ● 사람을 부정적으로 바라본다 대체로 사람들을 부정적으로 바라보는 편이다(Erez &amp; Judge, 2001). 누군가를 만나면 저 사람은 얼마나 좋은 사람일까’라고 생각하기보다 ‘저 사람은 또 얼마나 이상한 사람일까’라고 생각하게 되는 편이다. 사람들의 별다른 의미 없는 행동에도 색안경을 끼고 저 행동은 분명 나를 무시해서/싫어해서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 이·팔 전쟁 해법은...'집단적 감정'은 어떻게 움직일까]]></title>
-        <id>https://www.dongascience.com/news.php?idx=62193</id>
-        <link href="https://www.dongascience.com/news.php?idx=62193"/>
-        <updated>2023-10-28T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[전쟁은 항상 가혹하다. 이번 이스라엘과 팔레스타인 간의 분쟁에서도 무고한 시민들의 희생이 점점 늘어나고 있다. 휴전을 촉구하는 목소리들이 커져가는 가운데 끝장(?)을 봐야 한다는 주장도 수그러들지 않고 있다. 여기에는 집단적 분노가 결정적인 역할을 하고 있다. 적을 ‘인간 이하’로 규정하고 무자비한 보복을 요구하는 목소리들이 적지 않다. 원래는 평화와 공존을 원하는 사람들도 적지 않았을 테지만 한 번 분쟁이 촉발되고 나면 분노가 집단을 관통하는 주된 정서가 되는 현상은 흔히 관찰된다. 하지만 여론이란 생각보다 쉽...]]></content>
     </entry>
 </feed>
