@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.khan.co.kr/series/articles/ao105</id>
     <title>경향신문 ─ 정희진의 낯선 사이</title>
-    <updated>2024-02-06T10:16:02.404Z</updated>
+    <updated>2024-02-06T11:12:54.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.khan.co.kr/series/articles/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 위원장의 “동료 시민”]]></title>
+        <id>https://www.khan.co.kr/opinion/column/article/202402062008005</id>
+        <link href="https://www.khan.co.kr/opinion/column/article/202402062008005"/>
+        <updated>2024-02-06T11:11:34.631Z</updated>
+        <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장이 사용하는 “동료 시민 여러분”은 일견 의미가 있어 보인다. 여론도 대체로 우호적인데, 탈권위적이라는 의견이 많은 것 같다. 긍정적인 평가에 더해, 그가 말하는 시민의 범주에 사회적 약자도 포함되어야 한다는 주장도 있다. 내 생각은 다르다. 나는 한동훈 위원장의 이 표현에 두려움을 느낀다. 첫째 한 위원장이 시민을 동료라고 부르는 그 사고방식이 두렵고, 둘째 그의 말에 열광하는 팬덤이 두렵고, 셋째는 그가 탈권위적 인물 이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비상대책위원회]]></title>
         <id>https://www.khan.co.kr/opinion/column/article/202401162006015</id>
@@ -67,12 +74,5 @@
         <link href="https://www.khan.co.kr/opinion/column/article/202306140300015"/>
         <updated>2024-01-13T19:11:22.540Z</updated>
         <content type="html"><![CDATA[지난 12일부터 도쿄전력은 후쿠시마 제1원전에 보관 중인 방사성물질 오염수의 바다 방류를 위해 2주간 시운전을 시작했다. 이날자 경향신문 1면 머리기사 제목은 ‘“오염수 방류, 사형 선고” 어민들 피눈물’이었다. 어부 일은 끝났다는 제주 어민들, 소금값이 한 달 동안 30% 넘게 오른 전남 신안, 수산물 소비절벽을 확신한다며 사형수 심정이라는 부산 자갈치시장 상인들의 소식이 이어졌다. 원고 마감 중 틈틈이 살펴본 인터넷 포털사이트 뉴스에는 오염수 소식이 거...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 동맹의 풍경, 한·미 동맹을 다시 생각한다]]></title>
-        <id>https://www.khan.co.kr/opinion/column/article/202305170300015</id>
-        <link href="https://www.khan.co.kr/opinion/column/article/202305170300015"/>
-        <updated>2024-01-13T19:11:22.541Z</updated>
-        <content type="html"><![CDATA[올해는 한·미 동맹 70주년. 1953년에 조인, 1954년 11월8일부터 발효된 이 ‘동맹’의 정식 이름은 ‘한·미 상호방위조약’이다. 구한말부터 한반도는 외세와의 상호 방위(mutual defense)가 무엇인지에 골몰해왔다. 그만큼 한·미 동맹의 전후 맥락은, 우리 근현대사를 상징한다. 1866년 제너럴셔먼호(號)사건과 1871년 신미양요(辛未洋擾)를 모두 물리친 조선은, 이후 “일정 때보다 더한 미군정”을 거쳐 지금은 미국과 “글로벌 파트너”가 되었다(고 한다). 물론 이 파트너십은 유...]]></content>
     </entry>
 </feed>
