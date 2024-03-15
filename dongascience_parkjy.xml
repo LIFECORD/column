@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-03-15T22:16:29.796Z</updated>
+    <updated>2024-03-15T23:14:46.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] '필요악' 스트레스 활용법도 중요하다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=64303</id>
+        <link href="https://www.dongascience.com/news.php?idx=64303"/>
+        <updated>2024-03-16T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[하루에도 몇 번씩 'XX 때문에 스트레스 받는다'는 말을 자연스럽게 할 정도로 스트레스란 많은 사람들에게 있어 일상 깊숙이 들어와 있는 친숙한 개념이다. 하지만 그럼에도 생각보다 스트레스의 정체에 대해 정확히 알고 있는 사람은 많지 않다. 스트레스는 무엇일까? 원인일까 결과일까? 또 스트레스는 항상 피하는 것이 좋을까? 일상 생활 속 대화에서도, 학술지 속에서도 스트레스란 주로 부정적인 일들을 지칭하는 용도로 쓰인다. 또한 그 범위 또한 방대해서 아침에 일찍 일어나서 사람이 많은 지하철을 타야 하는 비교적 작은 일부터 입...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 거절에 대한 두려움이 큰 사람들]]></title>
         <id>https://www.dongascience.com/news.php?idx=63738</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=62608"/>
         <updated>2023-11-25T08:00:00.000Z</updated>
         <content type="html"><![CDATA[최근 뉴욕타임즈에서 흥미로운 기사를 봤다. 기관이나 온라인 등에서 쉽게 접할 수 있는 ‘간편’ 심리 상담 또는 정신 질환에 관한 정보들이 사람들을 더 우울하고 불안하게 만드는 현상이 관찰된다는 내용이었다. 사람들을 보다 쉽게 돕기 위해 만들어진 장치들이 되려 역효과를 내고 있다는 것이었다. 이러한 현상에 대해 서던캘리포니아대의 심리학자인 다비 삭스베는 특히 요즘 십대들 사이에서 정신질환과 관련 없는 일상적인 우울감이나 불안감, 스트레스 등을 정신 질환인 것처럼 성급하게 판단하는 일이 늘어나고 있음을 지적했다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 배웠다는 '착각']]></title>
-        <id>https://www.dongascience.com/news.php?idx=62499</id>
-        <link href="https://www.dongascience.com/news.php?idx=62499"/>
-        <updated>2023-11-18T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[우리는 모두가 자신은 적어도 ‘평균’은 한다고 생각하고 같은 주사위도 내가 던지면 더 원하는 숫자가 잘 나올거라고 생각하는 등 다소 오만하고 착각이 심한 경향이 있다. 이런 착각은 무언가를 배웠다는 느낌에서도 심하게 나타난다고 한다. 특히 어떤 정보가 다소 쉬운 형태로 전달이 되면 뭔가 배운 것 같다는 착각을 크게 한다. 같은 정보를 좀 더 명료한 폰트에 큰 글자 사이즈, 다양한 색상, 다양한 사진과 이미지 등을 이용해서 전달하면 그러지 않았을 때에 비해 사람들은 자신이 더 많은 정보를 얻었고 따라서 더 많이 배웠다고...]]></content>
     </entry>
 </feed>
