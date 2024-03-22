@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-03-22T22:16:47.162Z</updated>
+    <updated>2024-03-22T23:15:03.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 혼자서도 행복한 '자족감'이 중요한 이유]]></title>
+        <id>https://www.dongascience.com/news.php?idx=64433</id>
+        <link href="https://www.dongascience.com/news.php?idx=64433"/>
+        <updated>2024-03-23T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[주변 사람들과 대체로 사랑을 잘 주고 받을 수 있는지 아닌지 여부에 따라 인간관계의 양상이 크게 달라지곤 한다. 심리학자들은 사람들이 일반적으로 관계를 통해 맺는 애착의 형태를 크게 세 가지로 나눈다. 안정애착(secure attachment), 불안애착(anxious attachment), 회피애착(avoidant attachment)이 그들이다 (Fiske, 2009). ● 안정 VS 불안정 VS 회피애착 일반적으로 과거 양육자나 연인 등 자신에게 중요한 사람들과 거리낌없이 사랑을 주고받는 경험을 풍부하게 해 온 사람들이 그렇지 않은 사람들에 비해 이후에도 사랑을 주고 받음...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] '필요악' 스트레스 활용법도 중요하다]]></title>
         <id>https://www.dongascience.com/news.php?idx=64303</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=62722"/>
         <updated>2023-12-02T08:00:00.000Z</updated>
         <content type="html"><![CDATA[해외에서 지내면서 한 가지 편하다고 느끼는 것은 내가 원하는 바에 따라 ‘거리’를 조절할 수 있는 다양한 관계들이 있다는 것이다. 예를 들어 벌써 함께 5년 이상 매주 회의를 하며 함께 일하고 있는 선생님의 사적인 정보(나이, 가족 구성, 집안 사정, 재산 상태, 최근의 고민 거리 등)에 대해 아는 게 하나도 없다. 함께 다양한 프로젝트에 참여하고 일에 대해서라면 작은 고민도 서슴없이 상담할 수 있지만 일 외의 것에 대해서는 아무 것도 입이나 귀에 담지 않아도 되는 프로페셔널한 관계다. 물론 일터에서 만났지만 사적으로 친해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '힘든 경험'이 자신 전부를 설명하지 않는다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=62608</id>
-        <link href="https://www.dongascience.com/news.php?idx=62608"/>
-        <updated>2023-11-25T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 뉴욕타임즈에서 흥미로운 기사를 봤다. 기관이나 온라인 등에서 쉽게 접할 수 있는 ‘간편’ 심리 상담 또는 정신 질환에 관한 정보들이 사람들을 더 우울하고 불안하게 만드는 현상이 관찰된다는 내용이었다. 사람들을 보다 쉽게 돕기 위해 만들어진 장치들이 되려 역효과를 내고 있다는 것이었다. 이러한 현상에 대해 서던캘리포니아대의 심리학자인 다비 삭스베는 특히 요즘 십대들 사이에서 정신질환과 관련 없는 일상적인 우울감이나 불안감, 스트레스 등을 정신 질환인 것처럼 성급하게 판단하는 일이 늘어나고 있음을 지적했다...]]></content>
     </entry>
 </feed>
