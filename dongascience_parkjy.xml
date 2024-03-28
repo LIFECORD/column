@@ -1,78 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
-    <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-03-28T12:24:03.719Z</updated>
+    <id>https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&amp;sid1=110&amp;cid=1077376</id>
+    <title>네이버 뉴스 ─ 동아사이언스 ─ 박진영의 사회심리학</title>
+    <updated>2024-03-28T13:16:16.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.dongascience.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 혼자서도 행복한 '자족감'이 중요한 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=64433</id>
-        <link href="https://www.dongascience.com/news.php?idx=64433"/>
-        <updated>2024-03-23T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[주변 사람들과 대체로 사랑을 잘 주고 받을 수 있는지 아닌지 여부에 따라 인간관계의 양상이 크게 달라지곤 한다. 심리학자들은 사람들이 일반적으로 관계를 통해 맺는 애착의 형태를 크게 세 가지로 나눈다. 안정애착(secure attachment), 불안애착(anxious attachment), 회피애착(avoidant attachment)이 그들이다 (Fiske, 2009). ● 안정 VS 불안정 VS 회피애착 일반적으로 과거 양육자나 연인 등 자신에게 중요한 사람들과 거리낌없이 사랑을 주고받는 경험을 풍부하게 해 온 사람들이 그렇지 않은 사람들에 비해 이후에도 사랑을 주고 받음...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '필요악' 스트레스 활용법도 중요하다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=64303</id>
-        <link href="https://www.dongascience.com/news.php?idx=64303"/>
-        <updated>2024-03-16T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[하루에도 몇 번씩 'XX 때문에 스트레스 받는다'는 말을 자연스럽게 할 정도로 스트레스란 많은 사람들에게 있어 일상 깊숙이 들어와 있는 친숙한 개념이다. 하지만 그럼에도 생각보다 스트레스의 정체에 대해 정확히 알고 있는 사람은 많지 않다. 스트레스는 무엇일까? 원인일까 결과일까? 또 스트레스는 항상 피하는 것이 좋을까? 일상 생활 속 대화에서도, 학술지 속에서도 스트레스란 주로 부정적인 일들을 지칭하는 용도로 쓰인다. 또한 그 범위 또한 방대해서 아침에 일찍 일어나서 사람이 많은 지하철을 타야 하는 비교적 작은 일부터 입...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 거절에 대한 두려움이 큰 사람들]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63738</id>
-        <link href="https://www.dongascience.com/news.php?idx=63738"/>
-        <updated>2024-02-10T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[필자는 몇 해 전 병원에 입원한 적이 있었는데 병문안을 온 친구에게 번거롭게 먼 길 오게 해서 미안하다고 했다. 그냥 으레 아니라고 괜찮다고 할 줄 알았는데 친구의 반응은 그런 생각은 해본 적도 없다는 듯 “내가 오고 싶어서 내 발로 왔는데 왜 네가 미안해 해?”였다. 작은 희생에도 ‘내가 너를 위해 이런저런 희생을 했다는 사실을 기억하고 고마워해라’ 모드가 되는 것이 보통인데 그렇지 않은 친구가 조금 신기하기도 했다. 자발적으로 타인을 위하는 행동을 하고서도 되돌려 받길 기대하고 그게 안 될 경우 금방 서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 대우받을 '자격'이 있다고 믿는 사람들]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63655</id>
-        <link href="https://www.dongascience.com/news.php?idx=63655"/>
-        <updated>2024-02-03T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[별 다른 의미 없는 타인의 언행에 쉽게 ‘나를 무시했다’며 화를 내거나 딱히 삶에서 크게 성취한 것도 없이 다른 사람들의 존경이나 ‘특별한 대접’을 받길 바라는 사람들이 있다. 흔히 ‘자격 의식(sense of entitlement)’이 심한 사람들이 보이는 특징이다. 이들은 흔히 주변 사람들에게 공격적인 성향을 보이며 다른 사람들에게 피해를 입히더라도 자기 자신의 이익만 챙기는 이기적인 모습도 자주 보인다. 또한 수단과 방법을 가리지 않고 비윤리적인 방법으로라도 돈과 명예, 사회적 지위와 관련된 요소들...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 일은 진전 안되고 피곤하다면]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63535</id>
-        <link href="https://www.dongascience.com/news.php?idx=63535"/>
-        <updated>2024-01-27T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[하루 종일 뭔가를 하긴 했는데 어째서인지 아무 것도 이룬 게 없는 것 같은 불안감과 공허함이 찾아올 때가 있다. 주로 뚜렷한 계획을 세우지 않았거나 아니면 소위 딴 짓을 많이 하며 주의력을 허비했을 때 이런 느낌을 받곤 한다. 분명 시간은 시간대로 쓰고 몸도 마음도 지쳤는데 일은 진전이 없는 듯한 소모적인 상태를 어떻게 하면 막을 수 있을까. 흔히 자신이 일을 하는 과정을 들여다보면 진짜 집중해서 필요한 것들을 해내는 시간은 생각보다 길지 않음을 알 수 있다. 우선 일을 ‘시작’하기에 앞서 귀찮은 마음과 일이 복잡하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 계획대로 일이 되지 않는 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63437</id>
-        <link href="https://www.dongascience.com/news.php?idx=63437"/>
-        <updated>2024-01-20T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[내가 사는 곳 근처에서 몇 년 째 공사가 진행되고 있다. 처음에는 작은 길에 한정되었던 것이 차도로 넘어오더니 근처 길을 전부 갈아 엎기 시작했고 규모가 점점 더 커지고 있다. 분명 처음에는 1년 안에 끝날 거라고 들었던 것 같은데 벌써 수 년 째 진행중이다. 모든 일에는 ‘예상치 못했던 변수’라는 게 나타나기 마련이다. 따라서 처음의 계획이 틀어지고 일이 점점 길어지는 현상은 흔히 관찰된다. 몇 시간 정도면 집안 일을 다 마무리 할 수 있을 거라고 예상하거나 시간 맞춰서 과제를 제출하는 사소한 일부터 다리를 만들고 빌딩...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 나이 들수록 '행복감' 느끼는 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63325</id>
-        <link href="https://www.dongascience.com/news.php?idx=63325"/>
-        <updated>2024-01-13T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[새해를 맞으면 설렘도 크지만 또 한 살 더 먹었다는 데서 오는 막연한 불안감이 있다. 나이가 들어가고 노화가 찾아오는 것을 달가워 하는 사람은 그렇게 많지 않을 것이다. 하지만 한 가지 좋은 소식이라면 적어도 ‘행복’에 있어서는 나이를 먹는 일이 나쁘지만은 않다는 것이다. 이전에도 의외로 나이가 많은 사람들이 나이가 젊은 사람들에 비해 더 높은 행복도를 보고한다는 연구들이 있었다. 한국에서도 특히 미혼 여성들의 경우 40대를 넘어가며 행복도가 가파르게 상승하여 20대에 비해 50%나 높은 행복도를 보이는 현상이 보고된...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 글로 쓰는 삶의 '조각'이 '나'를 완성한다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63214</id>
-        <link href="https://www.dongascience.com/news.php?idx=63214"/>
-        <updated>2024-01-06T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[자신을 안다는 것은 어디서부터 어떻게 시작해야 될지 알기 어려운 거대한 과제처럼 느껴질 때가 많다. 하지만 조금 다르게 생각하면 나를 안다는 것은 퍼즐을 맞추는 것과 비슷한 면이 있다. 1000피스 이상의 큰 퍼즐을 맞추다 보면 어디서부터 맞춰야 할지, 지금 내가 손에 들고 있는 조각이 그림의 어떤 부분에 속하기는 하는지, 작은 조각들을 맞춘다고 해서 과연 큰 그림이 완성이 될지 같은 의문들이 밀려온다. 하지만 이 아무것도 아닌 것 같은 조각들을 조금씩 맞추다 보면 어느새 꽃이 피고 강이 흐르는 아름다운 그림이 완성된다. 자신을 아...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 10번 고맙다가 딱 1번 서운한 일만 기억하는 사람들]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63021</id>
-        <link href="https://www.dongascience.com/news.php?idx=63021"/>
-        <updated>2023-12-23T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[친구나 연인 사이에 갈등은 항상 있는 것이지만 쓸데 없이 갈등을 더 키우는 습관이 있다. 바로 선택적 기억이다. 예를 들어 한 가지 작은 서운한 일이 생겼을 때 그 일로만 다투는 게 아니라 생각해보니 이 때도 그 때도 이런저런 서운한 일이 있었다며 과거의 모든 서운함을 한꺼번에 끌어모을 때가 있다. 보통 이럴 때는 상대방이 해준 것들 중에 고마웠던 일은 기억하지 못하고 오로지 서운했던 일만 선택해서 기억하곤 한다. 열 번 부탁했을 때 상대방이 아홉번 들어주고 딱 한 번 안 해줬을 뿐이지만 그 한 번을 가장 강렬하게 기억하고서는 &amp;ld...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 사적인 영역, 선 넘지 않기의 중요성]]></title>
-        <id>https://www.dongascience.com/news.php?idx=62722</id>
-        <link href="https://www.dongascience.com/news.php?idx=62722"/>
-        <updated>2023-12-02T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[해외에서 지내면서 한 가지 편하다고 느끼는 것은 내가 원하는 바에 따라 ‘거리’를 조절할 수 있는 다양한 관계들이 있다는 것이다. 예를 들어 벌써 함께 5년 이상 매주 회의를 하며 함께 일하고 있는 선생님의 사적인 정보(나이, 가족 구성, 집안 사정, 재산 상태, 최근의 고민 거리 등)에 대해 아는 게 하나도 없다. 함께 다양한 프로젝트에 참여하고 일에 대해서라면 작은 고민도 서슴없이 상담할 수 있지만 일 외의 것에 대해서는 아무 것도 입이나 귀에 담지 않아도 되는 프로페셔널한 관계다. 물론 일터에서 만났지만 사적으로 친해...]]></content>
-    </entry>
+    <icon>https://news.naver.com/main/hotissue/favicon.ico</icon>
 </feed>
