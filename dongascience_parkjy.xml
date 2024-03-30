@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-03-29T23:14:27.713Z</updated>
+    <updated>2024-03-30T00:48:01.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 함께 하는 성취가 더 뜻깊다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=64577</id>
+        <link href="https://www.dongascience.com/news.php?idx=64577"/>
+        <updated>2024-03-30T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[여러분의 삶에서 가장 소중하고 뜻 깊었던 순간에는 무엇이 있는가. 삶에서 가장 뜻 깊었던 시간들을 정의할 때 사람들은 보통 즐거움과 행복 같은 긍정적 정서뿐 아니라 어떤 경험이 얼마나 큰 '의미감'을 주었는지를 함께 고려하는 모습을 보인다. 예를 들어 도박이나 마약 같이 큰 쾌락을 가져다 주지만 딱히 의미 있다고 보기는 어려운 경험들을 삶에서 잊지 못할 뜻 깊은 경험으로 꼽는 일은 많지 않다. 되려 즐거움만 있지는 않았지만 큰 의미가 있었던 사건들, 힘겨운 시간 끝에 새 삶을 살게 된 경험 같이 어느 정도의 기쁨과 의미감이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 혼자서도 행복한 '자족감'이 중요한 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=64433</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=63021"/>
         <updated>2023-12-23T08:00:00.000Z</updated>
         <content type="html"><![CDATA[친구나 연인 사이에 갈등은 항상 있는 것이지만 쓸데 없이 갈등을 더 키우는 습관이 있다. 바로 선택적 기억이다. 예를 들어 한 가지 작은 서운한 일이 생겼을 때 그 일로만 다투는 게 아니라 생각해보니 이 때도 그 때도 이런저런 서운한 일이 있었다며 과거의 모든 서운함을 한꺼번에 끌어모을 때가 있다. 보통 이럴 때는 상대방이 해준 것들 중에 고마웠던 일은 기억하지 못하고 오로지 서운했던 일만 선택해서 기억하곤 한다. 열 번 부탁했을 때 상대방이 아홉번 들어주고 딱 한 번 안 해줬을 뿐이지만 그 한 번을 가장 강렬하게 기억하고서는 &amp;ld...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 사적인 영역, 선 넘지 않기의 중요성]]></title>
-        <id>https://www.dongascience.com/news.php?idx=62722</id>
-        <link href="https://www.dongascience.com/news.php?idx=62722"/>
-        <updated>2023-12-02T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[해외에서 지내면서 한 가지 편하다고 느끼는 것은 내가 원하는 바에 따라 ‘거리’를 조절할 수 있는 다양한 관계들이 있다는 것이다. 예를 들어 벌써 함께 5년 이상 매주 회의를 하며 함께 일하고 있는 선생님의 사적인 정보(나이, 가족 구성, 집안 사정, 재산 상태, 최근의 고민 거리 등)에 대해 아는 게 하나도 없다. 함께 다양한 프로젝트에 참여하고 일에 대해서라면 작은 고민도 서슴없이 상담할 수 있지만 일 외의 것에 대해서는 아무 것도 입이나 귀에 담지 않아도 되는 프로페셔널한 관계다. 물론 일터에서 만났지만 사적으로 친해...]]></content>
     </entry>
 </feed>
