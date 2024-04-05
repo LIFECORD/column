@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-04-05T22:17:51.314Z</updated>
+    <updated>2024-04-05T23:15:01.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]'가스라이팅'을 극복하는 방법]]></title>
+        <id>https://www.dongascience.com/news.php?idx=64719</id>
+        <link href="https://www.dongascience.com/news.php?idx=64719"/>
+        <updated>2024-04-06T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[관계에서 상대가 속상할만한 행동을 잔뜩 해놓고서는 "너가 너무 예민한 거 아니야?"라고 하거나 분명히 존재하는 차별에 대해 얘기할 때 역시 요즘 세상에 그런 게 어디 있냐고 하는 등 상대가 자기 자신에 대해 의문을 갖게 만드는 사람들이 있다. 이렇게 특히 친밀한 관계에서 상대로 하여금 자신의 생각과 감정, 믿음에 대해 의문을 갖게 만들고 심한 경우 자신에 대해 미쳐있다거나 올바르게 생각할 능력이 저하되어 있다고 믿게 만드는 언행을 흔히 '가스라이팅'이라고 부른다. 언젠가 자기 자신이 현실감각이 떨어지고 비이성...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 함께 하는 성취가 더 뜻깊다]]></title>
         <id>https://www.dongascience.com/news.php?idx=64577</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=63214"/>
         <updated>2024-01-06T08:00:00.000Z</updated>
         <content type="html"><![CDATA[자신을 안다는 것은 어디서부터 어떻게 시작해야 될지 알기 어려운 거대한 과제처럼 느껴질 때가 많다. 하지만 조금 다르게 생각하면 나를 안다는 것은 퍼즐을 맞추는 것과 비슷한 면이 있다. 1000피스 이상의 큰 퍼즐을 맞추다 보면 어디서부터 맞춰야 할지, 지금 내가 손에 들고 있는 조각이 그림의 어떤 부분에 속하기는 하는지, 작은 조각들을 맞춘다고 해서 과연 큰 그림이 완성이 될지 같은 의문들이 밀려온다. 하지만 이 아무것도 아닌 것 같은 조각들을 조금씩 맞추다 보면 어느새 꽃이 피고 강이 흐르는 아름다운 그림이 완성된다. 자신을 아...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 10번 고맙다가 딱 1번 서운한 일만 기억하는 사람들]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63021</id>
-        <link href="https://www.dongascience.com/news.php?idx=63021"/>
-        <updated>2023-12-23T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[친구나 연인 사이에 갈등은 항상 있는 것이지만 쓸데 없이 갈등을 더 키우는 습관이 있다. 바로 선택적 기억이다. 예를 들어 한 가지 작은 서운한 일이 생겼을 때 그 일로만 다투는 게 아니라 생각해보니 이 때도 그 때도 이런저런 서운한 일이 있었다며 과거의 모든 서운함을 한꺼번에 끌어모을 때가 있다. 보통 이럴 때는 상대방이 해준 것들 중에 고마웠던 일은 기억하지 못하고 오로지 서운했던 일만 선택해서 기억하곤 한다. 열 번 부탁했을 때 상대방이 아홉번 들어주고 딱 한 번 안 해줬을 뿐이지만 그 한 번을 가장 강렬하게 기억하고서는 &amp;ld...]]></content>
     </entry>
 </feed>
