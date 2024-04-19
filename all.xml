@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 22:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 23:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2023/1215/A0002986446_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 친구가 적은 사람과 친해지려는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=64965</link>
+            <guid>https://www.dongascience.com/news.php?idx=64965</guid>
+            <pubDate>Sat, 20 Apr 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[친구가 많은 사람과 비교적 그렇지 않은 사람이 있을 때 사람들은 둘 중 누구와 친구가 되고 싶어할까. 이와 같은 질문을 하면 많은 이들이 '친구가 많은 사람'이라고 답한다. 친구가 많다는 것은 이 사람의 인성이 대체로 괜찮고 사회적으로 바람직한 특성들을 많이 가지고 있을 가능성을 내포하기 때문이다. 하지만 마카오대의 카우 시 연구팀에 의하면 현실은 이와 달라서 사람들은 친구가 '적은' 사람과 더 친구가 되고 싶어하는 경향을 보인다. 한 번씩 돌아가면서 짧은 시간 동안 여러 사람과 대화를 하는 스피드 데이팅을 하게 했...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 선행은 '작은 친절과 위로'에서 시작 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=64832</link>
             <guid>https://www.dongascience.com/news.php?idx=64832</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=63437</guid>
             <pubDate>Sat, 20 Jan 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내가 사는 곳 근처에서 몇 년 째 공사가 진행되고 있다. 처음에는 작은 길에 한정되었던 것이 차도로 넘어오더니 근처 길을 전부 갈아 엎기 시작했고 규모가 점점 더 커지고 있다. 분명 처음에는 1년 안에 끝날 거라고 들었던 것 같은데 벌써 수 년 째 진행중이다. 모든 일에는 ‘예상치 못했던 변수’라는 게 나타나기 마련이다. 따라서 처음의 계획이 틀어지고 일이 점점 길어지는 현상은 흔히 관찰된다. 몇 시간 정도면 집안 일을 다 마무리 할 수 있을 거라고 예상하거나 시간 맞춰서 과제를 제출하는 사소한 일부터 다리를 만들고 빌딩...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 나이 들수록 '행복감' 느끼는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=63325</link>
-            <guid>https://www.dongascience.com/news.php?idx=63325</guid>
-            <pubDate>Sat, 13 Jan 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[새해를 맞으면 설렘도 크지만 또 한 살 더 먹었다는 데서 오는 막연한 불안감이 있다. 나이가 들어가고 노화가 찾아오는 것을 달가워 하는 사람은 그렇게 많지 않을 것이다. 하지만 한 가지 좋은 소식이라면 적어도 ‘행복’에 있어서는 나이를 먹는 일이 나쁘지만은 않다는 것이다. 이전에도 의외로 나이가 많은 사람들이 나이가 젊은 사람들에 비해 더 높은 행복도를 보고한다는 연구들이 있었다. 한국에서도 특히 미혼 여성들의 경우 40대를 넘어가며 행복도가 가파르게 상승하여 20대에 비해 50%나 높은 행복도를 보이는 현상이 보고된...]]></content:encoded>
         </item>
     </channel>
 </rss>
