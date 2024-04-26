@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-04-26T22:15:53.624Z</updated>
+    <updated>2024-04-26T23:16:28.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 외로움을 해소해야 하는 이유]]></title>
+        <id>https://www.dongascience.com/news.php?idx=65109</id>
+        <link href="https://www.dongascience.com/news.php?idx=65109"/>
+        <updated>2024-04-27T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[건강에 가장 큰 영향을 미치는 심리적 지표를 하나 꼽아보라고 한다면 단연 '외로움'이다. 외로움이 각종 건강과 관련된 지표들, 건강하지 않은 생활습관과 적은 수면, 심혈관 질환 등에 걸릴 확률과 비교적 나쁜 예후 등과 관련을 보이며 결과적으로 높은 사망률과 연관되어 있다는 연구들이 다수 있었다. 외로움은 건강하지 않은 생활습관, 고칼로리 선호, 폭식, 적은 운동량, 높은 스트레스, 나쁜 스트레스 대처법과 관련을 보이며 '노화'를 촉진시키기도 한다. 사회적 동물인 인간은 외로움에 의해 사망에 이를 수도 있는 것이다. 물...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 친구가 적은 사람과 친해지려는 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=64965</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=63535"/>
         <updated>2024-01-27T08:00:00.000Z</updated>
         <content type="html"><![CDATA[하루 종일 뭔가를 하긴 했는데 어째서인지 아무 것도 이룬 게 없는 것 같은 불안감과 공허함이 찾아올 때가 있다. 주로 뚜렷한 계획을 세우지 않았거나 아니면 소위 딴 짓을 많이 하며 주의력을 허비했을 때 이런 느낌을 받곤 한다. 분명 시간은 시간대로 쓰고 몸도 마음도 지쳤는데 일은 진전이 없는 듯한 소모적인 상태를 어떻게 하면 막을 수 있을까. 흔히 자신이 일을 하는 과정을 들여다보면 진짜 집중해서 필요한 것들을 해내는 시간은 생각보다 길지 않음을 알 수 있다. 우선 일을 ‘시작’하기에 앞서 귀찮은 마음과 일이 복잡하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 계획대로 일이 되지 않는 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63437</id>
-        <link href="https://www.dongascience.com/news.php?idx=63437"/>
-        <updated>2024-01-20T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[내가 사는 곳 근처에서 몇 년 째 공사가 진행되고 있다. 처음에는 작은 길에 한정되었던 것이 차도로 넘어오더니 근처 길을 전부 갈아 엎기 시작했고 규모가 점점 더 커지고 있다. 분명 처음에는 1년 안에 끝날 거라고 들었던 것 같은데 벌써 수 년 째 진행중이다. 모든 일에는 ‘예상치 못했던 변수’라는 게 나타나기 마련이다. 따라서 처음의 계획이 틀어지고 일이 점점 길어지는 현상은 흔히 관찰된다. 몇 시간 정도면 집안 일을 다 마무리 할 수 있을 거라고 예상하거나 시간 맞춰서 과제를 제출하는 사소한 일부터 다리를 만들고 빌딩...]]></content>
     </entry>
 </feed>
