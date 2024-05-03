@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-05-03T22:15:10.884Z</updated>
+    <updated>2024-05-03T23:15:34.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 나에게 따뜻해야 타인도 보듬는다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=65237</id>
+        <link href="https://www.dongascience.com/news.php?idx=65237"/>
+        <updated>2024-05-04T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[실패했거나 힘든 일이 생겼을 때 자기 자신에게 "또야? 너(내)가 이러니까 안 되지. 인생 망했네" 같은 악담을 쏟아부으며 이미 많은 상처를 더 늘려가는 사람이 있는 반면 "인간은 누구나 나름의 부족함을 가지고 있고 누구든지 넘어지기 마련이다. 내가 그 일로 인해 내가 상심이 크구나" 하고 힘들어하는 자신에게 따뜻한 위로를 보낼 줄 아는 사람이 있다. 후자의 사람들을 스스로에게 너그러운 자기 자비(self-compassion)가 높은 사람이라고 부른다. 연구들에 의하면 힘들 때조차 스스로에게 가혹하게 구는 사람들보다 힘...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 외로움을 해소해야 하는 이유]]></title>
         <id>https://www.dongascience.com/news.php?idx=65109</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=63655"/>
         <updated>2024-02-03T08:00:00.000Z</updated>
         <content type="html"><![CDATA[별 다른 의미 없는 타인의 언행에 쉽게 ‘나를 무시했다’며 화를 내거나 딱히 삶에서 크게 성취한 것도 없이 다른 사람들의 존경이나 ‘특별한 대접’을 받길 바라는 사람들이 있다. 흔히 ‘자격 의식(sense of entitlement)’이 심한 사람들이 보이는 특징이다. 이들은 흔히 주변 사람들에게 공격적인 성향을 보이며 다른 사람들에게 피해를 입히더라도 자기 자신의 이익만 챙기는 이기적인 모습도 자주 보인다. 또한 수단과 방법을 가리지 않고 비윤리적인 방법으로라도 돈과 명예, 사회적 지위와 관련된 요소들...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 일은 진전 안되고 피곤하다면]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63535</id>
-        <link href="https://www.dongascience.com/news.php?idx=63535"/>
-        <updated>2024-01-27T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[하루 종일 뭔가를 하긴 했는데 어째서인지 아무 것도 이룬 게 없는 것 같은 불안감과 공허함이 찾아올 때가 있다. 주로 뚜렷한 계획을 세우지 않았거나 아니면 소위 딴 짓을 많이 하며 주의력을 허비했을 때 이런 느낌을 받곤 한다. 분명 시간은 시간대로 쓰고 몸도 마음도 지쳤는데 일은 진전이 없는 듯한 소모적인 상태를 어떻게 하면 막을 수 있을까. 흔히 자신이 일을 하는 과정을 들여다보면 진짜 집중해서 필요한 것들을 해내는 시간은 생각보다 길지 않음을 알 수 있다. 우선 일을 ‘시작’하기에 앞서 귀찮은 마음과 일이 복잡하고...]]></content>
     </entry>
 </feed>
