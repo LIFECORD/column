@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-05-10T22:16:35.533Z</updated>
+    <updated>2024-05-10T23:16:19.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 죽음의 공포가 낯선 것 배척하게 만든다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=65358</id>
+        <link href="https://www.dongascience.com/news.php?idx=65358"/>
+        <updated>2024-05-11T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[위협, 특히 죽음에 대한 위협은 사람들로 하여금 새롭고 낯선 것을 배척하고 보수화되게 만드는 경향이 있다. 예를 들어 사람들에게 죽음과 관련된 생각을 하게 하면 그렇지 않았을 때에 비해 외국인, 낯선 문화, 기존의 질서를 부정하는 새로운 시도 등에 대해 부정적인 평가를 내리게 된다는 연구들이 있었다. 그런 반면 자신이 속한 집단과 국가, 문화, 사회 시스템에 대한 애착이 커지는 현상도 나타난다. 애리조나대의 심리학자 제프 그린버그 등은 이렇게 사람들이 자신보다 더 크고 오래 지속될 상징적인 무엇을 통해 죽음이라는 근원적 공포를...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 나에게 따뜻해야 타인도 보듬는다]]></title>
         <id>https://www.dongascience.com/news.php?idx=65237</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=63738"/>
         <updated>2024-02-10T08:00:00.000Z</updated>
         <content type="html"><![CDATA[필자는 몇 해 전 병원에 입원한 적이 있었는데 병문안을 온 친구에게 번거롭게 먼 길 오게 해서 미안하다고 했다. 그냥 으레 아니라고 괜찮다고 할 줄 알았는데 친구의 반응은 그런 생각은 해본 적도 없다는 듯 “내가 오고 싶어서 내 발로 왔는데 왜 네가 미안해 해?”였다. 작은 희생에도 ‘내가 너를 위해 이런저런 희생을 했다는 사실을 기억하고 고마워해라’ 모드가 되는 것이 보통인데 그렇지 않은 친구가 조금 신기하기도 했다. 자발적으로 타인을 위하는 행동을 하고서도 되돌려 받길 기대하고 그게 안 될 경우 금방 서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 대우받을 '자격'이 있다고 믿는 사람들]]></title>
-        <id>https://www.dongascience.com/news.php?idx=63655</id>
-        <link href="https://www.dongascience.com/news.php?idx=63655"/>
-        <updated>2024-02-03T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[별 다른 의미 없는 타인의 언행에 쉽게 ‘나를 무시했다’며 화를 내거나 딱히 삶에서 크게 성취한 것도 없이 다른 사람들의 존경이나 ‘특별한 대접’을 받길 바라는 사람들이 있다. 흔히 ‘자격 의식(sense of entitlement)’이 심한 사람들이 보이는 특징이다. 이들은 흔히 주변 사람들에게 공격적인 성향을 보이며 다른 사람들에게 피해를 입히더라도 자기 자신의 이익만 챙기는 이기적인 모습도 자주 보인다. 또한 수단과 방법을 가리지 않고 비윤리적인 방법으로라도 돈과 명예, 사회적 지위와 관련된 요소들...]]></content>
     </entry>
 </feed>
