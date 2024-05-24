@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 22:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 23:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0126/A0002997074_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '다 잘될거야' 낙관, 오히려 해롭다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=65572</link>
+            <guid>https://www.dongascience.com/news.php?idx=65572</guid>
+            <pubDate>Sat, 25 May 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[불안함이 찾아올 때 "다 잘될 거야"라고 생각하며 마음을 다스려본다. 하지만 마음 한 켠에는 '실패하면, 잘 안 되면 어쩌지' 하는 불안함이 여전히 남아있다. 미래는 여전히 알 수 없고 일의 결과는 내가 통제할 수 없기 때문이다. 아무리 잘 될 거라고 생각해 봐도 잘 될 가능성만큼이나 잘 안 될 가능성도 여전히 존재한다. 사실 성공이란 늘 좁은 문을 통과하는 것과 같아서 엄청난 노력을 요하는 만큼 운도 따라줘야 하는 등 요구 조건이 까다롭다. 따라서 잘 되는 것이 놀라운 일이고 잘 안 되는 것이 더 당연한 일일지도 모른다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 죽음의 공포가 낯선 것 배척하게 만든다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=65358</link>
             <guid>https://www.dongascience.com/news.php?idx=65358</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=64303</guid>
             <pubDate>Sat, 16 Mar 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하루에도 몇 번씩 'XX 때문에 스트레스 받는다'는 말을 자연스럽게 할 정도로 스트레스란 많은 사람들에게 있어 일상 깊숙이 들어와 있는 친숙한 개념이다. 하지만 그럼에도 생각보다 스트레스의 정체에 대해 정확히 알고 있는 사람은 많지 않다. 스트레스는 무엇일까? 원인일까 결과일까? 또 스트레스는 항상 피하는 것이 좋을까? 일상 생활 속 대화에서도, 학술지 속에서도 스트레스란 주로 부정적인 일들을 지칭하는 용도로 쓰인다. 또한 그 범위 또한 방대해서 아침에 일찍 일어나서 사람이 많은 지하철을 타야 하는 비교적 작은 일부터 입...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 거절에 대한 두려움이 큰 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=63738</link>
-            <guid>https://www.dongascience.com/news.php?idx=63738</guid>
-            <pubDate>Sat, 10 Feb 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[필자는 몇 해 전 병원에 입원한 적이 있었는데 병문안을 온 친구에게 번거롭게 먼 길 오게 해서 미안하다고 했다. 그냥 으레 아니라고 괜찮다고 할 줄 알았는데 친구의 반응은 그런 생각은 해본 적도 없다는 듯 “내가 오고 싶어서 내 발로 왔는데 왜 네가 미안해 해?”였다. 작은 희생에도 ‘내가 너를 위해 이런저런 희생을 했다는 사실을 기억하고 고마워해라’ 모드가 되는 것이 보통인데 그렇지 않은 친구가 조금 신기하기도 했다. 자발적으로 타인을 위하는 행동을 하고서도 되돌려 받길 기대하고 그게 안 될 경우 금방 서...]]></content:encoded>
         </item>
     </channel>
 </rss>
