@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 22:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 23:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0126/A0002997074_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '사회공포증'과 '자기중심적 시각'의 악순환 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=65706</link>
+            <guid>https://www.dongascience.com/news.php?idx=65706</guid>
+            <pubDate>Sat, 01 Jun 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[곰 인형을 가운데에 두고 여럿이 곰 인형을 둘러싸고 서 있는 상황을 떠올려 보자. 각 사람의 위치에 따라 어떤 사람에게는 곰 인형의 옆모습이, 누군가에게는 뒷모습이, 누군가에게는 정면이 보일 것이다. 이때 각 위치에 서 있는 사람들에게 곰 인형이 어떻게 보일지 맞혀보라고 한다. 그러면 4살 이전의 아이들이나 자폐스펙트럼 장애가 있는 사람들은 자신과는 다른 타인의 시선을 유추하는 데 어려움을 보인다. 자폐스펙트럼 장애가 있는 사람들은 자신이 서로 다른 위치에 서 있는 상황을 떠올려보게 하고 그 자신의 시선에서 보이는 곰 인형의...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '다 잘될거야' 낙관, 오히려 해롭다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=65572</link>
             <guid>https://www.dongascience.com/news.php?idx=65572</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=64433</guid>
             <pubDate>Sat, 23 Mar 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[주변 사람들과 대체로 사랑을 잘 주고 받을 수 있는지 아닌지 여부에 따라 인간관계의 양상이 크게 달라지곤 한다. 심리학자들은 사람들이 일반적으로 관계를 통해 맺는 애착의 형태를 크게 세 가지로 나눈다. 안정애착(secure attachment), 불안애착(anxious attachment), 회피애착(avoidant attachment)이 그들이다 (Fiske, 2009). ● 안정 VS 불안정 VS 회피애착 일반적으로 과거 양육자나 연인 등 자신에게 중요한 사람들과 거리낌없이 사랑을 주고받는 경험을 풍부하게 해 온 사람들이 그렇지 않은 사람들에 비해 이후에도 사랑을 주고 받음...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] '필요악' 스트레스 활용법도 중요하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=64303</link>
-            <guid>https://www.dongascience.com/news.php?idx=64303</guid>
-            <pubDate>Sat, 16 Mar 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하루에도 몇 번씩 'XX 때문에 스트레스 받는다'는 말을 자연스럽게 할 정도로 스트레스란 많은 사람들에게 있어 일상 깊숙이 들어와 있는 친숙한 개념이다. 하지만 그럼에도 생각보다 스트레스의 정체에 대해 정확히 알고 있는 사람은 많지 않다. 스트레스는 무엇일까? 원인일까 결과일까? 또 스트레스는 항상 피하는 것이 좋을까? 일상 생활 속 대화에서도, 학술지 속에서도 스트레스란 주로 부정적인 일들을 지칭하는 용도로 쓰인다. 또한 그 범위 또한 방대해서 아침에 일찍 일어나서 사람이 많은 지하철을 타야 하는 비교적 작은 일부터 입...]]></content:encoded>
         </item>
     </channel>
 </rss>
