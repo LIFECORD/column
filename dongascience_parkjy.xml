@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-06-07T22:15:13.906Z</updated>
+    <updated>2024-06-07T23:18:33.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 타인의 '장점' 발견하면 나도 행복해진다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=65816</id>
+        <link href="https://www.dongascience.com/news.php?idx=65816"/>
+        <updated>2024-06-08T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[함께 있으면 주변 사람들을 더 나은 존재로 만들어 주는 사람이 있다. 타인의 잘못이라면 티끌 같은 것도 크게 확대하는 사람들이 있는 반면 타인의 안 좋은 점보다는 좋은 점을 놓치지 않고 기억하고 격려하는 사람들이 있다. 이러한 사람들 옆에 있으면 실제로 더 나은 사람이 되는 현상이 존재한다. 평범한 돌덩이도 이를 대하는 사람이 누군가에 따라 아름다운 조각상이 되기도 한다는 점에서 ‘미켈란젤로 효과’라고 부르는 현상이다. 필자의 경우도 누군가와 대화하면 항상 생각해 보지 않았던 새로운 것에 대해 생각하게 된다든가...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] '사회공포증'과 '자기중심적 시각'의 악순환]]></title>
         <id>https://www.dongascience.com/news.php?idx=65706</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=64577"/>
         <updated>2024-03-30T08:00:00.000Z</updated>
         <content type="html"><![CDATA[여러분의 삶에서 가장 소중하고 뜻 깊었던 순간에는 무엇이 있는가. 삶에서 가장 뜻 깊었던 시간들을 정의할 때 사람들은 보통 즐거움과 행복 같은 긍정적 정서뿐 아니라 어떤 경험이 얼마나 큰 '의미감'을 주었는지를 함께 고려하는 모습을 보인다. 예를 들어 도박이나 마약 같이 큰 쾌락을 가져다 주지만 딱히 의미 있다고 보기는 어려운 경험들을 삶에서 잊지 못할 뜻 깊은 경험으로 꼽는 일은 많지 않다. 되려 즐거움만 있지는 않았지만 큰 의미가 있었던 사건들, 힘겨운 시간 끝에 새 삶을 살게 된 경험 같이 어느 정도의 기쁨과 의미감이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 혼자서도 행복한 '자족감'이 중요한 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=64433</id>
-        <link href="https://www.dongascience.com/news.php?idx=64433"/>
-        <updated>2024-03-23T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[주변 사람들과 대체로 사랑을 잘 주고 받을 수 있는지 아닌지 여부에 따라 인간관계의 양상이 크게 달라지곤 한다. 심리학자들은 사람들이 일반적으로 관계를 통해 맺는 애착의 형태를 크게 세 가지로 나눈다. 안정애착(secure attachment), 불안애착(anxious attachment), 회피애착(avoidant attachment)이 그들이다 (Fiske, 2009). ● 안정 VS 불안정 VS 회피애착 일반적으로 과거 양육자나 연인 등 자신에게 중요한 사람들과 거리낌없이 사랑을 주고받는 경험을 풍부하게 해 온 사람들이 그렇지 않은 사람들에 비해 이후에도 사랑을 주고 받음...]]></content>
     </entry>
 </feed>
