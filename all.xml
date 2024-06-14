@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 22:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 23:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0126/A0002997074_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 자신의 생각이 무조건 옳다고 주장하는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=65938</link>
+            <guid>https://www.dongascience.com/news.php?idx=65938</guid>
+            <pubDate>Sat, 15 Jun 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예전에 함께 일했던 사람 중에 자신이 보통 어떤 생각을 강하게 품게 되면 대체로 자신이 맞다고 이야기했던 사람이 있다. 자신이 생각이 대체로 옳다고 확신하는 정도가 강해서 충격 받았던 기억이 있다. 왜냐하면 그렇게 자신하기엔 인간은 다양한 자기 고양적 편향을 앓고 있기 때문이다. 우리는 대다수가 잘 되면 자기 탓 안 되면 남탓을 하는 귀인오류를 보이고 원래 그럴 줄 몰랐으면서 결과를 알고 난 후에야 자신은 처음부터 다 알고 있었다고 생각하는 후견지명 효과를 보이며 뭘 잘 모를 때 잘 알 때에 비해 더 자신감이 높은 더닝-크루거 효...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 타인의 '장점' 발견하면 나도 행복해진다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=65816</link>
             <guid>https://www.dongascience.com/news.php?idx=65816</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=64719</guid>
             <pubDate>Sat, 06 Apr 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[관계에서 상대가 속상할만한 행동을 잔뜩 해놓고서는 "너가 너무 예민한 거 아니야?"라고 하거나 분명히 존재하는 차별에 대해 얘기할 때 역시 요즘 세상에 그런 게 어디 있냐고 하는 등 상대가 자기 자신에 대해 의문을 갖게 만드는 사람들이 있다. 이렇게 특히 친밀한 관계에서 상대로 하여금 자신의 생각과 감정, 믿음에 대해 의문을 갖게 만들고 심한 경우 자신에 대해 미쳐있다거나 올바르게 생각할 능력이 저하되어 있다고 믿게 만드는 언행을 흔히 '가스라이팅'이라고 부른다. 언젠가 자기 자신이 현실감각이 떨어지고 비이성...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 함께 하는 성취가 더 뜻깊다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=64577</link>
-            <guid>https://www.dongascience.com/news.php?idx=64577</guid>
-            <pubDate>Sat, 30 Mar 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여러분의 삶에서 가장 소중하고 뜻 깊었던 순간에는 무엇이 있는가. 삶에서 가장 뜻 깊었던 시간들을 정의할 때 사람들은 보통 즐거움과 행복 같은 긍정적 정서뿐 아니라 어떤 경험이 얼마나 큰 '의미감'을 주었는지를 함께 고려하는 모습을 보인다. 예를 들어 도박이나 마약 같이 큰 쾌락을 가져다 주지만 딱히 의미 있다고 보기는 어려운 경험들을 삶에서 잊지 못할 뜻 깊은 경험으로 꼽는 일은 많지 않다. 되려 즐거움만 있지는 않았지만 큰 의미가 있었던 사건들, 힘겨운 시간 끝에 새 삶을 살게 된 경험 같이 어느 정도의 기쁨과 의미감이...]]></content:encoded>
         </item>
     </channel>
 </rss>
