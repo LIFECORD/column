@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 02:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <content:encoded><![CDATA[신문(新聞)에 대한 오랜 개념 중 하나는 ‘새로운 소식을 신속, 정확하게 널리 알리는’ 정기 간행물이다. 신문은 이미 아는 이야기, 즉 구문(舊聞)과 대비되는 속도의 매체라는 것이다. 지금은 사라진 호외(號外)도 그 연장선상에 있었다. “윤전기를 세웠다”는 표현이 긴급한 뉴스를 대신하던 시절 역시 비슷한 시기의 일이다. 이런 맥락 때문에 종이 신문과 인터넷 신문은 경쟁이 안 되고, 종이 신문은 사양 산업이라는 통념이 생겼다.정말, 신문 산업의 미래는 신속성의 문제일까. 주지하다시피 현실이 모두 뉴스가 되지는 않는다. 무엇이 현실이고 사실인가 자체가 논쟁거리다. 뉴스에는 ‘가짜 뉴스 vs 진짜 뉴스’가 아니라 다른 차원의 두 종류가 있다. 뉴스로 선택받은 현실과 그러지 않은 현실이 그것이다. 이처럼 가시화된 현실과 드러나지 않은 현실을 중심으로 생각한다면, 신속성은 중요한 특성이 아니게 된다. 빠른 보도는 신문 발생 초기, 1883년 한성순보(漢城旬報) 시절부터 불과 몇...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모욕한 이를 만난 국회의원이 보인 의외의 반응 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003042347</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003042347</guid>
+            <pubDate>Mon, 01 Jul 2024 03:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0628/A0003042347_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[판사의 일갈, 아이들 보호에 왜 아무도 나서지 않았나 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</guid>
@@ -358,14 +366,6 @@
             <pubDate>Thu, 28 Mar 2024 14:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004548_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한겨울 새벽 출근 힘들지 않냐 물었는데... 엄마의 쿨한 답변 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003001096</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003001096</guid>
-            <pubDate>Thu, 28 Mar 2024 14:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0208/A0003001096_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 혈압 높으면 외로움 등 '사회적 고통' 덜 느낀다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
