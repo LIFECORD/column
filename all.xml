@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 22:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 23:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004548_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 타인의 '다름'을 포용해야 행복하다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=66332</link>
+            <guid>https://www.dongascience.com/news.php?idx=66332</guid>
+            <pubDate>Sat, 06 Jul 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자기 주변에는 대부분이 성인이 되면 집과 차를 부모로부터 받기 때문에 사정이 어려운 사람을 거의 한 번도 직접 본 적이 없다고 이야기 한 사람을 본 적이 있다. 한 번도 본 적이 없기 때문에 생활고를 겪는 청년들이 많다는 이야기를 들으면 진짜인지 의구심이 든다고 했다. 또 모두가 부러워할 만한 학력의 소유자이지만 자신과 비슷하게 학력이 높은 사람들과 주로 어울리다 보니 자신의 이력이 한참 초라하다고 느끼는 사람도 있었다. "세상에 빈곤은 없다. 왜냐하면 내가 점심을 먹었으니까"라고 보는 오류, 또 자기 주변 사람들이 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 혈압 높으면 외로움 등 '사회적 고통' 덜 느낀다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=66212</link>
             <guid>https://www.dongascience.com/news.php?idx=66212</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=65109</guid>
             <pubDate>Sat, 27 Apr 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[건강에 가장 큰 영향을 미치는 심리적 지표를 하나 꼽아보라고 한다면 단연 '외로움'이다. 외로움이 각종 건강과 관련된 지표들, 건강하지 않은 생활습관과 적은 수면, 심혈관 질환 등에 걸릴 확률과 비교적 나쁜 예후 등과 관련을 보이며 결과적으로 높은 사망률과 연관되어 있다는 연구들이 다수 있었다. 외로움은 건강하지 않은 생활습관, 고칼로리 선호, 폭식, 적은 운동량, 높은 스트레스, 나쁜 스트레스 대처법과 관련을 보이며 '노화'를 촉진시키기도 한다. 사회적 동물인 인간은 외로움에 의해 사망에 이를 수도 있는 것이다. 물...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 친구가 적은 사람과 친해지려는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=64965</link>
-            <guid>https://www.dongascience.com/news.php?idx=64965</guid>
-            <pubDate>Sat, 20 Apr 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[친구가 많은 사람과 비교적 그렇지 않은 사람이 있을 때 사람들은 둘 중 누구와 친구가 되고 싶어할까. 이와 같은 질문을 하면 많은 이들이 '친구가 많은 사람'이라고 답한다. 친구가 많다는 것은 이 사람의 인성이 대체로 괜찮고 사회적으로 바람직한 특성들을 많이 가지고 있을 가능성을 내포하기 때문이다. 하지만 마카오대의 카우 시 연구팀에 의하면 현실은 이와 달라서 사람들은 친구가 '적은' 사람과 더 친구가 되고 싶어하는 경향을 보인다. 한 번씩 돌아가면서 짧은 시간 동안 여러 사람과 대화를 하는 스피드 데이팅을 하게 했...]]></content:encoded>
         </item>
     </channel>
 </rss>
