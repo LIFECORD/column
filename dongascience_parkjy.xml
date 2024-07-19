@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-07-19T22:17:13.462Z</updated>
+    <updated>2024-07-19T23:16:36.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 나는 '우주 먼지'인 동시에 하나의 '우주']]></title>
+        <id>https://www.dongascience.com/news.php?idx=66584</id>
+        <link href="https://www.dongascience.com/news.php?idx=66584"/>
+        <updated>2024-07-20T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[인간은 다 하나하나가 고유한 존재이지만 알고 보면 아무도 '특별'하지는 않다는 사실, 누가 더 잘났고 못났다는 둥 지금은 모두가 우러러 보는 기준들도 절대적이지 않고 시간과 장소에 따라 얼마든지 변화하기 때문이라는 것, 우리가 지금은 절대적으로 아름답다고 여기는 모든 것들 또한 다 언젠가는 빛을 바랄 것이라는 사실들이 두렵게 느껴졌던 때가 있다. 절대적으로 좋은 것이 정해져 있고 영원하다면 그것을 추구하는 한 손 쉽게 '정답'인 인생을 살 수 있다고 생각했기 때문이었다. 하지만 실제로는 누구도 완벽하지 않고 어...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] '나'라고 믿었던 모든 것, '착각'일 수도]]></title>
         <id>https://www.dongascience.com/news.php?idx=66449</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=65358"/>
         <updated>2024-05-11T08:00:00.000Z</updated>
         <content type="html"><![CDATA[위협, 특히 죽음에 대한 위협은 사람들로 하여금 새롭고 낯선 것을 배척하고 보수화되게 만드는 경향이 있다. 예를 들어 사람들에게 죽음과 관련된 생각을 하게 하면 그렇지 않았을 때에 비해 외국인, 낯선 문화, 기존의 질서를 부정하는 새로운 시도 등에 대해 부정적인 평가를 내리게 된다는 연구들이 있었다. 그런 반면 자신이 속한 집단과 국가, 문화, 사회 시스템에 대한 애착이 커지는 현상도 나타난다. 애리조나대의 심리학자 제프 그린버그 등은 이렇게 사람들이 자신보다 더 크고 오래 지속될 상징적인 무엇을 통해 죽음이라는 근원적 공포를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 나에게 따뜻해야 타인도 보듬는다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=65237</id>
-        <link href="https://www.dongascience.com/news.php?idx=65237"/>
-        <updated>2024-05-04T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[실패했거나 힘든 일이 생겼을 때 자기 자신에게 "또야? 너(내)가 이러니까 안 되지. 인생 망했네" 같은 악담을 쏟아부으며 이미 많은 상처를 더 늘려가는 사람이 있는 반면 "인간은 누구나 나름의 부족함을 가지고 있고 누구든지 넘어지기 마련이다. 내가 그 일로 인해 내가 상심이 크구나" 하고 힘들어하는 자신에게 따뜻한 위로를 보낼 줄 아는 사람이 있다. 후자의 사람들을 스스로에게 너그러운 자기 자비(self-compassion)가 높은 사람이라고 부른다. 연구들에 의하면 힘들 때조차 스스로에게 가혹하게 구는 사람들보다 힘...]]></content>
     </entry>
 </feed>
