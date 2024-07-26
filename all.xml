@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 22:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 23:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '데이트폭력'으로 이어지는 '가스라이팅' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=66707</link>
+            <guid>https://www.dongascience.com/news.php?idx=66707</guid>
+            <pubDate>Sat, 27 Jul 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하루가 멀다 하고 연인 관계에서 결별을 말했다고 해서 폭력을 행사하거나 심지어는 살인까지 벌어지고 있다. 요즘은 십대에서도 친밀한 관계에서의 폭력을 어렵지 않게 볼 수 있다. 피해자에게 조심하라고 하는 것이 아니라 가해자에게 가해하지 말라고 해야 하지만 그래도 끔찍한 일이 벌어질 수 있는 만큼, 또 수법이 점점 교묘해지는 만큼 위험 신호들을 아는 것은 도움이 될 수 있다. 친밀한 관계에서의 폭력이 일어나고 있음을 의미하는 신호들에는 어떤 것들이 있을까. 우선 "너는 어떻게 제대로 하는 게 하나도 없냐"는 식으로 자존...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 나는 '우주 먼지'인 동시에 하나의 '우주' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=66584</link>
             <guid>https://www.dongascience.com/news.php?idx=66584</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=65572</guid>
             <pubDate>Sat, 25 May 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[불안함이 찾아올 때 "다 잘될 거야"라고 생각하며 마음을 다스려본다. 하지만 마음 한 켠에는 '실패하면, 잘 안 되면 어쩌지' 하는 불안함이 여전히 남아있다. 미래는 여전히 알 수 없고 일의 결과는 내가 통제할 수 없기 때문이다. 아무리 잘 될 거라고 생각해 봐도 잘 될 가능성만큼이나 잘 안 될 가능성도 여전히 존재한다. 사실 성공이란 늘 좁은 문을 통과하는 것과 같아서 엄청난 노력을 요하는 만큼 운도 따라줘야 하는 등 요구 조건이 까다롭다. 따라서 잘 되는 것이 놀라운 일이고 잘 안 되는 것이 더 당연한 일일지도 모른다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 죽음의 공포가 낯선 것 배척하게 만든다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=65358</link>
-            <guid>https://www.dongascience.com/news.php?idx=65358</guid>
-            <pubDate>Sat, 11 May 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[위협, 특히 죽음에 대한 위협은 사람들로 하여금 새롭고 낯선 것을 배척하고 보수화되게 만드는 경향이 있다. 예를 들어 사람들에게 죽음과 관련된 생각을 하게 하면 그렇지 않았을 때에 비해 외국인, 낯선 문화, 기존의 질서를 부정하는 새로운 시도 등에 대해 부정적인 평가를 내리게 된다는 연구들이 있었다. 그런 반면 자신이 속한 집단과 국가, 문화, 사회 시스템에 대한 애착이 커지는 현상도 나타난다. 애리조나대의 심리학자 제프 그린버그 등은 이렇게 사람들이 자신보다 더 크고 오래 지속될 상징적인 무엇을 통해 죽음이라는 근원적 공포를...]]></content:encoded>
         </item>
     </channel>
 </rss>
