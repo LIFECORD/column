@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-08-16T22:17:01.003Z</updated>
+    <updated>2024-08-16T23:19:09.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] '나'를 이해하는 사람과의 관계는 '나의 일부'가 된다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=67012</id>
+        <link href="https://www.dongascience.com/news.php?idx=67012"/>
+        <updated>2024-08-17T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[외로움의 실제 모습은 우리가 상상하는 것과는 꽤 다르다. 예를 들어 친구가 많고 항상 사람들에게 둘러싸여 있는 사람이 외롭지 않을 것 같지만 실제로 관계의 '양'은 외로움과 큰 상관이 없다. 이보다는 관계의 '질'이 더 중요해서 한 두 명일지라도 내가 믿고 의지할 수 있는 사람이 있는지 또 나를 잘 이해해주는 사람이 있는지 여부에 따라 외로움을 느끼는 정도가 크게 달라진다. 외로움을 '사회적 배고픔'이라고 보는 시선에 따르면 적어도 우리가 존재론적인 수준에서 갈구하는 관계란 서로 깊이 '이해하는 관계'...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 불필요한 관심사 '가지치기']]></title>
         <id>https://www.dongascience.com/news.php?idx=66813</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=65816"/>
         <updated>2024-06-08T08:00:00.000Z</updated>
         <content type="html"><![CDATA[함께 있으면 주변 사람들을 더 나은 존재로 만들어 주는 사람이 있다. 타인의 잘못이라면 티끌 같은 것도 크게 확대하는 사람들이 있는 반면 타인의 안 좋은 점보다는 좋은 점을 놓치지 않고 기억하고 격려하는 사람들이 있다. 이러한 사람들 옆에 있으면 실제로 더 나은 사람이 되는 현상이 존재한다. 평범한 돌덩이도 이를 대하는 사람이 누군가에 따라 아름다운 조각상이 되기도 한다는 점에서 ‘미켈란젤로 효과’라고 부르는 현상이다. 필자의 경우도 누군가와 대화하면 항상 생각해 보지 않았던 새로운 것에 대해 생각하게 된다든가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '사회공포증'과 '자기중심적 시각'의 악순환]]></title>
-        <id>https://www.dongascience.com/news.php?idx=65706</id>
-        <link href="https://www.dongascience.com/news.php?idx=65706"/>
-        <updated>2024-06-01T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[곰 인형을 가운데에 두고 여럿이 곰 인형을 둘러싸고 서 있는 상황을 떠올려 보자. 각 사람의 위치에 따라 어떤 사람에게는 곰 인형의 옆모습이, 누군가에게는 뒷모습이, 누군가에게는 정면이 보일 것이다. 이때 각 위치에 서 있는 사람들에게 곰 인형이 어떻게 보일지 맞혀보라고 한다. 그러면 4살 이전의 아이들이나 자폐스펙트럼 장애가 있는 사람들은 자신과는 다른 타인의 시선을 유추하는 데 어려움을 보인다. 자폐스펙트럼 장애가 있는 사람들은 자신이 서로 다른 위치에 서 있는 상황을 떠올려보게 하고 그 자신의 시선에서 보이는 곰 인형의...]]></content>
     </entry>
 </feed>
