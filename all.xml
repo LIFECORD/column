@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 22:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 23:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 소속 욕구가 강할수록 상처받는다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=67123</link>
+            <guid>https://www.dongascience.com/news.php?idx=67123</guid>
+            <pubDate>Sat, 24 Aug 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[● 어떤 사람이 갈등을 잘 풀어갈까 어떤 관계에서든 아무리 좋은 사람을 만나더라도 적어도 한 번 이상 부딪힐 일이 반드시 생기기 때문에 인간관계에서는 어떤 사람을 만나느냐 하는 '선택'의 문제 못지않게 어떻게 관계를 '유지'해 나갈 것인가가 중요한 문제가 된다. 비슷한 갈등을 마주하게 되어도 어떤 사람들은 인간관계에서 갈등은 자연스러운 일이며 잘 얘기해서 풀어나가면 된다고 담담하게 받아들이는 반면 어떤 사람은 "어떻게 이런 일이!"라며 갈등은 결코 존재해선 안 되는 양 호들갑을 떨고 상대의 가벼운 실...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '나'를 이해하는 사람과의 관계는 '나의 일부'가 된다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=67012</link>
             <guid>https://www.dongascience.com/news.php?idx=67012</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=65938</guid>
             <pubDate>Sat, 15 Jun 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[예전에 함께 일했던 사람 중에 자신이 보통 어떤 생각을 강하게 품게 되면 대체로 자신이 맞다고 이야기했던 사람이 있다. 자신이 생각이 대체로 옳다고 확신하는 정도가 강해서 충격 받았던 기억이 있다. 왜냐하면 그렇게 자신하기엔 인간은 다양한 자기 고양적 편향을 앓고 있기 때문이다. 우리는 대다수가 잘 되면 자기 탓 안 되면 남탓을 하는 귀인오류를 보이고 원래 그럴 줄 몰랐으면서 결과를 알고 난 후에야 자신은 처음부터 다 알고 있었다고 생각하는 후견지명 효과를 보이며 뭘 잘 모를 때 잘 알 때에 비해 더 자신감이 높은 더닝-크루거 효...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 타인의 '장점' 발견하면 나도 행복해진다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=65816</link>
-            <guid>https://www.dongascience.com/news.php?idx=65816</guid>
-            <pubDate>Sat, 08 Jun 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[함께 있으면 주변 사람들을 더 나은 존재로 만들어 주는 사람이 있다. 타인의 잘못이라면 티끌 같은 것도 크게 확대하는 사람들이 있는 반면 타인의 안 좋은 점보다는 좋은 점을 놓치지 않고 기억하고 격려하는 사람들이 있다. 이러한 사람들 옆에 있으면 실제로 더 나은 사람이 되는 현상이 존재한다. 평범한 돌덩이도 이를 대하는 사람이 누군가에 따라 아름다운 조각상이 되기도 한다는 점에서 ‘미켈란젤로 효과’라고 부르는 현상이다. 필자의 경우도 누군가와 대화하면 항상 생각해 보지 않았던 새로운 것에 대해 생각하게 된다든가...]]></content:encoded>
         </item>
     </channel>
 </rss>
