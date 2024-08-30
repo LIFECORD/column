@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 22:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 23:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '나'는 일을 미루는 사람일까 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=67239</link>
+            <guid>https://www.dongascience.com/news.php?idx=67239</guid>
+            <pubDate>Sat, 31 Aug 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 사람들은 미루기 천재다. 금방 할 수 있을 거라는 둥 다양한 이유를 붙여가며 마지막까지 미루다가 데드라인 직전에 고통을 맛보며 심지어 우는 일을 많이 겪어봤을 것이다. 필자 역시 미루기에 대한 원고를 미루면서 작성했음을 밝힌다. 뻔히 더 고통받을 것을 알면서 우리는 왜 자꾸 미루는 걸까. 어떻게 하면 일을 미루지 않을 수 있을까. 우선 예상할 수 있겠지만 일이 지루하거나, 전혀 중요하게 여겨지지 않거나, 너무 어렵고 힘든 일이 그 자체로 부정적인 특성을 가지고 있을 때 미루기가 나타난다. 주로 하기 싫은 일을 미룬다는 것이다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 소속 욕구가 강할수록 상처받는다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=67123</link>
             <guid>https://www.dongascience.com/news.php?idx=67123</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=66074</guid>
             <pubDate>Sat, 22 Jun 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나를 사랑해야 다른 사람도 사랑할 수 있다고들 이야기한다. 일리있는 이야기다. 하지만 자신에 대한 사랑이 '지나칠' 때는 어떨까. 자신을 향한 지나친 사랑의 대명사인 나르키소스의 신화에서 이름을 가져온 '나르시시스트(narcissist)'는 다음과 같은 특징을 보인다. ① 자신은 보통사람들과 다르며 다른 사람들보다 더 똑똑하고 매력적이며 여러 면에서 우월하다고 생각한다. 자신에 대해 매우 긍정적인 인식을 가지고 있다. ② 스스로를 대단하다고 생각하기 때문에 그만한 '대접'을 받을 자격이 있다고 생각한다. ③ 비슷...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 자신의 생각이 무조건 옳다고 주장하는 사람들 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=65938</link>
-            <guid>https://www.dongascience.com/news.php?idx=65938</guid>
-            <pubDate>Sat, 15 Jun 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[예전에 함께 일했던 사람 중에 자신이 보통 어떤 생각을 강하게 품게 되면 대체로 자신이 맞다고 이야기했던 사람이 있다. 자신이 생각이 대체로 옳다고 확신하는 정도가 강해서 충격 받았던 기억이 있다. 왜냐하면 그렇게 자신하기엔 인간은 다양한 자기 고양적 편향을 앓고 있기 때문이다. 우리는 대다수가 잘 되면 자기 탓 안 되면 남탓을 하는 귀인오류를 보이고 원래 그럴 줄 몰랐으면서 결과를 알고 난 후에야 자신은 처음부터 다 알고 있었다고 생각하는 후견지명 효과를 보이며 뭘 잘 모를 때 잘 알 때에 비해 더 자신감이 높은 더닝-크루거 효...]]></content:encoded>
         </item>
     </channel>
 </rss>
