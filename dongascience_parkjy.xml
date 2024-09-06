@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-09-06T22:17:35.680Z</updated>
+    <updated>2024-09-06T23:17:48.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 내적갈등 겪으면 남을 이해하게 된다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=67348</id>
+        <link href="https://www.dongascience.com/news.php?idx=67348"/>
+        <updated>2024-09-07T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[문학작품을 읽으면 다양한 등장인물들 간의 갈등이나 한 등장인물의 복잡한 내적 갈등을 간접적으로 접하게 되고 이것이 세상을 바라보는 시야를 넓혀준다는 이야기를 들은 적이 있다. 세상에는 다양한 인간군상이 존재하고 또 한 사람 안에서도 다양한 생각과 느낌이 충돌하고 있음을 알게 되면 타인과 세상을 더 잘 이해하게 된다는 뜻으로 받아들였다. 흔히 인간은 서로 양립할 수 없는 꿈을 함께 꾸는 모순된 존재라고 이야기하지만 멀리 갈 것 없이 일상생활 속에서도 많은 목표와 가치관들이 서로 충돌하며 '나'라는 사람을 만들어 간다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] '나'는 일을 미루는 사람일까]]></title>
         <id>https://www.dongascience.com/news.php?idx=67239</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=66212"/>
         <updated>2024-06-29T08:00:00.000Z</updated>
         <content type="html"><![CDATA[사회적 고통(social pain), 사람들로부터 거절 당하고 소외되는 아픔이 신체적 고통과 연관되어 있다는 사실은 잘 알려져 있다. 신체적 고통에 예민한 사람이 사회적 고통에도 예민한 현상이 관찰되는가 하면 신체적 고통을 줄여주는 진통제가 외로움 같은 사회적 고통도 줄여준다는 발견들이 있었다. 또한 신체적 고통에 관여하는 뇌 부위와 사회적 고통에 관여하는 뇌 부위가 상당부분 겹쳐져 있음이 밝혀졌다(Eisenberger, 2015). 최근에는 '혈압'이 통증을 느끼는 정도와 관련되어 있고 나아가 사회적 고통과도 관련을 보인다는 발견들이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 첫인상이 완벽한 사람을 경계해야 하는 이유]]></title>
-        <id>https://www.dongascience.com/news.php?idx=66074</id>
-        <link href="https://www.dongascience.com/news.php?idx=66074"/>
-        <updated>2024-06-22T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[나를 사랑해야 다른 사람도 사랑할 수 있다고들 이야기한다. 일리있는 이야기다. 하지만 자신에 대한 사랑이 '지나칠' 때는 어떨까. 자신을 향한 지나친 사랑의 대명사인 나르키소스의 신화에서 이름을 가져온 '나르시시스트(narcissist)'는 다음과 같은 특징을 보인다. ① 자신은 보통사람들과 다르며 다른 사람들보다 더 똑똑하고 매력적이며 여러 면에서 우월하다고 생각한다. 자신에 대해 매우 긍정적인 인식을 가지고 있다. ② 스스로를 대단하다고 생각하기 때문에 그만한 '대접'을 받을 자격이 있다고 생각한다. ③ 비슷...]]></content>
     </entry>
 </feed>
