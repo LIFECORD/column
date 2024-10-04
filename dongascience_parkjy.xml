@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2024-10-04T22:17:01.411Z</updated>
+    <updated>2024-10-04T23:17:38.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] '셀프 도덕적 판단'의 위험성]]></title>
+        <id>https://www.dongascience.com/news.php?idx=67749</id>
+        <link href="https://www.dongascience.com/news.php?idx=67749"/>
+        <updated>2024-10-05T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[요즘 심리학계에서 뜨거운 이슈라면 어떤 이슈에 '도덕/비도덕적'이라는 프레임을 씌우는 현상이 그 중 하나다. 예를 들어 성소수자 인권, 임신중절 같은 사실은 그냥 내가 낯설고 싫기 때문에 반대하는 이슈에 대해 성소수자 인권을 챙기기 시작하고, 임신중절을 허용하면 아이들이 동성애자가 되고, 여성들이 임신중절을 마구 하게 되면서 나라와 사회가 무너지기 때문에 반대한다고 주장하는 식이다. 한편 이렇게 환경이 사람의 행동에 미치는 영향을 과하게 인지하면서 동시에 '총기' 같은 무서운 물건이 아무 제약 없이 돌아다니는...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 육아 하는 부모, 죄책감 줄여야]]></title>
         <id>https://www.dongascience.com/news.php?idx=67649</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=66584"/>
         <updated>2024-07-20T08:00:00.000Z</updated>
         <content type="html"><![CDATA[인간은 다 하나하나가 고유한 존재이지만 알고 보면 아무도 '특별'하지는 않다는 사실, 누가 더 잘났고 못났다는 둥 지금은 모두가 우러러 보는 기준들도 절대적이지 않고 시간과 장소에 따라 얼마든지 변화하기 때문이라는 것, 우리가 지금은 절대적으로 아름답다고 여기는 모든 것들 또한 다 언젠가는 빛을 바랄 것이라는 사실들이 두렵게 느껴졌던 때가 있다. 절대적으로 좋은 것이 정해져 있고 영원하다면 그것을 추구하는 한 손 쉽게 '정답'인 인생을 살 수 있다고 생각했기 때문이었다. 하지만 실제로는 누구도 완벽하지 않고 어...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '나'라고 믿었던 모든 것, '착각'일 수도]]></title>
-        <id>https://www.dongascience.com/news.php?idx=66449</id>
-        <link href="https://www.dongascience.com/news.php?idx=66449"/>
-        <updated>2024-07-13T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[사람들이 자신과 다른 사람을 부정적으로 바라보는 데에는 자신이 가지지 않은 특성을 '나쁘다'고 보는 것이 한 몫 할지도 모르겠다. 앤디 바네쉬 뉴질랜드 캔터베리대의 연구자는 사람들에게 성격 테스트를 하게 하고 그 결과 당신은 '이상주의자' 또는 이상주의자이기보다는 '의지가 강한 사람'이라는 피드백을 주었다. 그러자 이상주의자라는 평가를 받은 사람은 이상주의자인 것이 더 중요하다고 평가한 반면 자신이 의지가 강한 사람이라는 피드백을 들은 사람은 이상주의보다 강한 의지를 가지고 있는 것이 더 중요하다는...]]></content>
     </entry>
 </feed>
