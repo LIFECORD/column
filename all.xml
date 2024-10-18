@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 22:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 23:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0223/A0003004539_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 이 또한 지나갈 것…비극적 낙관주의 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=67992</link>
+            <guid>https://www.dongascience.com/news.php?idx=67992</guid>
+            <pubDate>Sat, 19 Oct 2024 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[살면서 누구나 하나씩은 생기기 마련인 지병과 벌써 10여년을 함께 지내고 있다. 꽤나 오랜 시간이 지나기도 했고 또 어차피 생로병사의 고통은 인간의 숙명이니까 크게 동요되는 일 없이 마음만큼은 무던하게 잘 지내고 있다. 약도 잘 챙겨먹고 있고 쓸데없이 "나는 약 같은 거 없이도 혼자 병을 이겨낼 수 있다!" 같은 객기는 잘 부리지 않는 편이다. 어차피 그런 믿음은 통하지 않는다는 걸 알고 있고 불필요한 고통은 최대한 줄이고 싶기 때문에 밥 먹고 매일 병 고치는 일만 생각하는 전문가들의 판단을 최대한 존중하고 있다. 생각해보...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 고통은 '주관적'…홀로코스트에서 살아남은 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=67873</link>
             <guid>https://www.dongascience.com/news.php?idx=67873</guid>
@@ -429,13 +436,6 @@
             <guid>https://www.dongascience.com/news.php?idx=66813</guid>
             <pubDate>Sat, 03 Aug 2024 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA["우리는 무엇이 정말 중요하고 중요하지 않은지, 무엇에 관심을 두고 무엇에 대해 이야기 해야 할지, 반대로 어떤 것들에 대해 관심을 줄이고 이야기하지 말아야 할지를 잘 따져봐야 해." 몇 해 전 들었지만 시간이 갈수록 고개를 끄덕이게 되는 조언이다. 예를 들어 우리가 평소에 불평불만인 것들, 친구들 또는 가족들과 하루 종일 이야기하는 대화의 주제들, 어떤 유명인이 무슨 일을 했다더라 또 요즘 무엇이 유행이더라 하는 정보들, 카더라 식의 별다른 근거 없는 주장들, 주변에서 흔히 들을 수 있고 쉽게 귀를 기울이게 되는 흥미로...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] '데이트폭력'으로 이어지는 '가스라이팅' (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=66707</link>
-            <guid>https://www.dongascience.com/news.php?idx=66707</guid>
-            <pubDate>Sat, 27 Jul 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[하루가 멀다 하고 연인 관계에서 결별을 말했다고 해서 폭력을 행사하거나 심지어는 살인까지 벌어지고 있다. 요즘은 십대에서도 친밀한 관계에서의 폭력을 어렵지 않게 볼 수 있다. 피해자에게 조심하라고 하는 것이 아니라 가해자에게 가해하지 말라고 해야 하지만 그래도 끔찍한 일이 벌어질 수 있는 만큼, 또 수법이 점점 교묘해지는 만큼 위험 신호들을 아는 것은 도움이 될 수 있다. 친밀한 관계에서의 폭력이 일어나고 있음을 의미하는 신호들에는 어떤 것들이 있을까. 우선 "너는 어떻게 제대로 하는 게 하나도 없냐"는 식으로 자존...]]></content:encoded>
         </item>
     </channel>
 </rss>
