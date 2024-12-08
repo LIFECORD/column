@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 06:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 07:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,6 +768,14 @@
                                     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[진짜 트라우마가 뭔지 알게 될 거다, 오래 안 걸린다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003086483</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003086483</guid>
+            <pubDate>Sun, 08 Dec 2024 07:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-nom">연재</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/1208/A0003086483_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤 정부의 가장 충격적인 인사 그 후... 들리는 소식이 무섭다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003082063</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003082063</guid>
@@ -838,14 +846,6 @@
             <pubDate>Mon, 25 Nov 2024 10:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0322/A0003013107_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 성소수자 청소년의 죽음... 극우 정치인들이 한 짓을 보라 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003008570</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003008570</guid>
-            <pubDate>Mon, 25 Nov 2024 10:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0308/A0003008570_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 계엄군에 맞서는 힘은 어디서 나올까 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
