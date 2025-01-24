@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2025-01-24T22:18:17.951Z</updated>
+    <updated>2025-01-24T23:16:17.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] '내가 틀릴 때' 더 큰 희열 얻는 '지적 겸손']]></title>
+        <id>https://www.dongascience.com/news.php?idx=69747</id>
+        <link href="https://www.dongascience.com/news.php?idx=69747"/>
+        <updated>2025-01-25T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[언젠가 사회적 이슈에 대한 생각이 맞지 않아서 친구와 티격태격 했던 때가 있다. 그 때 대화를 마무리하며 친구가 “너 같이 생각하는 사람도 사회에 필요할 거야”라고 했었는데 그 친구는 그냥 지나가면서 한 말이겠지만 아직도 종종 생각나곤 한다. 서로 의견이 맞지는 않았지만 ‘다를 수도 있지’에서 나아가서 ‘(어쩌면 내가 잘 모를 뿐)네 의견도 일리가 있을 것’이라고 이야기해 준 것 같아서 기억에 남아 있다. 지금도 생각이 서로 다를 때가 있지만 오래도록 좋은 관계를 유지하고 있다. 보통 의견이 부...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 차별적 판단과 편견을 줄이려면]]></title>
         <id>https://www.dongascience.com/news.php?idx=69603</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=68382"/>
         <updated>2024-11-09T08:00:00.000Z</updated>
         <content type="html"><![CDATA[자신이 겪었던 것과 비슷한 어려움을 겪는 사람들을 보면 그 힘듦을 알기에 더 마음이 가고 돕고 싶은 마음이 생길 것 같다. 물론 그런 경우들이 존재하지만 안타깝게도 그 반대의 경우도 존재한다는 것이 문제다. 사람들에게 자신이 과거에 겪었지만 이겨낸 어려움(예를 들어 금연, 취업하기)을 현재 겪고 있는 사람들을 보여주면 측은지심보다 경멸하는 마음이 더 크게 나타난다는 연구 결과가 있었다. 한국에서도 군대 갔다온 사람들이 지금 군인들을 보며 저건 힘든 것도 아니라고 어려움을 평가절하 하는 일이나 어려운 환경 속에서도 자수성가한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] '나의 행복'에 주변 사람들 안위도 포함된다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=68269</id>
-        <link href="https://www.dongascience.com/news.php?idx=68269"/>
-        <updated>2024-11-02T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[나의 어려움 뿐 아니라 타인의 어려움 또한 인지하고 측은지심을 느끼는 것이야말로 사람을 사람답게 만드는 것이라는 이야기를 흔히 들을 수 있다. 이것이 옳고 그르다는 도덕적인 판단을 떠나서 이는 과학적으로도 사람을 꽤 정확하게 표현하는 이야기라는 생각이 든다. 심리학자들을 포함해서 많은 사람들이 인간을 이기적인 존재로 바라보곤 한다. 보통 사람들은 다른 사람의 안위보다 자기 자신의 안위를 가장 중시한다는 의미로 쓰인다. 하지만 이것이 완벽하게 성립하기 조금 어려운 이유가 있으니 바로 사회적 존재인 우리들에게는 ‘자...]]></content>
     </entry>
 </feed>
