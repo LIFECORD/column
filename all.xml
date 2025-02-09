@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 21:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 22:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,6 +768,14 @@
                                     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어느 장관의 끔찍한 예언...'국가 체제 파괴'로 나아간 국힘 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003101795</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003101795</guid>
+            <pubDate>Sun, 09 Feb 2025 22:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2025/0207/A0003101795_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소름 돋는 나경원의 말하기 방식...국힘이 심상치 않다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003092218</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003092218</guid>
@@ -838,14 +846,6 @@
             <pubDate>Mon, 13 Jan 2025 05:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0419/A0003023014_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['작은 정당'에 표를 주는 것이 마음에 걸리시나요? (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003018208</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003018208</guid>
-            <pubDate>Mon, 13 Jan 2025 05:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0405/A0003018208_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 서툴러도 실패해도 아름다운 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
