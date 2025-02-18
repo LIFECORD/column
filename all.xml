@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -578,6 +578,25 @@
                                     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[의학은 사회과학이다 (경향신문 ─ 정희진의 낯선 사이)]]></title>
+            <link>https://www.khan.co.kr/article/202502182136015</link>
+            <guid>https://www.khan.co.kr/article/202502182136015</guid>
+            <pubDate>Tue, 18 Feb 2025 15:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumb">
+                                        <picture>
+                                            <source type="image/webp" srcset="https://img.khan.co.kr/news/c/190x140/2025/02/18/l_2025021901000519600055202.webp" loading="lazy">
+                                            <img src="https://img.khan.co.kr/news/c/190x140/2025/02/18/l_2025021901000519600055202.jpg" alt="[정희진의 낯선 사이]의학은 사회과학이다" loading="lazy">
+                                        </picture>
+                                    </div>
+                                    <div class="txt">
+                                        <h2 class="tit">
+                                            <a href="https://www.khan.co.kr/article/202502182136015" onclick="sendGAAttrEvent(event);" title="[정희진의 낯선 사이]의학은 사회과학이다" ep_event_page="pc_list_common" ep_event_area="정희진의 낯선 사이_기사" ep_event_label="[정희진의 낯선 사이]의학은 사회과학이다">의학은 사회과학이다</a>
+                                        </h2>
+                                        <span class="byline">2시간 전</span>
+                                        <span class="lead line_clamp2">윤석열 정부의 의료 정책은 의대 정원 2000명 증원으로 상징되는 ‘대란’ 이미지가 전부다. 그러나 나를 포함한 대다수 시민들은 이 문제의 근본 성격을 잘 모르고 있다. “의료는 사회 문제”라고 말하기 전에, 이미 사회가 ‘붕괴’된 것일까. 윤석열 정부의 정책으로 불과 1년 만에 의료 체계도 사회도 붕괴된 느낌이다. 의대 정원 논란은 이미 많은 이의 영혼과 몸을 파괴했지만, 이후 어떤 형태로 더 큰 후유증이 드러날지 겁이 난다.한국보건사회연구원과 서울대 사회복지연구소의 ‘2024년 한국복지패널 조사·분석 보고서’에 따르면 응답자들은 최근 1년간 가족 간 근심을 초래한 요인으로 ‘가구원의 건강’을 가장 많이 꼽았다. ‘특별한 어려움이 없다’고 답한 가구(53.81%)를 제외한 나머지 가구를 대상으로 1순위 응답 항목을 살펴보면, 54.85%가 ‘가구원의 건강’을 가족 갈등의 가장 큰 원인으로 꼽았다.부채 문제 같은 ‘경제적 어려움’이 18.19%로 뒤를 이었고, ...</span>
+                                    </div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보수의 사상 (경향신문 ─ 정희진의 낯선 사이)]]></title>
             <link>https://www.khan.co.kr/article/202501142027005</link>
             <guid>https://www.khan.co.kr/article/202501142027005</guid>
@@ -746,25 +765,6 @@
                                         </h2>
                                         <span class="byline">2024.05.28 20:41</span>
                                         <span class="lead line_clamp2">최근 출간된 한겨레 고경태 기자의 저서 &lt;본 헌터(Bone Hunter) - 어느 인류학자의 한국전쟁 유골 추적기&gt;를 읽고 그 여진에서 자유롭지 않은 시간을 보내고 있다. 지은이와 책의 주인공 박선주 충북대 명예교수의 노동과 지적 호기심, 인간에 대한 예의야말로 ‘진정한’ 역사의식이라는 생각이 들었다. 한국전쟁은 전 세계 26개국이 참전한 ‘3차’ 세계대전이자 100만명의 민간인 사상자를 낳은 내전이었다. 그렇다면 그 유해들은 어디에 있을까. 미국은 한국전쟁 당시 전사한 자국군의 시신을 즉시 수습해 본국으로 보냈다. 반면 지난 70여년간 한국 정부는 발굴 개념조차 없거나 색깔론을 운운해왔다. 우리는 전쟁 희생자의 유해 위에 세워진 건물, 도로, 각종 인프라에서 살고 있다. 충남 아산 인근 지역을 주로 다룬 책의 첫 발굴 에피소드 제목은 “여긴 땅 파면 다 시체야”다.‘참전 용사(勇士)’라는 단어는 군인만 전쟁을 치르는 듯한 인상을 준다. 많은 ...</span>
-                                    </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[의정부시의 ‘기지촌’에 대한 인식 (경향신문 ─ 정희진의 낯선 사이)]]></title>
-            <link>https://www.khan.co.kr/article/202404302055015</link>
-            <guid>https://www.khan.co.kr/article/202404302055015</guid>
-            <pubDate>Tue, 19 Nov 2024 03:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumb">
-                                        <picture>
-                                            <source type="image/webp" srcset="https://img.khan.co.kr/news/c/190x140/2024/04/30/l_2024050101000006900090972.webp" loading="lazy">
-                                            <img src="https://img.khan.co.kr/news/c/190x140/2024/04/30/l_2024050101000006900090972.jpg" alt="[정희진의 낯선 사이]의정부시의 ‘기지촌’에 대한 인식" loading="lazy">
-                                        </picture>
-                                    </div>
-                                    <div class="txt">
-                                        <h2 class="tit">
-                                            <a href="https://www.khan.co.kr/article/202404302055015" onclick="sendGAAttrEvent(event);" title="[정희진의 낯선 사이]의정부시의 ‘기지촌’에 대한 인식" ep_event_page="pc_list_common" ep_event_area="정희진의 낯선 사이_기사" ep_event_label="[정희진의 낯선 사이]의정부시의 ‘기지촌’에 대한 인식">의정부시의 ‘기지촌’에 대한 인식</a>
-                                        </h2>
-                                        <span class="byline">2024.04.30 20:55</span>
-                                        <span class="lead line_clamp2">2022년 대통령 직속 국가균형발전위원회(위원장 김사열)는 취약지역 개조사업 신규 대상지 68개소를 선정했다. 이른바 ‘새뜰마을’ 사업이다. 새뜰마을 사업의 취지는 빈집·노후주택 정비, 슬레이트 지붕 개량, 상·하수도 정비 등을 통해 생활여건을 개선하고 주민 공동체 활성화를 지원하는 데 있다고 한다. 노인 돌봄과 건강관리 프로그램 등 휴먼 케어(human care)와 주민 역량 강화사업도 포함되어 있다.뜻은 좋아 보인다. 그러나 이 사업이 1970년대 ‘새마을운동의 재현’인지 돌봄 사회가 추구하는 ‘마을 만들기’인지 여부는, 사업 자체가 아니라 추진 과정에서 드러날 것이다. 마을 만들기라면, 국가가 그 대상을 지정하고 지원 내용이 건설사업 위주여서는 안 될 것이다. 그렇게 되면 마을 만들기가 아니라 마을 파괴다. 또한 문화유산이 생활여건 개조사업이라는 명분으로 검토의 여지도 없이 사라질 가능성이 크다.선정 지역 중, 우려를 넘어 문화유산 삭제가 목적으로 보이는 ...</span>
                                     </div>]]></content:encoded>
         </item>
         <item>
