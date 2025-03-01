@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2025-02-28T23:16:42.621Z</updated>
+    <updated>2025-03-01T01:07:49.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 가짜뉴스를 피하는 방법]]></title>
+        <id>https://www.dongascience.com/news.php?idx=70313</id>
+        <link href="https://www.dongascience.com/news.php?idx=70313"/>
+        <updated>2025-03-01T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[소셜미디어를 통해 퍼지는 가짜 뉴스들 때문에 전세계가 몸살을 앓고 있다. 페이스북, X, 유튜브 등 다양한 플랫폼들이 이러한 가짜뉴스를 퍼트리는 데 일조하고 있다는 비판을 받으면서 팩트 체킹의 중요성이 다시금 주목 받고 있다. 어떤 자극적인 내용의 글이나 영상이 사실이 아닐지도 모른다는 경고들은 과연 효과가 있을까. 가짜 뉴스에도 다양한 형태가 있다. 예를 들어 지구가 평평하다거나 날아다니는 스파게티 괴물이 있다는 다소 허무맹랑한 이야기들도 있지만 이보다 더 위험한 것들은 사실과 거짓을 교묘하게 섞은 이야기들이다. 특히 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 영원한 우울감·불행은 없다]]></title>
         <id>https://www.dongascience.com/news.php?idx=70178</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=68987"/>
         <updated>2024-12-14T08:00:00.000Z</updated>
         <content type="html"><![CDATA[도덕적 용기란 해를 입을 위험에도 불구하고 자신이 옳다고 믿는 것을 위해 나서는 것을 말한다. 누군가 언어적 물리적 폭력 또는 차별, 성추행 등을 당하는 상황 같이 불의한 상황에서 직접 또는 경찰에 신고를 하는 형태 등으로 나서겠냐고 물으면 많은 사람들이 그럴 것이라고 답하지만 실제로는 훨씬 적은 수의 사람들이 행동에 나선다. 왜 어떤 사람들은 나서고 어떤 사람들은 나서지 않는지에 대해 설명할 때 흔히 다음의 프로세스를 이야기 한다. ① 도덕적으로 그릇된 행위가 나타나고 있다는 상황 인식 ② 불의를 지켜본 사람으로서 나라도 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 계엄군에 맞서는 힘은 어디서 나올까]]></title>
-        <id>https://www.dongascience.com/news.php?idx=68868</id>
-        <link href="https://www.dongascience.com/news.php?idx=68868"/>
-        <updated>2024-12-07T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[“군인들이 압도적으로 강하다는 걸 모르지 않았습니다. 다만 이상한 건, 그들의 힘만큼이나 강렬한 무엇인가가 나를 압도하고 있었다는 겁니다. 양심.그래요, 양심. 세상에서 제일 무서운 게 그겁니다.” -한강 '소년이 온다' 중 압도적이고 강력한 불의를 눈 앞에 두었을 때 특히 국가 권력같이 도저히 개인이 싸워서는 될 것 같지 않은 불가능한 상황에서도 천안문의 탱크맨처럼 맞서는 사람들이 있다. 계란으로 바위치기라는 사실을 알면서도 여전히 저항하는 사람들이 있다. 적어도 이들에게 싸워서 이길 수 있겠냐는 계산은 저...]]></content>
     </entry>
 </feed>
