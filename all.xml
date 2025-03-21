@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 22:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 23:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -848,6 +848,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0616/A0003038831_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 나만 잘살겠다는 이기심이 낳는 불행 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=70705</link>
+            <guid>https://www.dongascience.com/news.php?idx=70705</guid>
+            <pubDate>Sat, 22 Mar 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[인간은 언제나 이해하기 어려운 존재였고 사람들의 정치적인 행동 또한 그러해서 "도대체 왜?"라는 질문을 하게 만드는 경우가 많다. 전세계가 극우화, 정치적 견해 차이의 양극화 등의 현상들을 보이고 있고 미국의 경우 1월 6일 국회의사당을 점거한 폭도들을 전부 사면하는 등 그동안 한 사회가 중요시 여기던 ‘가치’라는 것들이 무너져 내리는 듯한 현상들이 나타나고 있다. 저소득층일수록 자신의 이익에 반하는 투표를 하는 경향 또한 이전부터 존재했으나 최근에는 정부 지출을 최소화하고자 하는 움직임이 급격하게 나...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] '가짜뉴스'로 이득 보는 사람 있다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=70430</link>
             <guid>https://www.dongascience.com/news.php?idx=70430</guid>
@@ -909,13 +916,6 @@
             <guid>https://www.dongascience.com/news.php?idx=69343</guid>
             <pubDate>Sat, 04 Jan 2025 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[찰스 카버 등 자기통제를 연구해온 학자들에 의하면 자기 통제의 가장 기본이 되는 과정은 다음과 같다. ①목표 설정 ②실행 및 모니터링 목표나 실행 과정 개선 ③평가 (개선 과정이 잘 이뤄졌는지) ④최종 평가 (달성해야 할 목표와 현 상태가 얼마나 가까워졌는지 확인) 그리고 다시 이 단계들을 반복하는 것이다. 이를 자기통제의 피드백 프로세스 이론이라고 부른다. 작은 목표를 달성하는 일에도 내가 지금 잘 하고 있는지 확인하고 그렇다면 괜찮지만, 아니라는 판단이 든다면 계속해서 목표 달성 방법이나 목표를 재조정하고 이를 통해 결국 목...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 지키고 싶은 자아상 무너질까 두렵다면? (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=69107</link>
-            <guid>https://www.dongascience.com/news.php?idx=69107</guid>
-            <pubDate>Sat, 21 Dec 2024 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인간은 여러가지로 신기한 동물이다. 특히 ‘자아’, 자기 자신에 대해 의식적으로 생각하는 능력을 갖춘 덕분에 미래에 대한 계획(예를 들어 '나는 XX한 사람이 되고 싶어')이나 자기 성찰(예를 들어 '나의 이런 행동은 좋지 않은 거 같아') 같이 사람을 사람답게 만드는 멋진 기능을 가지게 되었지만 그만큼 큰 부작용 또한 떠안게 되었다. 자아 덕분에 나를 주인공으로 한 원대한 꿈을 가지게 된 반면 내가 초라해지거나 되고 싶지 않은 모습이 되는 것에 대한 걱정과 공포 또한 갖게 되었다. 아무런 나쁜 일이 일어나지 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
