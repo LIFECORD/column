@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 07:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 08:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,6 +768,14 @@
                                     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[극우 결집 저지? 이 일에 가장 적합한 집단이 있다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
+            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003113206</link>
+            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003113206</guid>
+            <pubDate>Mon, 24 Mar 2025 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
+            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2025/0324/A0003113206_T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저 사람이 왜 저러는지 이젠 정말 모르겠다 (오마이뉴스 ─ 신필규 시민기자)]]></title>
             <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003108684</link>
             <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003108684</guid>
@@ -838,14 +846,6 @@
             <pubDate>Mon, 13 Jan 2025 05:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0628/A0003042347_T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판사의 일갈, 아이들 보호에 왜 아무도 나서지 않았나 (오마이뉴스 ─ 신필규 시민기자)]]></title>
-            <link>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</link>
-            <guid>http://star.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0003038831</guid>
-            <pubDate>Mon, 13 Jan 2025 05:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>오름</span><span class="lis-bar">|</span><em class="icon-prm">프리미엄</em>]]></content:encoded>
-            <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0616/A0003038831_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 나만 잘살겠다는 이기심이 낳는 불행 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
