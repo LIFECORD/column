@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 22:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 23:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -848,6 +848,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0628/A0003042347_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] 자존감이 과할 때 나타나는 부작용 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=70836</link>
+            <guid>https://www.dongascience.com/news.php?idx=70836</guid>
+            <pubDate>Sat, 29 Mar 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자존감과 우울증 사이에는 대체로 높은 부적 상관(하나가 높으면 다른 하나는 낮은 관계)이 나타나는 것으로 알려져 있다. 하지만 이것이 곧 높은 자존감(낮은 우울증상)을 보이는 사람들이 대체로 낮은 우울증상(높은 자존감)을 보이는 것인지, 안정적인 개인차가 나타나는 것인지, 아니면 한 사람 안에서 자존감을 ‘낮추는’ 사건이 발생하면 우울증상이 높아지는 현상이 나타나는 것인지(아니면 반대로 우울증상을 높이는 사건이 생기면 자존감이 낮아지는 것인지) 확실히 알려진 바는 없다. 최근 피터 헤이너 취리히대의 심리학자 등...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 나만 잘살겠다는 이기심이 낳는 불행 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=70705</link>
             <guid>https://www.dongascience.com/news.php?idx=70705</guid>
@@ -909,13 +916,6 @@
             <guid>https://www.dongascience.com/news.php?idx=69463</guid>
             <pubDate>Sat, 11 Jan 2025 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[화(anger)와 비슷하지만 조금 다른 친척들이 있다. 바로 분함 또는 적개심(resentment)과 분노, 분개하는 것(indignation)이다. 마리아 미켈리 이탈리아 국립연구위원회 인지과학기술연구소 연구자에 의하면 화, 적개심, 분개하는 것 모두 공격성을 유발하는 감정들이다. 따라서 흔히 거기서 거기라고 생각하기 쉽지만 좀 더 자세히 들여다보면 각 감정들 사이에 큰 차이가 존재한다. 이 중 '화'는 가장 흔히 나타나는 감정으로 의도적 또는 비의도적으로 해를 입은 경우에 발생한다. 어떤 사람 또는 상황으로부터 해를 입어 자신이 추구하려...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 나를 아는 것, 목표 달성 성패 가른다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=69343</link>
-            <guid>https://www.dongascience.com/news.php?idx=69343</guid>
-            <pubDate>Sat, 04 Jan 2025 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[찰스 카버 등 자기통제를 연구해온 학자들에 의하면 자기 통제의 가장 기본이 되는 과정은 다음과 같다. ①목표 설정 ②실행 및 모니터링 목표나 실행 과정 개선 ③평가 (개선 과정이 잘 이뤄졌는지) ④최종 평가 (달성해야 할 목표와 현 상태가 얼마나 가까워졌는지 확인) 그리고 다시 이 단계들을 반복하는 것이다. 이를 자기통제의 피드백 프로세스 이론이라고 부른다. 작은 목표를 달성하는 일에도 내가 지금 잘 하고 있는지 확인하고 그렇다면 괜찮지만, 아니라는 판단이 든다면 계속해서 목표 달성 방법이나 목표를 재조정하고 이를 통해 결국 목...]]></content:encoded>
         </item>
     </channel>
 </rss>
