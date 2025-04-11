@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 22:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 23:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://ojsfile.ohmynews.com/AT_T_IMG/2024/0628/A0003042347_T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학] '초과근무', 반드시 좋은 성과 낳는 건 아니다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=71096</link>
+            <guid>https://www.dongascience.com/news.php?idx=71096</guid>
+            <pubDate>Sat, 12 Apr 2025 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 10년이 훨씬 지난 이야기지만 야근이 잦은 회사에서 잠시 일한 적이 있다. 일의 성과보다도 엉덩이가 무겁게 회사에 ‘오래’ 붙어있는 것이 충성심(?)과 성실함의 상징으로 여겨지는 곳이었다. 특이한 현상들을 많이 관찰 할 수 있었지만 그 중 하나는 낮에는 아무도 일을 하지 않는 것이었다. 낮 시간에 일을 열심히 하든 안하든 그것과 상관 없이 어차피 야근을 할 것이므로 다들 한 두 시간이면 할 수 있는 일을 하루 종일 들고 있다가 저녁이 되면 그제서야 시작하는 식이었다. 오랜 시간 일하는 관행이 곧 높은 생산성으로 이어질...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] "어차피 저 사람과는 안돼"…부정 결론 서두르는 이유 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=70967</link>
             <guid>https://www.dongascience.com/news.php?idx=70967</guid>
@@ -149,13 +156,6 @@
             <guid>https://www.dongascience.com/news.php?idx=69747</guid>
             <pubDate>Sat, 25 Jan 2025 08:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언젠가 사회적 이슈에 대한 생각이 맞지 않아서 친구와 티격태격 했던 때가 있다. 그 때 대화를 마무리하며 친구가 “너 같이 생각하는 사람도 사회에 필요할 거야”라고 했었는데 그 친구는 그냥 지나가면서 한 말이겠지만 아직도 종종 생각나곤 한다. 서로 의견이 맞지는 않았지만 ‘다를 수도 있지’에서 나아가서 ‘(어쩌면 내가 잘 모를 뿐)네 의견도 일리가 있을 것’이라고 이야기해 준 것 같아서 기억에 남아 있다. 지금도 생각이 서로 다를 때가 있지만 오래도록 좋은 관계를 유지하고 있다. 보통 의견이 부...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 차별적 판단과 편견을 줄이려면 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=69603</link>
-            <guid>https://www.dongascience.com/news.php?idx=69603</guid>
-            <pubDate>Sat, 18 Jan 2025 08:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[성별 또는 인종 등으로 인한 차별을 막는 것은 심리학자들의 오랜 과제였다. 자신의 고정관념과 편견이 얼마나 사실로부터 어긋나는지 확인하도록 하기, 사람들은 특정 카테고리(예를 들어 국적, 성별, 피부색)에 의해 차이가 나는 부분보다 그렇지 않은, 똑같은 사람으로서 가지는 공통점이 훨씬 많다는 사실 강조하기 등 팩트체크 또는 내집단(ingroup) 바운더리를 재정의하게 만드는 것의 효과에 관한 연구들이 다수 있었다. 또한 사람들로 하여금 자신의 ‘내면’을 돌아보며 자신이 얼마나 편견에 쉽게 물들기 쉬운 존재인지 깨우쳐서...]]></content:encoded>
         </item>
     </channel>
 </rss>
